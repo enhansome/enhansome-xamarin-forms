@@ -301,10 +301,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-13T00:40:25Z",
+            "last_commit": "2026-08-13T17:34:18Z",
             "owner": "dotnet",
             "repo": "efcore",
-            "stars": 14768
+            "stars": 14772
           }
         },
         {
@@ -318,7 +318,7 @@
             "last_commit": "2026-08-11T06:00:45Z",
             "owner": "litedb-org",
             "repo": "LiteDB",
-            "stars": 9452
+            "stars": 9451
           }
         },
         {
@@ -343,7 +343,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-11T21:54:44Z",
+            "last_commit": "2026-08-13T15:56:27Z",
             "owner": "reactiveui",
             "repo": "Akavache",
             "stars": 2552
@@ -493,7 +493,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-13T03:47:55Z",
+            "last_commit": "2026-08-13T15:43:28Z",
             "owner": "MvvmCross",
             "repo": "MvvmCross",
             "stars": 3922
@@ -2317,10 +2317,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-12T14:52:36Z",
+            "last_commit": "2026-08-13T14:42:55Z",
             "owner": "JamesNK",
             "repo": "Newtonsoft.Json",
-            "stars": 11311
+            "stars": 11310
           }
         },
         {
@@ -2334,7 +2334,7 @@
             "last_commit": "2022-05-16T05:46:16Z",
             "owner": "neuecc",
             "repo": "Utf8Json",
-            "stars": 2384
+            "stars": 2383
           }
         }
       ],
@@ -2388,7 +2388,7 @@
             "last_commit": "2026-07-12T18:16:07Z",
             "owner": "Genymobile",
             "repo": "scrcpy",
-            "stars": 147523
+            "stars": 147571
           }
         },
         {
@@ -2402,7 +2402,7 @@
             "last_commit": "2026-06-21T10:29:45Z",
             "owner": "RicoSuter",
             "repo": "NSwag",
-            "stars": 7356
+            "stars": 7357
           }
         },
         {
@@ -2798,7 +2798,7 @@
             "last_commit": "2023-10-29T02:29:29Z",
             "owner": "dotnet",
             "repo": "Microsoft.Maui.Graphics.Controls",
-            "stars": 667
+            "stars": 668
           }
         },
         {
@@ -2854,7 +2854,7 @@
             "last_commit": "2025-10-25T00:16:51Z",
             "owner": "roubachof",
             "repo": "Sharpnado.Tabs",
-            "stars": 578
+            "stars": 579
           }
         },
         {
@@ -6654,7 +6654,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:33:19.177Z",
+    "last_updated": "2026-08-13T18:56:12.978Z",
     "original_repository": "jsuarezruiz/awesome-xamarin-forms",
     "original_repository_sha": "54df77dca6f9d8195ca43b3e561dfdc691ebe4fc",
     "enhanced_repository": "enhansome/enhansome-xamarin-forms",
