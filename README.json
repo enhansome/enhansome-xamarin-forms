@@ -301,7 +301,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-15T00:59:09Z",
+            "last_commit": "2026-08-17T18:12:53Z",
             "owner": "dotnet",
             "repo": "efcore",
             "stars": 14769
@@ -332,7 +332,7 @@
             "last_commit": "2026-07-13T16:23:53Z",
             "owner": "praeclarum",
             "repo": "sqlite-net",
-            "stars": 4457
+            "stars": 4458
           }
         },
         {
@@ -343,7 +343,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-16T17:46:52Z",
+            "last_commit": "2026-08-17T12:50:28Z",
             "owner": "reactiveui",
             "repo": "Akavache",
             "stars": 2552
@@ -482,7 +482,7 @@
             "last_commit": "2026-08-06T01:21:10Z",
             "owner": "PrismLibrary",
             "repo": "Prism",
-            "stars": 6830
+            "stars": 6832
           }
         },
         {
@@ -493,10 +493,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-16T03:20:44Z",
+            "last_commit": "2026-08-17T07:17:22Z",
             "owner": "MvvmCross",
             "repo": "MvvmCross",
-            "stars": 3921
+            "stars": 3922
           }
         },
         {
@@ -2123,7 +2123,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-12T15:16:52Z",
+            "last_commit": "2026-08-17T09:45:25Z",
             "owner": "TheCodeTraveler",
             "repo": "AsyncAwaitBestPractices",
             "stars": 1839
@@ -2320,7 +2320,7 @@
             "last_commit": "2026-08-13T14:42:55Z",
             "owner": "JamesNK",
             "repo": "Newtonsoft.Json",
-            "stars": 11307
+            "stars": 11309
           }
         },
         {
@@ -2385,10 +2385,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-14T15:22:32Z",
+            "last_commit": "2026-08-17T10:27:07Z",
             "owner": "Genymobile",
             "repo": "scrcpy",
-            "stars": 147765
+            "stars": 147807
           }
         },
         {
@@ -2714,7 +2714,7 @@
             "last_commit": "2023-03-16T16:01:13Z",
             "owner": "luberda-molinet",
             "repo": "FFImageLoading",
-            "stars": 1403
+            "stars": 1402
           }
         },
         {
@@ -2756,7 +2756,7 @@
             "last_commit": "2025-06-05T17:09:53Z",
             "owner": "aritchie",
             "repo": "userdialogs",
-            "stars": 992
+            "stars": 991
           }
         },
         {
@@ -6654,7 +6654,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T18:20:24.867Z",
+    "last_updated": "2026-08-17T18:30:59.653Z",
     "original_repository": "jsuarezruiz/awesome-xamarin-forms",
     "original_repository_sha": "54df77dca6f9d8195ca43b3e561dfdc691ebe4fc",
     "enhanced_repository": "enhansome/enhansome-xamarin-forms",
