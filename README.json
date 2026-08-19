@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 80740542,
             "language": "C#",
             "last_commit": "2024-04-05T08:02:21Z",
             "owner": "Baseflow",
             "repo": "LottieXamarin",
-            "stars": 1212
+            "stars": 1213
           }
         },
         {
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 48801449,
             "language": "C#",
             "last_commit": "2021-07-05T12:30:02Z",
             "owner": "jsuarezruiz",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 53809816,
             "language": "C#",
             "last_commit": "2019-11-27T21:43:35Z",
             "owner": "AlexandrNikulin",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 65038879,
             "language": "C#",
             "last_commit": "2020-02-07T18:47:28Z",
             "owner": "OliveTreeBible",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 152561805,
             "language": "C#",
             "last_commit": "2022-06-22T20:21:04Z",
             "owner": "Binwell",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 152616716,
             "language": "C#",
             "last_commit": "2018-10-16T15:38:00Z",
             "owner": "takecx",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 145463085,
             "language": null,
             "last_commit": "2018-08-27T16:28:46Z",
             "owner": "GiampaoloGabba",
@@ -105,7 +112,7 @@
       "title": "Animations"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -114,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 94273923,
             "language": "C#",
             "last_commit": "2022-12-07T19:46:33Z",
             "owner": "praeclarum",
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 103846660,
             "language": "C#",
             "last_commit": "2019-06-03T13:35:42Z",
             "owner": "aosoft",
@@ -142,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 164331786,
             "language": "C#",
             "last_commit": "2022-12-08T02:19:26Z",
             "owner": "legistek",
@@ -156,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 99782613,
             "language": "C#",
             "last_commit": "2019-08-25T06:47:38Z",
             "owner": "aosoft",
@@ -167,7 +178,7 @@
       "title": "Backends (Other platforms)"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -176,6 +187,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 52267992,
             "language": "C#",
             "last_commit": "2022-03-11T17:12:44Z",
             "owner": "davidbritch",
@@ -190,6 +202,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 93820516,
             "language": "C#",
             "last_commit": "2021-03-17T20:12:37Z",
             "owner": "nuitsjp",
@@ -204,6 +217,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 31121916,
             "language": "C#",
             "last_commit": "2023-09-26T17:01:39Z",
             "owner": "corradocavalli",
@@ -218,6 +232,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 138047010,
             "language": "C#",
             "last_commit": "2023-06-02T00:37:59Z",
             "owner": "TBertuzzi",
@@ -229,7 +244,7 @@
       "title": "Behaviors"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -238,6 +253,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 153792314,
             "language": "C#",
             "last_commit": "2020-08-29T01:13:02Z",
             "owner": "TBertuzzi",
@@ -252,6 +268,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 202200371,
             "language": "C#",
             "last_commit": "2021-07-22T20:58:16Z",
             "owner": "saimel",
@@ -266,6 +283,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 231377637,
             "language": "C#",
             "last_commit": "2020-10-02T14:46:42Z",
             "owner": "ksivamuthu",
@@ -280,6 +298,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 218299210,
             "language": "C#",
             "last_commit": "2019-10-29T16:11:15Z",
             "owner": "BrettSheleski",
@@ -291,7 +310,7 @@
       "title": "Converters"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -300,11 +319,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16157746,
             "language": "C#",
-            "last_commit": "2026-08-18T17:33:06Z",
+            "last_commit": "2026-08-18T23:50:27Z",
             "owner": "dotnet",
             "repo": "efcore",
-            "stars": 14769
+            "stars": 14771
           }
         },
         {
@@ -314,11 +334,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23315232,
             "language": "C#",
             "last_commit": "2026-08-11T06:00:45Z",
             "owner": "litedb-org",
             "repo": "LiteDB",
-            "stars": 9458
+            "stars": 9459
           }
         },
         {
@@ -328,11 +349,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1666245,
             "language": "C#",
             "last_commit": "2026-07-13T16:23:53Z",
             "owner": "praeclarum",
             "repo": "sqlite-net",
-            "stars": 4458
+            "stars": 4459
           }
         },
         {
@@ -342,11 +364,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2896461,
             "language": "C#",
             "last_commit": "2026-08-17T12:50:28Z",
             "owner": "reactiveui",
             "repo": "Akavache",
-            "stars": 2552
+            "stars": 2553
           }
         },
         {
@@ -356,6 +379,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22739272,
             "language": null,
             "last_commit": "2024-03-05T20:55:37Z",
             "owner": "Azure",
@@ -370,24 +394,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 190053765,
             "language": "Dart",
             "last_commit": "2022-12-08T14:51:25Z",
             "owner": "aldycool",
             "repo": "NETCoreSync",
             "stars": 79
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Azure Mobile Apps ★120",
-          "description": "Offline sync-enabled Xamarin apps that connect to Azure Mobile App.",
-          "children": []
         }
       ],
       "title": "Database"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -396,6 +415,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 98308510,
             "language": "C#",
             "last_commit": "2021-02-08T10:25:04Z",
             "owner": "mrxten",
@@ -410,6 +430,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 74570531,
             "language": "C#",
             "last_commit": "2024-07-24T03:58:11Z",
             "owner": "muak",
@@ -424,6 +445,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 159392439,
             "language": "C#",
             "last_commit": "2022-07-01T03:51:56Z",
             "owner": "masonyc",
@@ -435,7 +457,7 @@
       "title": "Effects"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -444,6 +466,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 304403328,
             "language": "C#",
             "last_commit": "2020-10-27T21:56:52Z",
             "owner": "dimonovdd",
@@ -458,6 +481,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 303433208,
             "language": "C#",
             "last_commit": "2020-10-27T22:00:27Z",
             "owner": "dimonovdd",
@@ -469,7 +493,7 @@
       "title": "Images and Icons"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -478,11 +502,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 31335300,
             "language": "C#",
             "last_commit": "2026-08-06T01:21:10Z",
             "owner": "PrismLibrary",
             "repo": "Prism",
-            "stars": 6832
+            "stars": 6833
           }
         },
         {
@@ -492,11 +517,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2870911,
             "language": "C#",
-            "last_commit": "2026-08-18T07:07:20Z",
+            "last_commit": "2026-08-19T06:43:10Z",
             "owner": "MvvmCross",
             "repo": "MvvmCross",
-            "stars": 3922
+            "stars": 3923
           }
         },
         {
@@ -506,11 +532,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 35277511,
             "language": "C#",
             "last_commit": "2022-02-11T22:19:52Z",
             "owner": "rid00z",
             "repo": "FreshMvvm",
-            "stars": 588
+            "stars": 589
           }
         },
         {
@@ -520,6 +547,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 66856098,
             "language": "C#",
             "last_commit": "2020-06-25T10:59:53Z",
             "owner": "xamarinhq",
@@ -534,6 +562,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 42120981,
             "language": "C#",
             "last_commit": "2022-10-18T13:38:31Z",
             "owner": "xamvvm",
@@ -548,6 +577,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 101756061,
             "language": "C#",
             "last_commit": "2023-03-03T18:17:01Z",
             "owner": "TinyStuff",
@@ -562,6 +592,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 48808621,
             "language": "C#",
             "last_commit": "2021-04-05T17:49:16Z",
             "owner": "aspnetde",
@@ -576,6 +607,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 160399863,
             "language": "C#",
             "last_commit": "2021-04-19T20:04:59Z",
             "owner": "TBertuzzi",
@@ -590,6 +622,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 95292045,
             "language": "C#",
             "last_commit": "2018-03-27T02:26:42Z",
             "owner": "codemillmatt",
@@ -604,6 +637,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 241951899,
             "language": "C#",
             "last_commit": "2022-12-08T09:46:47Z",
             "owner": "ChasakisD",
@@ -618,6 +652,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 166805568,
             "language": "C#",
             "last_commit": "2023-02-09T15:10:56Z",
             "owner": "nightlybuilds-net",
@@ -632,6 +667,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 158048579,
             "language": "C#",
             "last_commit": "2019-01-02T08:55:47Z",
             "owner": "bulubuloa",
@@ -646,6 +682,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 221125082,
             "language": "C#",
             "last_commit": "2025-04-20T05:10:10Z",
             "owner": "yariker",
@@ -660,24 +697,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 186603323,
             "language": "C#",
             "last_commit": "2019-05-13T22:20:56Z",
             "owner": "giusepe",
             "repo": "Sextant",
             "stars": 1
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Cocos.Xamarin.Forms",
-          "description": "Simple framework that provides base classes for View and ViewModel in MVVM architectural pattern.",
-          "children": []
         }
       ],
       "title": "MVVM"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -686,6 +718,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 120334619,
             "language": "F#",
             "last_commit": "2025-11-14T16:15:20Z",
             "owner": "fabulous-dev",
@@ -700,24 +733,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 148056918,
             "language": "F#",
             "last_commit": "2023-01-01T19:51:17Z",
             "owner": "Zaid-Ajaj",
             "repo": "fabulous-simple-elements",
             "stars": 45
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Fun.LightForm ★1",
-          "description": "This is a light form library for Fable and Xamarin Fabulous in elmish style.",
-          "children": []
         }
       ],
       "title": "Elmish"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -726,6 +754,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 133664667,
             "language": "C#",
             "last_commit": "2018-12-02T14:47:03Z",
             "owner": "ionoy",
@@ -740,6 +769,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 145317413,
             "language": "C#",
             "last_commit": "2021-01-11T20:38:20Z",
             "owner": "dariodotnet",
@@ -754,6 +784,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 393949996,
             "language": "C#",
             "last_commit": "2025-07-01T21:00:21Z",
             "owner": "SnowPowerCore",
@@ -765,7 +796,7 @@
       "title": "Frameworks"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -774,6 +805,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 185018733,
             "language": "C#",
             "last_commit": "2022-12-08T05:30:48Z",
             "owner": "jsuarezruiz",
@@ -788,6 +820,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 259445467,
             "language": "C#",
             "last_commit": "2020-08-11T20:35:38Z",
             "owner": "jonathanpeppers",
@@ -799,7 +832,7 @@
       "title": "Performance"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -808,11 +841,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 136175474,
             "language": "C#",
             "last_commit": "2026-08-05T15:50:21Z",
             "owner": "videolan",
             "repo": "libvlcsharp",
-            "stars": 1805
+            "stars": 1806
           }
         },
         {
@@ -822,6 +856,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 122229247,
             "language": "C#",
             "last_commit": "2024-05-01T11:33:34Z",
             "owner": "xamarin",
@@ -836,6 +871,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6160673,
             "language": "C#",
             "last_commit": "2024-05-24T00:27:28Z",
             "owner": "Redth",
@@ -850,6 +886,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 126183558,
             "language": "C#",
             "last_commit": "2026-05-29T16:52:43Z",
             "owner": "VincentH-Net",
@@ -864,11 +901,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 39155970,
             "language": "C#",
             "last_commit": "2024-07-03T14:22:02Z",
             "owner": "Baseflow",
             "repo": "XamarinMediaManager",
-            "stars": 761
+            "stars": 762
           }
         },
         {
@@ -878,6 +916,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 78153040,
             "language": "C#",
             "last_commit": "2026-05-03T18:42:38Z",
             "owner": "jamesmontemagno",
@@ -892,6 +931,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 62146891,
             "language": "C#",
             "last_commit": "2024-07-05T17:53:01Z",
             "owner": "jamesmontemagno",
@@ -906,6 +946,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 150206895,
             "language": "C#",
             "last_commit": "2026-07-22T21:19:44Z",
             "owner": "thudugala",
@@ -920,6 +961,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 191493688,
             "language": "C#",
             "last_commit": "2025-09-04T12:19:57Z",
             "owner": "JimmyPun610",
@@ -934,6 +976,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 62147029,
             "language": "C#",
             "last_commit": "2022-09-21T00:18:23Z",
             "owner": "jamesmontemagno",
@@ -948,6 +991,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 62146791,
             "language": "C#",
             "last_commit": "2021-10-04T20:49:00Z",
             "owner": "jamesmontemagno",
@@ -962,6 +1006,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 62146975,
             "language": "C#",
             "last_commit": "2023-04-03T20:24:05Z",
             "owner": "jamesmontemagno",
@@ -976,6 +1021,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28774229,
             "language": "C#",
             "last_commit": "2021-01-08T13:50:52Z",
             "owner": "EgorBo",
@@ -990,6 +1036,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 300844166,
             "language": "C#",
             "last_commit": "2026-07-13T13:24:29Z",
             "owner": "melihercan",
@@ -1004,6 +1051,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 62146459,
             "language": "C#",
             "last_commit": "2023-04-03T20:35:23Z",
             "owner": "jamesmontemagno",
@@ -1018,6 +1066,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 70835608,
             "language": "C#",
             "last_commit": "2020-05-08T13:21:06Z",
             "owner": "jsmarcus",
@@ -1032,6 +1081,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 142560767,
             "language": "C#",
             "last_commit": "2023-02-21T06:18:04Z",
             "owner": "AndreiMisiukevich",
@@ -1046,6 +1096,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 356916596,
             "language": "C#",
             "last_commit": "2026-04-02T20:52:24Z",
             "owner": "dimonovdd",
@@ -1060,6 +1111,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 60303504,
             "language": "C#",
             "last_commit": "2023-04-03T20:32:34Z",
             "owner": "jamesmontemagno",
@@ -1074,6 +1126,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 80820111,
             "language": "C#",
             "last_commit": "2022-12-07T20:32:12Z",
             "owner": "SKLn-Rad",
@@ -1088,6 +1141,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 79305271,
             "language": "C#",
             "last_commit": "2025-12-05T01:32:58Z",
             "owner": "adrianstevens",
@@ -1102,6 +1156,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 148703416,
             "language": "C#",
             "last_commit": "2019-02-22T20:07:20Z",
             "owner": "winstongubantes",
@@ -1116,6 +1171,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28545179,
             "language": "C#",
             "last_commit": "2019-06-29T03:54:01Z",
             "owner": "jguertl",
@@ -1130,6 +1186,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 140177920,
             "language": "C#",
             "last_commit": "2019-07-02T22:28:10Z",
             "owner": "jonathanpeppers",
@@ -1144,6 +1201,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 129582713,
             "language": "C#",
             "last_commit": "2018-04-15T16:10:09Z",
             "owner": "praeclarum",
@@ -1158,6 +1216,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 159392439,
             "language": "C#",
             "last_commit": "2022-07-01T03:51:56Z",
             "owner": "masonyc",
@@ -1172,6 +1231,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 148716281,
             "language": "C#",
             "last_commit": "2022-12-08T03:45:26Z",
             "owner": "aritchie",
@@ -1186,6 +1246,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 79738813,
             "language": "C#",
             "last_commit": "2020-08-16T02:01:15Z",
             "owner": "TheCodeTraveler",
@@ -1200,6 +1261,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 51876605,
             "language": "C#",
             "last_commit": "2020-01-07T18:54:34Z",
             "owner": "AlejandroRuiz",
@@ -1214,6 +1276,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 161403629,
             "language": "C#",
             "last_commit": "2022-12-08T19:18:30Z",
             "owner": "AndreiMisiukevich",
@@ -1228,6 +1291,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 112783960,
             "language": "C#",
             "last_commit": "2018-09-06T04:27:52Z",
             "owner": "SuavePirate",
@@ -1242,6 +1306,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 58998098,
             "language": "C#",
             "last_commit": "2020-12-13T16:46:16Z",
             "owner": "KSemenenko",
@@ -1256,6 +1321,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 39504890,
             "language": "C#",
             "last_commit": "2021-08-04T21:19:26Z",
             "owner": "aritchie",
@@ -1270,6 +1336,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 60303630,
             "language": "C#",
             "last_commit": "2023-04-03T20:36:23Z",
             "owner": "jamesmontemagno",
@@ -1284,6 +1351,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 52119456,
             "language": "C#",
             "last_commit": "2017-11-03T19:11:44Z",
             "owner": "colbylwilliams",
@@ -1298,6 +1366,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 286490477,
             "language": "C#",
             "last_commit": "2023-06-19T07:37:15Z",
             "owner": "galadril",
@@ -1312,6 +1381,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 97881584,
             "language": "C#",
             "last_commit": "2022-12-08T01:57:48Z",
             "owner": "NateRickard",
@@ -1326,6 +1396,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 97881584,
             "language": "C#",
             "last_commit": "2022-12-08T01:57:48Z",
             "owner": "NateRickard",
@@ -1340,6 +1411,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 116733166,
             "language": "C#",
             "last_commit": "2019-10-28T20:54:23Z",
             "owner": "jimbobbennett",
@@ -1354,6 +1426,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 123684221,
             "language": "C#",
             "last_commit": "2021-04-07T21:15:53Z",
             "owner": "enisn",
@@ -1368,6 +1441,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 31000212,
             "language": "C#",
             "last_commit": "2019-10-29T15:46:50Z",
             "owner": "poz1",
@@ -1382,6 +1456,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 60303675,
             "language": "C#",
             "last_commit": "2023-04-03T20:33:34Z",
             "owner": "jamesmontemagno",
@@ -1396,6 +1471,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 51552404,
             "language": "C#",
             "last_commit": "2023-04-03T20:37:10Z",
             "owner": "jamesmontemagno",
@@ -1410,6 +1486,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 130888941,
             "language": "C#",
             "last_commit": "2018-05-15T12:40:48Z",
             "owner": "xamarin",
@@ -1424,6 +1501,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 61067391,
             "language": "C#",
             "last_commit": "2026-05-14T09:55:04Z",
             "owner": "XPlat-Apps",
@@ -1438,6 +1516,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 332031497,
             "language": "C#",
             "last_commit": "2021-06-09T21:01:08Z",
             "owner": "dimonovdd",
@@ -1452,6 +1531,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 105713992,
             "language": "C#",
             "last_commit": "2020-07-10T17:45:47Z",
             "owner": "wilsonvargas",
@@ -1466,6 +1546,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 102461679,
             "language": "C#",
             "last_commit": "2024-09-26T17:38:40Z",
             "owner": "TinyStuff",
@@ -1480,6 +1561,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 118508657,
             "language": "C#",
             "last_commit": "2022-12-08T00:48:02Z",
             "owner": "adenearnshaw",
@@ -1494,6 +1576,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 154875135,
             "language": "C#",
             "last_commit": "2023-11-05T15:47:05Z",
             "owner": "angelinn",
@@ -1508,6 +1591,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 123971275,
             "language": "C#",
             "last_commit": "2020-01-06T18:18:52Z",
             "owner": "chkn",
@@ -1522,6 +1606,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 60303432,
             "language": "C#",
             "last_commit": "2023-04-03T20:37:54Z",
             "owner": "jamesmontemagno",
@@ -1536,6 +1621,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 103584966,
             "language": "C#",
             "last_commit": "2019-08-30T19:47:12Z",
             "owner": "james-russo",
@@ -1550,6 +1636,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 58031192,
             "language": "C#",
             "last_commit": "2022-11-27T19:50:17Z",
             "owner": "TinyStuff",
@@ -1564,6 +1651,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 212987600,
             "language": "C#",
             "last_commit": "2020-05-20T16:09:57Z",
             "owner": "mshwf",
@@ -1578,6 +1666,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 60303461,
             "language": "C#",
             "last_commit": "2023-04-03T20:31:21Z",
             "owner": "jamesmontemagno",
@@ -1592,6 +1681,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 170618360,
             "language": "C#",
             "last_commit": "2022-07-20T06:26:14Z",
             "owner": "JimmyPun610",
@@ -1606,6 +1696,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 270143502,
             "language": "C#",
             "last_commit": "2020-07-28T23:37:52Z",
             "owner": "rdelrosario",
@@ -1620,6 +1711,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 183983164,
             "language": "C#",
             "last_commit": "2020-05-18T22:16:27Z",
             "owner": "thudugala",
@@ -1634,6 +1726,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 174469124,
             "language": "C#",
             "last_commit": "2022-03-25T10:01:26Z",
             "owner": "JimmyPun610",
@@ -1648,6 +1741,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 100621623,
             "language": "C#",
             "last_commit": "2021-04-04T16:23:05Z",
             "owner": "TinyStuff",
@@ -1662,6 +1756,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 112250873,
             "language": "C#",
             "last_commit": "2018-09-11T07:40:09Z",
             "owner": "TinyStuff",
@@ -1676,6 +1771,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 209378690,
             "language": "C#",
             "last_commit": "2019-10-17T19:40:24Z",
             "owner": "officialdoniald",
@@ -1690,6 +1786,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 113625084,
             "language": "C#",
             "last_commit": "2018-08-21T05:00:52Z",
             "owner": "PureWeen",
@@ -1704,6 +1801,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 159984278,
             "language": "C#",
             "last_commit": "2020-04-03T11:25:40Z",
             "owner": "breekmd",
@@ -1718,6 +1816,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 58149618,
             "language": "C#",
             "last_commit": "2022-06-22T17:56:43Z",
             "owner": "dotnet-ad",
@@ -1732,6 +1831,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 131402783,
             "language": "C#",
             "last_commit": "2019-06-16T09:22:34Z",
             "owner": "devinZhou102",
@@ -1746,6 +1846,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 128700338,
             "language": "C#",
             "last_commit": "2018-05-22T03:14:36Z",
             "owner": "SkyeHoefling",
@@ -1760,6 +1861,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 282345364,
             "language": "C#",
             "last_commit": "2021-01-29T19:48:42Z",
             "owner": "GiampaoloGabba",
@@ -1774,6 +1876,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 140323440,
             "language": "C#",
             "last_commit": "2025-05-22T15:23:50Z",
             "owner": "launchdarkly",
@@ -1788,6 +1891,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 163055144,
             "language": "C#",
             "last_commit": "2022-07-30T00:44:11Z",
             "owner": "marcusts",
@@ -1802,6 +1906,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 192476254,
             "language": "C#",
             "last_commit": "2025-08-22T04:14:37Z",
             "owner": "davepruitt",
@@ -1816,6 +1921,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 116812920,
             "language": "C#",
             "last_commit": "2018-01-25T15:13:26Z",
             "owner": "DevsDNA",
@@ -1830,6 +1936,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 149471357,
             "language": "C#",
             "last_commit": "2021-07-18T12:21:12Z",
             "owner": "smarongiu",
@@ -1844,6 +1951,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 248721068,
             "language": "C#",
             "last_commit": "2023-08-13T12:50:19Z",
             "owner": "galadril",
@@ -1858,6 +1966,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 248721068,
             "language": "C#",
             "last_commit": "2023-08-13T12:50:19Z",
             "owner": "galadril",
@@ -1872,6 +1981,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 253437531,
             "language": "C#",
             "last_commit": "2021-12-17T19:10:10Z",
             "owner": "LuckyDucko",
@@ -1886,6 +1996,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 270617378,
             "language": "C#",
             "last_commit": "2021-07-29T07:13:34Z",
             "owner": "LuckyDucko",
@@ -1900,6 +2011,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 222714562,
             "language": "C#",
             "last_commit": "2020-02-19T11:53:16Z",
             "owner": "adia-technology",
@@ -1914,6 +2026,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 304005503,
             "language": "C#",
             "last_commit": "2020-10-22T22:05:08Z",
             "owner": "dimonovdd",
@@ -1928,6 +2041,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 88718835,
             "language": "C#",
             "last_commit": "2019-07-23T04:28:36Z",
             "owner": "muak",
@@ -1942,6 +2056,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 119101316,
             "language": "C#",
             "last_commit": "2022-12-08T04:35:39Z",
             "owner": "peterfournier",
@@ -1956,6 +2071,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 241724660,
             "language": "C#",
             "last_commit": "2021-12-07T12:46:22Z",
             "owner": "PawKanarek",
@@ -1970,6 +2086,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 140666227,
             "language": "C#",
             "last_commit": "2021-01-10T00:10:01Z",
             "owner": "Akinnagbe",
@@ -1984,6 +2101,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 115278551,
             "language": "C#",
             "last_commit": "2019-04-24T23:38:28Z",
             "owner": "enisn",
@@ -1998,6 +2116,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 391503174,
             "language": "C#",
             "last_commit": "2025-09-22T11:12:01Z",
             "owner": "passxyz",
@@ -2012,6 +2131,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 170248972,
             "language": "C#",
             "last_commit": "2021-02-23T01:55:51Z",
             "owner": "JimmyPun610",
@@ -2026,6 +2146,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 220729288,
             "language": "C#",
             "last_commit": "2024-11-05T08:09:42Z",
             "owner": "mtonosaki",
@@ -2040,6 +2161,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 137789577,
             "language": "C#",
             "last_commit": "2018-11-11T10:34:44Z",
             "owner": "Inrego",
@@ -2054,6 +2176,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 158548440,
             "language": "C#",
             "last_commit": "2019-09-10T09:15:06Z",
             "owner": "enagora",
@@ -2068,6 +2191,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 452473720,
             "language": "C#",
             "last_commit": "2022-04-17T09:37:15Z",
             "owner": "CjDave",
@@ -2082,24 +2206,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 61337540,
             "language": "C#",
             "last_commit": "2022-12-08T08:58:27Z",
             "owner": "RazerMS",
             "repo": "Mobile-XDK-RazerMS_Xamarin_Forms",
             "stars": 0
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Xamarinos.AdMob.FormsPlugin",
-          "description": "AdMob Plugin for Xamarin.Forms.",
-          "children": []
         }
       ],
       "title": "Plugins"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2108,11 +2227,12 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 19216825,
             "language": "C#",
             "last_commit": "2024-02-07T17:17:03Z",
             "owner": "xamarin",
             "repo": "xamarin-forms-samples",
-            "stars": 4248
+            "stars": 4247
           }
         },
         {
@@ -2122,8 +2242,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 118641651,
             "language": "C#",
-            "last_commit": "2026-08-17T09:45:25Z",
+            "last_commit": "2026-08-19T09:23:02Z",
             "owner": "TheCodeTraveler",
             "repo": "AsyncAwaitBestPractices",
             "stars": 1839
@@ -2136,6 +2257,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20261495,
             "language": "C#",
             "last_commit": "2022-06-22T18:04:24Z",
             "owner": "conceptdev",
@@ -2150,6 +2272,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 37088920,
             "language": "C#",
             "last_commit": "2024-09-23T14:32:40Z",
             "owner": "PrismLibrary",
@@ -2164,6 +2287,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 140599088,
             "language": "C#",
             "last_commit": "2020-01-13T01:58:52Z",
             "owner": "davidortinau",
@@ -2178,6 +2302,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 138183614,
             "language": "C#",
             "last_commit": "2019-05-21T18:13:26Z",
             "owner": "davidortinau",
@@ -2192,6 +2317,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 253075711,
             "language": null,
             "last_commit": "2022-06-15T21:27:07Z",
             "owner": "alexandresanlim",
@@ -2206,6 +2332,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 26450533,
             "language": "C#",
             "last_commit": "2018-08-31T19:01:05Z",
             "owner": "charlespetzold",
@@ -2220,6 +2347,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 142123206,
             "language": "C#",
             "last_commit": "2019-04-18T12:15:13Z",
             "owner": "Samsung",
@@ -2234,6 +2362,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 159559408,
             "language": "C#",
             "last_commit": "2019-04-06T16:02:08Z",
             "owner": "davidortinau",
@@ -2248,6 +2377,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 142751430,
             "language": "C#",
             "last_commit": "2018-08-15T11:55:22Z",
             "owner": "jsuarezruiz",
@@ -2262,6 +2392,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 222762488,
             "language": "C#",
             "last_commit": "2021-07-19T18:08:17Z",
             "owner": "tscholze",
@@ -2276,6 +2407,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 142751412,
             "language": "C#",
             "last_commit": "2018-09-04T19:08:00Z",
             "owner": "jsuarezruiz",
@@ -2290,24 +2422,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 228668123,
             "language": "C#",
             "last_commit": "2020-03-20T00:48:12Z",
             "owner": "UdaraAlwis",
             "repo": "XFShellAdvThemeing",
             "stars": 11
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Xamarin.Forms.UWPShell.Sample ★13",
-          "description": "Sample app for testing forms UWP shell implementation (make sure you get submodule).",
-          "children": []
         }
       ],
       "title": "Samples"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2316,6 +2443,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3476845,
             "language": "C#",
             "last_commit": "2026-08-13T14:42:55Z",
             "owner": "JamesNK",
@@ -2330,18 +2458,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 103818079,
             "language": "C#",
             "last_commit": "2022-05-16T05:46:16Z",
             "owner": "neuecc",
             "repo": "Utf8Json",
-            "stars": 2383
+            "stars": 2384
           }
         }
       ],
       "title": "Serialization"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2350,6 +2479,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 77477979,
             "language": "C#",
             "last_commit": "2022-01-24T20:26:16Z",
             "owner": "jonathanpeppers",
@@ -2364,6 +2494,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 326210570,
             "language": "C#",
             "last_commit": "2022-06-02T14:42:10Z",
             "owner": "akamud",
@@ -2375,7 +2506,7 @@
       "title": "Testing"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2384,11 +2515,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 111583593,
             "language": "C",
             "last_commit": "2026-08-17T10:27:07Z",
             "owner": "Genymobile",
             "repo": "scrcpy",
-            "stars": 147864
+            "stars": 147906
           }
         },
         {
@@ -2398,11 +2530,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41822320,
             "language": "C#",
             "last_commit": "2026-06-21T10:29:45Z",
             "owner": "RicoSuter",
             "repo": "NSwag",
-            "stars": 7358
+            "stars": 7360
           }
         },
         {
@@ -2412,6 +2545,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 156032875,
             "language": "C#",
             "last_commit": "2023-02-21T06:16:32Z",
             "owner": "AndreiMisiukevich",
@@ -2426,6 +2560,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 146520246,
             "language": "C#",
             "last_commit": "2019-04-02T09:23:21Z",
             "owner": "ylatuya",
@@ -2440,6 +2575,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 165557447,
             "language": "C#",
             "last_commit": "2023-12-30T15:03:25Z",
             "owner": "mattleibow",
@@ -2454,6 +2590,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 183727125,
             "language": "JavaScript",
             "last_commit": "2021-07-07T16:46:23Z",
             "owner": "kphillpotts",
@@ -2468,6 +2605,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 55364250,
             "language": "C#",
             "last_commit": "2023-04-17T03:37:33Z",
             "owner": "interisti",
@@ -2482,6 +2620,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 115642305,
             "language": "C#",
             "last_commit": "2019-05-01T06:19:37Z",
             "owner": "yuv4ik",
@@ -2496,6 +2635,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 178837142,
             "language": "C#",
             "last_commit": "2019-05-10T17:20:08Z",
             "owner": "admaiorastudio",
@@ -2510,6 +2650,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 126402324,
             "language": "C#",
             "last_commit": "2019-05-01T06:40:38Z",
             "owner": "yuv4ik",
@@ -2524,6 +2665,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 295468974,
             "language": "JavaScript",
             "last_commit": "2023-01-06T14:51:03Z",
             "owner": "Pepsi1x1",
@@ -2538,6 +2680,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 161282196,
             "language": null,
             "last_commit": "2019-01-18T08:54:17Z",
             "owner": "proinfocus",
@@ -2552,6 +2695,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 98574285,
             "language": "C#",
             "last_commit": "2022-12-07T18:51:18Z",
             "owner": "dotnet-ad",
@@ -2566,6 +2710,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 101865132,
             "language": "Shell",
             "last_commit": "2020-06-27T14:23:20Z",
             "owner": "igorkovalchuk",
@@ -2580,6 +2725,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 172010880,
             "language": "C#",
             "last_commit": "2019-03-20T20:09:00Z",
             "owner": "Codexcite",
@@ -2594,6 +2740,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 107977054,
             "language": null,
             "last_commit": "2020-01-05T14:57:58Z",
             "owner": "colbylwilliams",
@@ -2608,6 +2755,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 170222257,
             "language": "CSS",
             "last_commit": "2020-05-01T21:02:24Z",
             "owner": "AutumnEvans418",
@@ -2622,6 +2770,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 116499555,
             "language": "C#",
             "last_commit": "2018-01-10T16:56:50Z",
             "owner": "rubit0",
@@ -2636,6 +2785,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 105540539,
             "language": "C#",
             "last_commit": "2019-12-30T23:45:13Z",
             "owner": "igorkovalchuk",
@@ -2650,6 +2800,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 406630843,
             "language": null,
             "last_commit": "2021-09-15T08:33:43Z",
             "owner": "nui-dali",
@@ -2664,30 +2815,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 233811570,
             "language": "C#",
             "last_commit": "2020-05-23T10:40:37Z",
             "owner": "mjfreelancing",
             "repo": "XF.Material.Themer",
             "stars": 0
           }
-        },
-        {
-          "node_type": "item",
-          "title": "AssetBuilder ★8",
-          "description": "Tool to automate the process of creating Xamarin.Forms icons and splash screens from SVGs.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "How to set up Xamarin.Android on Linux ★134",
-          "description": "A guide to getting Xamarin.Android ready to use on your distro of choice (plus JetBrains Rider support)!",
-          "children": []
         }
       ],
       "title": "Tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2696,6 +2836,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 99156674,
             "language": "C#",
             "last_commit": "2026-07-27T13:58:24Z",
             "owner": "microcharts-dotnet",
@@ -2710,11 +2851,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 29234353,
             "language": "C#",
             "last_commit": "2023-03-16T16:01:13Z",
             "owner": "luberda-molinet",
             "repo": "FFImageLoading",
-            "stars": 1403
+            "stars": 1404
           }
         },
         {
@@ -2724,6 +2866,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 51917920,
             "language": "C#",
             "last_commit": "2023-10-29T17:59:40Z",
             "owner": "rotorgames",
@@ -2738,6 +2881,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 187775921,
             "language": "C#",
             "last_commit": "2025-11-07T04:57:28Z",
             "owner": "syncfusion",
@@ -2752,6 +2896,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28914987,
             "language": "C#",
             "last_commit": "2025-06-05T17:09:53Z",
             "owner": "aritchie",
@@ -2766,6 +2911,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 170487960,
             "language": "C#",
             "last_commit": "2022-10-10T12:40:38Z",
             "owner": "sthewissen",
@@ -2780,6 +2926,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 116882320,
             "language": "C#",
             "last_commit": "2023-02-21T06:14:35Z",
             "owner": "AndreiMisiukevich",
@@ -2794,6 +2941,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 322394142,
             "language": "C#",
             "last_commit": "2023-10-29T02:29:29Z",
             "owner": "dotnet",
@@ -2808,11 +2956,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 138375258,
             "language": "C#",
             "last_commit": "2024-06-13T11:47:17Z",
             "owner": "Baseflow",
             "repo": "XF-Material-Library",
-            "stars": 632
+            "stars": 633
           }
         },
         {
@@ -2822,6 +2971,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 130390679,
             "language": "C#",
             "last_commit": "2025-12-06T09:07:40Z",
             "owner": "enisn",
@@ -2831,29 +2981,31 @@
         },
         {
           "node_type": "item",
-          "title": "Sharpnado.Presentation.Forms ★608",
-          "description": "Presentation layer: Xamarin Forms custom components and renderers (HorizontalListView, Grid Layout, TaskLoaderView).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2021-03-16T11:21:59Z",
-            "owner": "roubachof",
-            "repo": "Sharpnado.Presentation.Forms",
-            "stars": 579
-          }
-        },
-        {
-          "node_type": "item",
           "title": "Sharpnado.Tabs 25 ★180",
           "description": "Pure Xamarin.Forms Tabs, including fixed tabs, scrollable tabs, bottom tabs, badge, segmented control, custom tabs, button tabs, bendable tabs...",
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 302656773,
             "language": "C#",
             "last_commit": "2025-10-25T00:16:51Z",
             "owner": "roubachof",
             "repo": "Sharpnado.Tabs",
+            "stars": 580
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sharpnado.Presentation.Forms ★608",
+          "description": "Presentation layer: Xamarin Forms custom components and renderers (HorizontalListView, Grid Layout, TaskLoaderView).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 142441427,
+            "language": null,
+            "last_commit": "2021-03-16T11:21:59Z",
+            "owner": "roubachof",
+            "repo": "Sharpnado.Presentation.Forms",
             "stars": 579
           }
         },
@@ -2864,6 +3016,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 259930746,
             "language": "C#",
             "last_commit": "2025-10-25T00:16:41Z",
             "owner": "roubachof",
@@ -2878,6 +3031,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 189624808,
             "language": "C#",
             "last_commit": "2024-05-16T06:41:36Z",
             "owner": "HorusSoftwareUY",
@@ -2892,6 +3046,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 50325493,
             "language": "C#",
             "last_commit": "2022-08-18T13:37:35Z",
             "owner": "alexrainman",
@@ -2906,6 +3061,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 273746409,
             "language": "C#",
             "last_commit": "2021-10-31T17:46:48Z",
             "owner": "jsuarezruiz",
@@ -2920,6 +3076,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 184547316,
             "language": "C#",
             "last_commit": "2024-03-14T08:14:23Z",
             "owner": "sthewissen",
@@ -2934,6 +3091,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 146229474,
             "language": "C#",
             "last_commit": "2021-11-09T23:44:10Z",
             "owner": "GiampaoloGabba",
@@ -2948,6 +3106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 55053176,
             "language": "C#",
             "last_commit": "2021-03-22T07:49:27Z",
             "owner": "XAM-Consulting",
@@ -2962,6 +3121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 43989093,
             "language": "C#",
             "last_commit": "2023-01-30T16:33:47Z",
             "owner": "daniel-luberda",
@@ -2976,6 +3136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 43989093,
             "language": "C#",
             "last_commit": "2023-01-30T16:33:47Z",
             "owner": "daniel-luberda",
@@ -2990,6 +3151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 207535311,
             "language": "C#",
             "last_commit": "2025-01-02T09:01:01Z",
             "owner": "mgierlasinski",
@@ -3004,6 +3166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 58832539,
             "language": "C#",
             "last_commit": "2022-07-10T22:18:45Z",
             "owner": "warappa",
@@ -3018,6 +3181,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 270979956,
             "language": "C#",
             "last_commit": "2025-10-29T02:18:41Z",
             "owner": "roubachof",
@@ -3032,6 +3196,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 70319904,
             "language": "C#",
             "last_commit": "2022-01-20T11:09:41Z",
             "owner": "xabre",
@@ -3046,6 +3211,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 135506012,
             "language": "C#",
             "last_commit": "2023-02-21T06:19:03Z",
             "owner": "AndreiMisiukevich",
@@ -3060,6 +3226,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 135506012,
             "language": "C#",
             "last_commit": "2023-02-21T06:19:03Z",
             "owner": "AndreiMisiukevich",
@@ -3074,6 +3241,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 167721744,
             "language": "C#",
             "last_commit": "2025-03-10T13:36:32Z",
             "owner": "HorusSoftwareUY",
@@ -3088,6 +3256,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32581535,
             "language": "C#",
             "last_commit": "2018-04-12T16:51:38Z",
             "owner": "chrfalch",
@@ -3102,6 +3271,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 61016744,
             "language": "C#",
             "last_commit": "2023-01-30T18:47:43Z",
             "owner": "akgulebubekir",
@@ -3116,6 +3286,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 331786456,
             "language": "C#",
             "last_commit": "2024-06-11T21:24:39Z",
             "owner": "Redth",
@@ -3130,6 +3301,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 184479750,
             "language": "C#",
             "last_commit": "2022-05-26T09:19:19Z",
             "owner": "lilcodelab",
@@ -3144,6 +3316,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 200597975,
             "language": "C#",
             "last_commit": "2020-10-31T09:22:43Z",
             "owner": "sthewissen",
@@ -3158,6 +3331,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 18772660,
             "language": "C#",
             "last_commit": "2021-05-12T19:32:41Z",
             "owner": "xamarin",
@@ -3172,6 +3346,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 114568372,
             "language": "C#",
             "last_commit": "2021-08-04T14:21:54Z",
             "owner": "robinmanuelthiel",
@@ -3186,6 +3361,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 61585171,
             "language": "C#",
             "last_commit": "2020-10-05T19:25:50Z",
             "owner": "jamesmontemagno",
@@ -3200,6 +3376,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 139059533,
             "language": "C#",
             "last_commit": "2023-10-20T16:46:56Z",
             "owner": "dotMorten",
@@ -3214,6 +3391,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 49890691,
             "language": "C#",
             "last_commit": "2021-06-05T00:02:38Z",
             "owner": "jamesmontemagno",
@@ -3228,6 +3406,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 83932567,
             "language": "C#",
             "last_commit": "2019-11-21T14:17:08Z",
             "owner": "XamFormsExtended",
@@ -3242,6 +3421,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 123065486,
             "language": "C#",
             "last_commit": "2021-12-18T18:51:54Z",
             "owner": "jonathanpeppers",
@@ -3256,6 +3436,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 141817621,
             "language": "C#",
             "last_commit": "2023-02-21T06:21:58Z",
             "owner": "AndreiMisiukevich",
@@ -3270,6 +3451,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 87431795,
             "language": "C#",
             "last_commit": "2020-07-21T12:52:15Z",
             "owner": "markolazic88",
@@ -3284,6 +3466,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 63643824,
             "language": "C#",
             "last_commit": "2018-04-02T00:16:58Z",
             "owner": "tbaggett",
@@ -3298,6 +3481,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 162912731,
             "language": "C#",
             "last_commit": "2022-05-29T19:08:02Z",
             "owner": "ChasakisD",
@@ -3312,6 +3496,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 198209481,
             "language": "C#",
             "last_commit": "2024-11-08T15:32:43Z",
             "owner": "Baseflow",
@@ -3321,29 +3506,31 @@
         },
         {
           "node_type": "item",
-          "title": "AiForms.Dialogs ★153",
-          "description": "This is a collection of Custom Dialogs that can be defined with XAML for Xamarin.Forms (Android / iOS).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2022-12-02T07:11:46Z",
-            "owner": "muak",
-            "repo": "AiForms.Dialogs",
-            "stars": 148
-          }
-        },
-        {
-          "node_type": "item",
           "title": "Xamarin.Forms.VideoPlayer ★147",
           "description": "A Xamarin Forms control to render the native video player on every platform.",
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 81273634,
             "language": "C#",
             "last_commit": "2019-09-10T20:54:48Z",
             "owner": "adamfisher",
             "repo": "Xamarin.Forms.VideoPlayer",
+            "stars": 149
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AiForms.Dialogs ★153",
+          "description": "This is a collection of Custom Dialogs that can be defined with XAML for Xamarin.Forms (Android / iOS).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 150751479,
+            "language": "C#",
+            "last_commit": "2022-12-02T07:11:46Z",
+            "owner": "muak",
+            "repo": "AiForms.Dialogs",
             "stars": 148
           }
         },
@@ -3354,6 +3541,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 202733947,
             "language": "C#",
             "last_commit": "2024-11-04T22:43:34Z",
             "owner": "IeuanWalker",
@@ -3368,6 +3556,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 92722256,
             "language": "C#",
             "last_commit": "2022-12-30T07:30:38Z",
             "owner": "matteobortolazzo",
@@ -3382,6 +3571,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 138586146,
             "language": "C#",
             "last_commit": "2022-01-25T09:20:44Z",
             "owner": "galadril",
@@ -3396,6 +3586,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 60008683,
             "language": "C#",
             "last_commit": "2020-04-16T14:52:22Z",
             "owner": "rebeccaXam",
@@ -3410,6 +3601,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 107801232,
             "language": "C#",
             "last_commit": "2017-11-14T14:46:27Z",
             "owner": "mattleibow",
@@ -3424,6 +3616,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 101799684,
             "language": "C#",
             "last_commit": "2023-06-27T09:21:59Z",
             "owner": "dotnet-ad",
@@ -3438,6 +3631,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 101799684,
             "language": "C#",
             "last_commit": "2023-06-27T09:21:59Z",
             "owner": "dotnet-ad",
@@ -3452,6 +3646,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 85966496,
             "language": "C#",
             "last_commit": "2019-06-01T02:38:07Z",
             "owner": "robinmanuelthiel",
@@ -3466,6 +3661,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 144794789,
             "language": "C#",
             "last_commit": "2022-11-07T19:28:45Z",
             "owner": "arqueror",
@@ -3480,6 +3676,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 136228753,
             "language": "C#",
             "last_commit": "2025-06-11T07:24:38Z",
             "owner": "baskren",
@@ -3494,6 +3691,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 121203475,
             "language": "C#",
             "last_commit": "2021-12-28T06:57:44Z",
             "owner": "chaosifier",
@@ -3508,6 +3706,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 143238371,
             "language": "C#",
             "last_commit": "2020-11-29T03:50:42Z",
             "owner": "bulubuloa",
@@ -3522,6 +3721,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 187204812,
             "language": "C#",
             "last_commit": "2019-09-16T08:30:45Z",
             "owner": "sthewissen",
@@ -3536,6 +3736,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 246286527,
             "language": "C#",
             "last_commit": "2021-11-03T15:40:07Z",
             "owner": "roubachof",
@@ -3550,6 +3751,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 84467225,
             "language": "C#",
             "last_commit": "2017-04-08T10:48:54Z",
             "owner": "DevsDNA",
@@ -3564,6 +3766,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 231384586,
             "language": "HTML",
             "last_commit": "2022-04-06T18:25:47Z",
             "owner": "galadril",
@@ -3578,6 +3781,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 250380200,
             "language": "C#",
             "last_commit": "2025-12-20T20:58:39Z",
             "owner": "NdubuisiJr",
@@ -3592,6 +3796,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 161044975,
             "language": "C#",
             "last_commit": "2019-05-20T08:28:04Z",
             "owner": "Binwell",
@@ -3606,6 +3811,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 73100985,
             "language": "C#",
             "last_commit": "2022-12-08T08:59:16Z",
             "owner": "DottorPagliaccius",
@@ -3620,6 +3826,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 96973402,
             "language": "C#",
             "last_commit": "2020-06-17T04:32:33Z",
             "owner": "NAXAM",
@@ -3634,6 +3841,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 96581856,
             "language": "C#",
             "last_commit": "2020-05-01T04:05:52Z",
             "owner": "wilsonvargas",
@@ -3648,6 +3856,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 267726168,
             "language": "C#",
             "last_commit": "2023-03-06T08:57:19Z",
             "owner": "ionixjunior",
@@ -3662,6 +3871,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 117860323,
             "language": "C#",
             "last_commit": "2021-08-06T21:51:00Z",
             "owner": "stormlion227",
@@ -3676,6 +3886,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 63868028,
             "language": "C#",
             "last_commit": "2020-09-07T12:21:53Z",
             "owner": "halkar",
@@ -3690,6 +3901,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 66702970,
             "language": "C#",
             "last_commit": "2018-10-08T16:24:07Z",
             "owner": "lassana",
@@ -3704,6 +3916,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 99566489,
             "language": "C#",
             "last_commit": "2022-08-08T13:29:47Z",
             "owner": "NAXAM",
@@ -3718,6 +3931,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 197190323,
             "language": "C#",
             "last_commit": "2020-12-22T13:53:06Z",
             "owner": "roubachof",
@@ -3732,6 +3946,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 260522240,
             "language": "C#",
             "last_commit": "2023-08-21T21:28:58Z",
             "owner": "mariusmuntean",
@@ -3746,6 +3961,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 79249323,
             "language": "C#",
             "last_commit": "2024-03-11T13:33:25Z",
             "owner": "softlion",
@@ -3760,6 +3976,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 85115424,
             "language": "C#",
             "last_commit": "2018-12-06T15:18:14Z",
             "owner": "SuavePirate",
@@ -3774,6 +3991,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 149612430,
             "language": "C#",
             "last_commit": "2021-10-05T14:34:28Z",
             "owner": "TBertuzzi",
@@ -3788,6 +4006,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 120306434,
             "language": "C#",
             "last_commit": "2019-03-13T13:34:15Z",
             "owner": "stormlion227",
@@ -3802,6 +4021,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 360236518,
             "language": "C#",
             "last_commit": "2026-05-18T20:35:58Z",
             "owner": "anpin",
@@ -3816,6 +4036,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 86444712,
             "language": "C#",
             "last_commit": "2022-12-08T08:16:27Z",
             "owner": "NAXAM",
@@ -3830,6 +4051,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 258830189,
             "language": "C#",
             "last_commit": "2024-01-28T20:34:44Z",
             "owner": "felipebaltazar",
@@ -3844,6 +4066,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 244403779,
             "language": "C#",
             "last_commit": "2023-05-20T14:58:46Z",
             "owner": "adospace",
@@ -3858,6 +4081,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 93175843,
             "language": "C#",
             "last_commit": "2019-10-11T12:36:14Z",
             "owner": "SKLn-Rad",
@@ -3872,6 +4096,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 101384369,
             "language": "C#",
             "last_commit": "2022-04-12T00:09:38Z",
             "owner": "muak",
@@ -3886,6 +4111,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 52558318,
             "language": "C#",
             "last_commit": "2023-01-15T19:44:42Z",
             "owner": "oxyplot",
@@ -3900,6 +4126,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 198270456,
             "language": "C#",
             "last_commit": "2020-01-21T07:18:48Z",
             "owner": "BretJohnson",
@@ -3914,6 +4141,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 98980718,
             "language": "C#",
             "last_commit": "2019-10-18T01:01:50Z",
             "owner": "LeoJHarris",
@@ -3928,6 +4156,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 124266536,
             "language": "C#",
             "last_commit": "2021-10-05T16:53:58Z",
             "owner": "TBertuzzi",
@@ -3942,6 +4171,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 144232128,
             "language": "C#",
             "last_commit": "2020-06-25T13:01:34Z",
             "owner": "bulubuloa",
@@ -3956,6 +4186,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 85955327,
             "language": "C#",
             "last_commit": "2019-03-04T10:54:55Z",
             "owner": "NobsterTheLobster",
@@ -3970,6 +4201,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 141614882,
             "language": "C#",
             "last_commit": "2020-09-22T02:47:53Z",
             "owner": "ChasakisD",
@@ -3984,6 +4216,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 150286485,
             "language": "C#",
             "last_commit": "2022-04-12T00:09:08Z",
             "owner": "muak",
@@ -3998,6 +4231,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 155886331,
             "language": "C#",
             "last_commit": "2019-06-09T09:43:45Z",
             "owner": "ChasakisD",
@@ -4012,6 +4246,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 135035403,
             "language": "C#",
             "last_commit": "2020-05-14T11:02:34Z",
             "owner": "skordesign",
@@ -4026,6 +4261,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 126315009,
             "language": "C#",
             "last_commit": "2022-12-12T20:02:11Z",
             "owner": "lubiepomaranczki",
@@ -4040,6 +4276,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 135065350,
             "language": "C#",
             "last_commit": "2019-02-23T13:04:49Z",
             "owner": "xamarinium",
@@ -4054,6 +4291,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 82973432,
             "language": "C#",
             "last_commit": "2018-02-22T17:14:57Z",
             "owner": "SuavePirate",
@@ -4068,6 +4306,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 65779262,
             "language": "C#",
             "last_commit": "2018-03-23T09:27:45Z",
             "owner": "XAM-Consulting",
@@ -4082,6 +4321,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 105468410,
             "language": "C#",
             "last_commit": "2022-04-26T22:09:45Z",
             "owner": "FelipeNicoletto",
@@ -4096,6 +4336,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 223923996,
             "language": "C#",
             "last_commit": "2023-09-21T17:28:47Z",
             "owner": "vpapenko",
@@ -4110,6 +4351,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 95580724,
             "language": "C#",
             "last_commit": "2017-12-19T05:19:56Z",
             "owner": "UdaraAlwis",
@@ -4124,6 +4366,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 160310908,
             "language": "C#",
             "last_commit": "2020-06-25T13:01:01Z",
             "owner": "muhaym",
@@ -4138,6 +4381,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 107172234,
             "language": "C#",
             "last_commit": "2017-11-07T13:27:14Z",
             "owner": "clovisnicolas",
@@ -4152,6 +4396,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 320913320,
             "language": "C#",
             "last_commit": "2023-04-05T17:22:38Z",
             "owner": "IeuanWalker",
@@ -4166,6 +4411,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 336598807,
             "language": "C#",
             "last_commit": "2021-04-24T19:18:07Z",
             "owner": "DamianAntonowicz",
@@ -4180,6 +4426,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 320913320,
             "language": "C#",
             "last_commit": "2023-04-05T17:22:38Z",
             "owner": "IeuanWalker",
@@ -4194,6 +4441,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 193588638,
             "language": "C#",
             "last_commit": "2019-11-16T09:23:26Z",
             "owner": "mariusmuntean",
@@ -4208,6 +4456,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 186392649,
             "language": "C#",
             "last_commit": "2025-06-21T19:13:13Z",
             "owner": "samafshari",
@@ -4222,6 +4471,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 178924885,
             "language": "C#",
             "last_commit": "2022-07-02T12:43:33Z",
             "owner": "Phenek",
@@ -4236,6 +4486,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 138288850,
             "language": "Java",
             "last_commit": "2018-12-12T12:09:28Z",
             "owner": "ishrakland",
@@ -4250,6 +4501,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 254680333,
             "language": "C#",
             "last_commit": "2020-08-11T05:42:48Z",
             "owner": "MonettelliUIKIT",
@@ -4264,6 +4516,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 234287375,
             "language": "C#",
             "last_commit": "2022-09-26T08:35:12Z",
             "owner": "cemozguraA",
@@ -4278,6 +4531,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 148898051,
             "language": "C#",
             "last_commit": "2018-12-12T13:11:29Z",
             "owner": "krzysztofstepnikowski",
@@ -4292,6 +4546,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 125714670,
             "language": "C#",
             "last_commit": "2022-11-26T10:57:05Z",
             "owner": "PetrVobornik",
@@ -4306,6 +4561,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 336889651,
             "language": "C#",
             "last_commit": "2022-02-24T17:35:02Z",
             "owner": "arqueror",
@@ -4320,6 +4576,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 139405148,
             "language": "C#",
             "last_commit": "2018-11-13T14:50:35Z",
             "owner": "xamarinium",
@@ -4334,6 +4591,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 44152514,
             "language": "C#",
             "last_commit": "2022-12-08T05:22:35Z",
             "owner": "builttoroam",
@@ -4348,6 +4606,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 53617805,
             "language": "C#",
             "last_commit": "2016-07-07T00:58:57Z",
             "owner": "billreiss",
@@ -4362,6 +4621,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 37852780,
             "language": "C#",
             "last_commit": "2018-03-14T10:05:46Z",
             "owner": "andreinitescu",
@@ -4376,6 +4636,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 82731878,
             "language": "C#",
             "last_commit": "2022-12-08T05:22:14Z",
             "owner": "ajsmithsw",
@@ -4390,6 +4651,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 193436165,
             "language": "Assembly",
             "last_commit": "2019-07-05T03:40:00Z",
             "owner": "rlingineni",
@@ -4404,6 +4666,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 424850613,
             "language": "C#",
             "last_commit": "2024-03-15T10:14:58Z",
             "owner": "nor0x",
@@ -4418,6 +4681,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 354517005,
             "language": "C#",
             "last_commit": "2021-04-06T15:41:16Z",
             "owner": "bbenetskyy",
@@ -4432,6 +4696,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 263592502,
             "language": "C#",
             "last_commit": "2023-08-07T06:35:11Z",
             "owner": "shirshov",
@@ -4446,6 +4711,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 173347226,
             "language": "C#",
             "last_commit": "2019-03-01T22:01:34Z",
             "owner": "CrossGeeks",
@@ -4460,6 +4726,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 237113905,
             "language": "C#",
             "last_commit": "2023-02-14T19:04:03Z",
             "owner": "LuckyDucko",
@@ -4474,6 +4741,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 93316227,
             "language": "C#",
             "last_commit": "2022-10-21T01:14:01Z",
             "owner": "Li-Yanzhi",
@@ -4488,6 +4756,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 107917330,
             "language": "C#",
             "last_commit": "2020-08-24T17:21:35Z",
             "owner": "SkyeHoefling",
@@ -4502,6 +4771,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 243644048,
             "language": "C#",
             "last_commit": "2023-07-03T23:17:01Z",
             "owner": "UdaraAlwis",
@@ -4516,6 +4786,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 210781127,
             "language": "C#",
             "last_commit": "2019-10-04T21:36:45Z",
             "owner": "pabloprogramador",
@@ -4530,6 +4801,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 273105174,
             "language": "C#",
             "last_commit": "2022-11-21T17:52:04Z",
             "owner": "cemozguraA",
@@ -4544,6 +4816,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 252844315,
             "language": "C#",
             "last_commit": "2022-08-24T14:54:55Z",
             "owner": "AvantiPoint",
@@ -4558,6 +4831,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 197960098,
             "language": "C#",
             "last_commit": "2022-11-06T21:27:50Z",
             "owner": "mariusmuntean",
@@ -4572,6 +4846,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 172257929,
             "language": "C#",
             "last_commit": "2019-08-03T02:06:20Z",
             "owner": "jesulink2514",
@@ -4586,6 +4861,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 143288231,
             "language": "C#",
             "last_commit": "2020-02-28T15:39:02Z",
             "owner": "UdaraAlwis",
@@ -4600,6 +4876,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 296752421,
             "language": "C#",
             "last_commit": "2021-03-12T22:04:32Z",
             "owner": "patrickabadi",
@@ -4614,6 +4891,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 74698333,
             "language": "C#",
             "last_commit": "2018-06-26T15:28:41Z",
             "owner": "dw2kim",
@@ -4628,6 +4906,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 269193722,
             "language": "C#",
             "last_commit": "2020-09-28T22:00:39Z",
             "owner": "awaescher",
@@ -4642,6 +4921,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 168195795,
             "language": "C#",
             "last_commit": "2021-09-12T13:31:29Z",
             "owner": "mierzynskim",
@@ -4656,6 +4936,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 156619683,
             "language": "C#",
             "last_commit": "2019-02-07T21:18:50Z",
             "owner": "AdaptSolutions",
@@ -4670,6 +4951,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 229114050,
             "language": "C#",
             "last_commit": "2023-09-21T17:28:02Z",
             "owner": "BitooBit",
@@ -4684,6 +4966,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 94559888,
             "language": "C#",
             "last_commit": "2019-07-06T05:33:01Z",
             "owner": "muhaym",
@@ -4698,6 +4981,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 141037184,
             "language": "C#",
             "last_commit": "2023-07-17T08:00:46Z",
             "owner": "chaosifier",
@@ -4712,6 +4996,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 112491986,
             "language": "C#",
             "last_commit": "2017-11-29T20:32:45Z",
             "owner": "SuavePirate",
@@ -4726,6 +5011,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 184657129,
             "language": "C#",
             "last_commit": "2019-05-14T00:45:19Z",
             "owner": "rhedgpeth",
@@ -4740,6 +5026,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 260600235,
             "language": "C#",
             "last_commit": "2021-03-19T02:24:44Z",
             "owner": "felipebaltazar",
@@ -4754,6 +5041,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 165785131,
             "language": "C#",
             "last_commit": "2020-04-20T13:57:44Z",
             "owner": "jamiewest",
@@ -4768,6 +5056,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 138161195,
             "language": "C#",
             "last_commit": "2021-10-05T21:32:00Z",
             "owner": "TBertuzzi",
@@ -4782,6 +5071,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 90770996,
             "language": "C#",
             "last_commit": "2018-03-11T05:04:08Z",
             "owner": "lprichar",
@@ -4796,6 +5086,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 103674679,
             "language": "C#",
             "last_commit": "2018-09-14T12:38:05Z",
             "owner": "messier16",
@@ -4810,6 +5101,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 39124803,
             "language": "C#",
             "last_commit": "2019-01-23T10:54:21Z",
             "owner": "ScienceSoft-Inc",
@@ -4824,6 +5116,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 139072685,
             "language": "C#",
             "last_commit": "2018-08-18T02:00:52Z",
             "owner": "DamianAntonowicz",
@@ -4838,6 +5131,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 319257726,
             "language": "C#",
             "last_commit": "2024-09-12T11:38:28Z",
             "owner": "codechem",
@@ -4852,6 +5146,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 113447993,
             "language": "C#",
             "last_commit": "2018-01-11T11:32:20Z",
             "owner": "DevsDNA",
@@ -4866,6 +5161,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 282144064,
             "language": "C#",
             "last_commit": "2022-12-06T19:02:00Z",
             "owner": "LuckyDucko",
@@ -4880,6 +5176,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 107560058,
             "language": "C#",
             "last_commit": "2017-10-23T11:51:25Z",
             "owner": "my-jabin",
@@ -4894,6 +5191,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 310903504,
             "language": "C#",
             "last_commit": "2021-11-04T09:56:48Z",
             "owner": "bulubuloa",
@@ -4908,6 +5206,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 125798786,
             "language": "C#",
             "last_commit": "2018-12-04T03:28:51Z",
             "owner": "Intelliabb",
@@ -4922,6 +5221,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 121316060,
             "language": "C#",
             "last_commit": "2020-06-25T14:18:38Z",
             "owner": "stormlion227",
@@ -4936,6 +5236,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 254698746,
             "language": "C#",
             "last_commit": "2023-03-13T14:16:40Z",
             "owner": "Tommigun1980",
@@ -4950,6 +5251,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 91812345,
             "language": "C#",
             "last_commit": "2022-12-08T10:30:46Z",
             "owner": "sgravel-dev",
@@ -4964,6 +5266,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 137898969,
             "language": "C#",
             "last_commit": "2019-08-06T01:37:50Z",
             "owner": "TBertuzzi",
@@ -4978,6 +5281,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 175422339,
             "language": "C#",
             "last_commit": "2019-10-10T09:25:05Z",
             "owner": "kakone",
@@ -4992,6 +5296,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 53004242,
             "language": "C#",
             "last_commit": "2019-02-06T02:03:02Z",
             "owner": "AlejandroRuiz",
@@ -5006,6 +5311,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 125100203,
             "language": "C#",
             "last_commit": "2018-04-05T19:03:22Z",
             "owner": "ChasakisD",
@@ -5020,6 +5326,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 178946450,
             "language": "C#",
             "last_commit": "2019-04-02T11:31:22Z",
             "owner": "Depechie",
@@ -5034,6 +5341,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 438454359,
             "language": "C#",
             "last_commit": "2022-10-02T06:18:49Z",
             "owner": "billvenhaus",
@@ -5048,6 +5356,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 219806315,
             "language": "C#",
             "last_commit": "2020-07-14T10:38:32Z",
             "owner": "raver99",
@@ -5062,6 +5371,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 362287265,
             "language": "C#",
             "last_commit": "2022-11-19T21:36:33Z",
             "owner": "stretchycritter",
@@ -5076,6 +5386,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 121147432,
             "language": "C#",
             "last_commit": "2019-07-03T17:10:35Z",
             "owner": "LeslieCorrea",
@@ -5090,6 +5401,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 360214968,
             "language": "C#",
             "last_commit": "2024-10-18T06:26:56Z",
             "owner": "IeuanWalker",
@@ -5104,6 +5416,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 316878280,
             "language": "C#",
             "last_commit": "2021-02-07T04:25:38Z",
             "owner": "YauGoh",
@@ -5118,6 +5431,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 345395668,
             "language": "C#",
             "last_commit": "2021-08-20T21:50:38Z",
             "owner": "dimonovdd",
@@ -5132,6 +5446,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 207105435,
             "language": "C#",
             "last_commit": "2020-04-05T03:15:10Z",
             "owner": "osamaelhosany",
@@ -5146,6 +5461,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 236800270,
             "language": "C#",
             "last_commit": "2021-10-08T16:57:47Z",
             "owner": "axvr",
@@ -5160,6 +5476,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 169425295,
             "language": "C#",
             "last_commit": "2019-12-02T18:05:33Z",
             "owner": "yurkinh",
@@ -5174,6 +5491,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 205344012,
             "language": "C#",
             "last_commit": "2019-10-23T03:52:42Z",
             "owner": "JimmyPun610",
@@ -5188,6 +5506,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 213462860,
             "language": "C#",
             "last_commit": "2019-10-10T20:24:33Z",
             "owner": "tobias-oschmann",
@@ -5202,6 +5521,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 117279606,
             "language": "C#",
             "last_commit": "2018-06-15T03:38:35Z",
             "owner": "stormlion227",
@@ -5216,6 +5536,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 305993006,
             "language": "C#",
             "last_commit": "2021-06-27T05:03:48Z",
             "owner": "shawyunz",
@@ -5230,6 +5551,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 305993006,
             "language": "C#",
             "last_commit": "2021-06-27T05:03:48Z",
             "owner": "shawyunz",
@@ -5244,6 +5566,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 147296951,
             "language": "C#",
             "last_commit": "2022-01-24T22:51:05Z",
             "owner": "galadril",
@@ -5258,6 +5581,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 221181800,
             "language": "C#",
             "last_commit": "2021-02-03T18:16:35Z",
             "owner": "scriptBoris",
@@ -5272,6 +5596,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 223341909,
             "language": "C#",
             "last_commit": "2023-03-03T18:38:44Z",
             "owner": "JimmyPun610",
@@ -5286,6 +5611,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 124405878,
             "language": "C#",
             "last_commit": "2018-03-23T15:15:49Z",
             "owner": "kevinbrunet",
@@ -5300,6 +5626,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 197959169,
             "language": "C#",
             "last_commit": "2026-08-02T23:51:48Z",
             "owner": "daltonks",
@@ -5314,6 +5641,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 248815666,
             "language": "C#",
             "last_commit": "2020-06-11T16:24:55Z",
             "owner": "nightlybuilds-net",
@@ -5328,6 +5656,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 268561552,
             "language": "C#",
             "last_commit": "2020-10-12T18:23:41Z",
             "owner": "Pepsi1x1",
@@ -5342,6 +5671,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 248575134,
             "language": "C#",
             "last_commit": "2020-03-27T16:34:09Z",
             "owner": "arqueror",
@@ -5356,6 +5686,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 128520685,
             "language": "C#",
             "last_commit": "2018-04-07T15:38:46Z",
             "owner": "AhmetCavus",
@@ -5370,6 +5701,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 198721921,
             "language": "C#",
             "last_commit": "2019-08-12T19:07:21Z",
             "owner": "memsranga",
@@ -5384,6 +5716,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 89904135,
             "language": "C#",
             "last_commit": "2022-12-08T05:22:46Z",
             "owner": "BlueChilli",
@@ -5398,6 +5731,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 141945010,
             "language": "Java",
             "last_commit": "2018-07-23T05:07:38Z",
             "owner": "Herocod3r",
@@ -5412,6 +5746,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 281408781,
             "language": "C#",
             "last_commit": "2023-03-13T14:17:12Z",
             "owner": "Tommigun1980",
@@ -5426,6 +5761,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 193204831,
             "language": "C#",
             "last_commit": "2019-06-23T06:47:40Z",
             "owner": "mariusmuntean",
@@ -5440,6 +5776,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 158889605,
             "language": "C#",
             "last_commit": "2018-11-24T00:38:29Z",
             "owner": "HeikkiDev",
@@ -5454,6 +5791,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 152804669,
             "language": "C#",
             "last_commit": "2018-11-10T15:15:43Z",
             "owner": "edsnider",
@@ -5468,6 +5806,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 349335522,
             "language": "C#",
             "last_commit": "2021-04-04T20:31:11Z",
             "owner": "nightlybuilds-net",
@@ -5482,6 +5821,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 345469348,
             "language": "C#",
             "last_commit": "2025-08-16T13:58:34Z",
             "owner": "olorunfemidavis",
@@ -5496,6 +5836,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 167263532,
             "language": "C#",
             "last_commit": "2019-03-18T18:21:23Z",
             "owner": "AndreiMisiukevich",
@@ -5510,6 +5851,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 179947950,
             "language": "C#",
             "last_commit": "2021-08-05T11:18:58Z",
             "owner": "skordesign",
@@ -5524,6 +5866,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 171967037,
             "language": "C#",
             "last_commit": "2020-11-05T21:47:35Z",
             "owner": "TizenAPI",
@@ -5538,6 +5881,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 221678795,
             "language": "C#",
             "last_commit": "2022-01-01T23:29:58Z",
             "owner": "ravinderjangra",
@@ -5552,6 +5896,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 254699205,
             "language": "C#",
             "last_commit": "2023-03-13T14:13:10Z",
             "owner": "Tommigun1980",
@@ -5566,6 +5911,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 407166027,
             "language": "C#",
             "last_commit": "2021-09-18T02:51:01Z",
             "owner": "kphillpotts",
@@ -5580,6 +5926,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 143559945,
             "language": "C#",
             "last_commit": "2018-08-26T15:01:43Z",
             "owner": "pingzing",
@@ -5594,6 +5941,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 185843455,
             "language": "C#",
             "last_commit": "2024-07-14T12:33:49Z",
             "owner": "samafshari",
@@ -5608,6 +5956,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 181764587,
             "language": "C#",
             "last_commit": "2020-01-11T19:12:10Z",
             "owner": "mattmorgan6",
@@ -5622,6 +5971,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 276376905,
             "language": "C#",
             "last_commit": "2023-09-21T17:28:17Z",
             "owner": "HeikkiDev",
@@ -5636,6 +5986,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 264502592,
             "language": "C#",
             "last_commit": "2020-06-13T06:44:09Z",
             "owner": "ravinderjangra",
@@ -5650,6 +6001,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 393906305,
             "language": "C#",
             "last_commit": "2021-08-08T10:16:46Z",
             "owner": "coolc0ders",
@@ -5664,6 +6016,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 313445442,
             "language": "C#",
             "last_commit": "2021-01-05T01:42:11Z",
             "owner": "matthewrdev",
@@ -5678,6 +6031,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 87745969,
             "language": "C#",
             "last_commit": "2019-09-27T21:43:24Z",
             "owner": "Brainflab",
@@ -5692,6 +6046,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 119548057,
             "language": "C#",
             "last_commit": "2020-10-08T19:44:09Z",
             "owner": "tugcearar",
@@ -5706,6 +6061,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 144285362,
             "language": "C#",
             "last_commit": "2018-08-23T13:50:33Z",
             "owner": "yudiz-dotnet",
@@ -5720,6 +6076,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 260763783,
             "language": "C#",
             "last_commit": "2020-07-02T15:04:46Z",
             "owner": "maxim-saplin",
@@ -5734,6 +6091,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 159066297,
             "language": "C#",
             "last_commit": "2018-12-02T10:34:23Z",
             "owner": "mariusmuntean",
@@ -5748,6 +6106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 237045846,
             "language": "Assembly",
             "last_commit": "2020-02-22T07:12:48Z",
             "owner": "pynacl",
@@ -5762,6 +6121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 199503764,
             "language": "C#",
             "last_commit": "2021-06-30T16:29:12Z",
             "owner": "PureWeen",
@@ -5776,6 +6136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 282637981,
             "language": "C#",
             "last_commit": "2020-08-08T13:32:46Z",
             "owner": "sreerajPR",
@@ -5790,6 +6151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 137034105,
             "language": "C#",
             "last_commit": "2020-10-08T09:35:45Z",
             "owner": "80cmdude",
@@ -5804,6 +6166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 121108839,
             "language": "C#",
             "last_commit": "2018-02-28T09:50:40Z",
             "owner": "NAXAM",
@@ -5818,6 +6181,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 154407515,
             "language": "C#",
             "last_commit": "2019-05-10T10:14:31Z",
             "owner": "Infinite-Square",
@@ -5832,6 +6196,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 160559848,
             "language": "C#",
             "last_commit": "2022-03-02T13:32:00Z",
             "owner": "RenaudAvenas",
@@ -5846,6 +6211,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 207862441,
             "language": "C#",
             "last_commit": "2020-09-22T18:58:35Z",
             "owner": "Nickjgniklu",
@@ -5860,6 +6226,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 271306261,
             "language": "C#",
             "last_commit": "2021-01-02T15:45:43Z",
             "owner": "GrumpyCockatiel",
@@ -5874,6 +6241,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 192088515,
             "language": "C#",
             "last_commit": "2019-06-19T09:42:36Z",
             "owner": "manuelmeisen",
@@ -5888,6 +6256,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 217317701,
             "language": "C#",
             "last_commit": "2019-10-30T14:26:46Z",
             "owner": "gvasiliu9",
@@ -5902,6 +6271,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 124571836,
             "language": "C#",
             "last_commit": "2021-10-05T20:55:44Z",
             "owner": "TBertuzzi",
@@ -5916,6 +6286,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 273592228,
             "language": "C#",
             "last_commit": "2020-06-20T00:22:46Z",
             "owner": "Jon2G",
@@ -5930,6 +6301,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 396078435,
             "language": "C#",
             "last_commit": "2021-09-24T04:51:43Z",
             "owner": "solo-developer",
@@ -5944,6 +6316,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 228043514,
             "language": "C#",
             "last_commit": "2019-12-14T17:55:10Z",
             "owner": "michaelstonis",
@@ -5958,6 +6331,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 124425648,
             "language": "C#",
             "last_commit": "2021-09-20T01:55:22Z",
             "owner": "TheCodeTraveler",
@@ -5972,6 +6346,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 325953095,
             "language": "C#",
             "last_commit": "2021-01-01T09:54:41Z",
             "owner": "Khelechy",
@@ -5986,6 +6361,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 158999443,
             "language": "C#",
             "last_commit": "2019-01-24T04:27:24Z",
             "owner": "zauberzeug",
@@ -6000,6 +6376,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 197476280,
             "language": "C#",
             "last_commit": "2020-11-05T14:56:40Z",
             "owner": "hnabbasi",
@@ -6014,6 +6391,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 160849591,
             "language": "C#",
             "last_commit": "2019-07-28T21:13:21Z",
             "owner": "contissi",
@@ -6028,6 +6406,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 191095769,
             "language": "C#",
             "last_commit": "2022-12-08T07:35:39Z",
             "owner": "JimmyPun610",
@@ -6042,6 +6421,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 323519618,
             "language": "C#",
             "last_commit": "2020-12-22T22:52:21Z",
             "owner": "matthewrdev",
@@ -6056,6 +6436,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 200289786,
             "language": "C#",
             "last_commit": "2019-08-02T20:04:07Z",
             "owner": "lazylace37",
@@ -6070,6 +6451,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 214439362,
             "language": "C#",
             "last_commit": "2023-05-29T21:45:43Z",
             "owner": "newky2k",
@@ -6084,6 +6466,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 171111758,
             "language": "C#",
             "last_commit": "2019-05-17T11:43:51Z",
             "owner": "AndreiMisiukevich",
@@ -6098,6 +6481,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 195015059,
             "language": "C#",
             "last_commit": "2019-07-11T05:16:49Z",
             "owner": "lachlanwgordon",
@@ -6112,6 +6496,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 347923054,
             "language": "C#",
             "last_commit": "2022-10-22T13:33:28Z",
             "owner": "iniceice88",
@@ -6126,6 +6511,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 265638367,
             "language": "C#",
             "last_commit": "2022-12-08T10:29:18Z",
             "owner": "samafshari",
@@ -6140,6 +6526,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 151958663,
             "language": "C#",
             "last_commit": "2018-10-11T18:16:36Z",
             "owner": "NeilMalcolm",
@@ -6154,6 +6541,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 143970304,
             "language": "C#",
             "last_commit": "2019-07-26T07:20:42Z",
             "owner": "ravisinghunnao",
@@ -6168,6 +6556,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 246330162,
             "language": "C#",
             "last_commit": "2024-02-17T06:16:37Z",
             "owner": "ravisinghunnao",
@@ -6182,6 +6571,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 98102701,
             "language": "C#",
             "last_commit": "2024-09-23T16:19:33Z",
             "owner": "Geeksltd",
@@ -6196,6 +6586,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 174499185,
             "language": "C#",
             "last_commit": "2019-03-13T08:08:58Z",
             "owner": "jeromemanzano",
@@ -6210,6 +6601,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 238410510,
             "language": "C#",
             "last_commit": "2020-02-19T13:14:09Z",
             "owner": "Flokri",
@@ -6224,6 +6616,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 211379732,
             "language": "C#",
             "last_commit": "2019-11-11T21:53:51Z",
             "owner": "tobias-oschmann",
@@ -6238,6 +6631,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 311966649,
             "language": "C#",
             "last_commit": "2025-06-08T14:56:13Z",
             "owner": "SnowPowerCore",
@@ -6252,6 +6646,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 151974686,
             "language": "C#",
             "last_commit": "2018-10-08T06:27:14Z",
             "owner": "VasenevEA",
@@ -6266,6 +6661,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 232247148,
             "language": "C#",
             "last_commit": "2020-01-07T14:25:26Z",
             "owner": "francescofinotto",
@@ -6280,6 +6676,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 345947995,
             "language": "C#",
             "last_commit": "2021-03-09T09:29:11Z",
             "owner": "JonathanKartun",
@@ -6294,6 +6691,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 266400253,
             "language": "C#",
             "last_commit": "2020-07-11T14:11:45Z",
             "owner": "mariusmuntean",
@@ -6308,6 +6706,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 271238445,
             "language": "C#",
             "last_commit": "2020-08-24T07:30:08Z",
             "owner": "SpatialFocus",
@@ -6322,6 +6721,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 230241530,
             "language": "C#",
             "last_commit": "2019-12-30T15:15:18Z",
             "owner": "yurkinh",
@@ -6336,6 +6736,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 162811142,
             "language": "C#",
             "last_commit": "2025-05-24T19:55:32Z",
             "owner": "AuriR",
@@ -6350,6 +6751,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 162114266,
             "language": "C#",
             "last_commit": "2020-08-26T20:47:07Z",
             "owner": "TBertuzzi",
@@ -6364,6 +6766,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 246877744,
             "language": "C#",
             "last_commit": "2021-01-07T11:01:22Z",
             "owner": "galadril",
@@ -6378,6 +6781,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 235250004,
             "language": "C#",
             "last_commit": "2020-02-04T06:46:41Z",
             "owner": "SignKeys-Technology",
@@ -6392,6 +6796,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 264077477,
             "language": "C#",
             "last_commit": "2025-02-25T00:11:58Z",
             "owner": "luiseduardohd",
@@ -6406,6 +6811,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 333155882,
             "language": "C#",
             "last_commit": "2021-04-20T00:25:16Z",
             "owner": "Chase-William",
@@ -6420,6 +6826,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 163591454,
             "language": "C#",
             "last_commit": "2019-01-27T11:19:42Z",
             "owner": "mariusmuntean",
@@ -6434,6 +6841,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 326988106,
             "language": "C#",
             "last_commit": "2021-02-11T14:18:39Z",
             "owner": "shubhamsharma12147",
@@ -6448,6 +6856,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 204277863,
             "language": "C#",
             "last_commit": "2019-08-25T10:30:57Z",
             "owner": "MridulMalviya",
@@ -6462,6 +6871,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 158958234,
             "language": "C#",
             "last_commit": "2018-12-15T20:51:31Z",
             "owner": "tsjdev-apps",
@@ -6476,6 +6886,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 126448077,
             "language": "C#",
             "last_commit": "2018-04-17T15:12:27Z",
             "owner": "DevsDNA",
@@ -6490,6 +6901,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 170862963,
             "language": "C#",
             "last_commit": "2019-02-16T04:36:14Z",
             "owner": "badrnezhad",
@@ -6504,6 +6916,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 273415907,
             "language": "C#",
             "last_commit": "2020-06-19T05:59:06Z",
             "owner": "hesamdarbandi",
@@ -6518,6 +6931,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 369180042,
             "language": "C#",
             "last_commit": "2021-05-28T19:10:08Z",
             "owner": "djrpascu",
@@ -6532,6 +6946,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 305169814,
             "language": "C#",
             "last_commit": "2020-10-28T12:18:07Z",
             "owner": "MintPlayer-Archive",
@@ -6546,6 +6961,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 308451442,
             "language": "C#",
             "last_commit": "2020-10-29T21:52:28Z",
             "owner": "albertoha94",
@@ -6560,66 +6976,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 226228510,
             "language": "C#",
             "last_commit": "2020-12-10T01:03:59Z",
             "owner": "pmahend1",
             "repo": "XamUtilities",
             "stars": 0
           }
-        },
-        {
-          "node_type": "item",
-          "title": "AiForms.Settings",
-          "description": "This is a flexible Xamarin.Forms TableView specialized in settings for Android / iOS.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "Font-Awesome-And-Xamarin.Forms",
-          "description": "A complete walkthrough for adding and using FontAwesome within your mobile apps.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "Nightingale",
-          "description": "Basic charts for Xamarin.Forms using SkiaSharp.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "SkiaCheck ★1",
-          "description": "A checkbox implementation for Xamarin.Forms made with the awesome SkiaSharp library.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "TimberLabel ★9",
-          "description": "A custom Xamarin.Forms.Label control that adds support for padding, rounded corners and, borders on iOS and Android.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "Valkyrie",
-          "description": "Open source 2D game engine for mobile Xamarin.Forms development.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "Xamarin.Forms.ImageEntry",
-          "description": "Use images in your entries.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "Xamarin.Forms.ExtendedLifecycleContentPage ★5",
-          "description": "Extended lifecycle support for Xamaring.Forms.ContentPage.",
-          "children": []
         }
       ],
       "title": "UI"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -6628,6 +6997,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41005285,
             "language": "C#",
             "last_commit": "2019-05-01T22:24:59Z",
             "owner": "xamarin-automation-service",
@@ -6642,6 +7012,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 96829975,
             "language": "C#",
             "last_commit": "2017-07-11T00:14:24Z",
             "owner": "xamarin-automation-service",
@@ -6654,8 +7025,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T18:30:05.061Z",
+    "last_updated": "2026-08-19T13:01:01.029Z",
     "original_repository": "jsuarezruiz/awesome-xamarin-forms",
+    "original_repository_id": 80357743,
     "original_repository_sha": "54df77dca6f9d8195ca43b3e561dfdc691ebe4fc",
     "enhanced_repository": "enhansome/enhansome-xamarin-forms",
     "enhanced_repository_description": null,
