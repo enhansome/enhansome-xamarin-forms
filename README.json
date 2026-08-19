@@ -507,7 +507,7 @@
             "last_commit": "2026-08-06T01:21:10Z",
             "owner": "PrismLibrary",
             "repo": "Prism",
-            "stars": 6833
+            "stars": 6834
           }
         },
         {
@@ -522,7 +522,7 @@
             "last_commit": "2026-08-19T06:43:10Z",
             "owner": "MvvmCross",
             "repo": "MvvmCross",
-            "stars": 3923
+            "stars": 3922
           }
         },
         {
@@ -846,7 +846,7 @@
             "last_commit": "2026-08-05T15:50:21Z",
             "owner": "videolan",
             "repo": "libvlcsharp",
-            "stars": 1806
+            "stars": 1805
           }
         },
         {
@@ -2520,7 +2520,7 @@
             "last_commit": "2026-08-17T10:27:07Z",
             "owner": "Genymobile",
             "repo": "scrcpy",
-            "stars": 147906
+            "stars": 147919
           }
         },
         {
@@ -7025,7 +7025,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T13:01:01.029Z",
+    "last_updated": "2026-08-19T18:26:36.265Z",
     "original_repository": "jsuarezruiz/awesome-xamarin-forms",
     "original_repository_id": 80357743,
     "original_repository_sha": "54df77dca6f9d8195ca43b3e561dfdc691ebe4fc",

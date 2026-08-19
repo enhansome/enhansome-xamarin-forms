@@ -113,8 +113,8 @@ You can find other awesome lists related to Xamarin below:
 
 ## MVVM
 
-* [Prism ★5083](https://github.com/PrismLibrary/Prism) ⭐ 6,833 | 🐛 27 | 🌐 C# | 📅 2026-08-06: Nice framework with an amazing navigation service.
-* [MVVMCross ★3637](https://github.com/MvvmCross/MvvmCross) ⭐ 3,923 | 🐛 183 | 🌐 C# | 📅 2026-08-19: Cross-platform mvvm mobile development framework.
+* [Prism ★5083](https://github.com/PrismLibrary/Prism) ⭐ 6,834 | 🐛 27 | 🌐 C# | 📅 2026-08-06: Nice framework with an amazing navigation service.
+* [MVVMCross ★3637](https://github.com/MvvmCross/MvvmCross) ⭐ 3,922 | 🐛 183 | 🌐 C# | 📅 2026-08-19: Cross-platform mvvm mobile development framework.
 * [FreshMvvm ★564](https://github.com/rid00z/FreshMvvm) ⭐ 589 | 🐛 150 | 🌐 C# | 📅 2022-02-11: It is a super light Mvvm Framework designed specifically for Xamarin.Forms
 * [Xamarin University Infrastructure Library ★144](https://github.com/xamarinhq/xamu-infrastructure) ⚠️ Archived: Extensions, MVVM classes, behaviors and other misc. useful code bits from Xamarin University.
 * [xamvvm ★120](https://github.com/xamvvm/xamvvm) ⭐ 120 | 🐛 8 | 🌐 C# | 📅 2022-10-18: Simple MVVM (Model, ViewModel, View) Framework for .Net - Xamarin.Forms compatible.
@@ -151,7 +151,7 @@ You can find other awesome lists related to Xamarin below:
 
 ## Plugins
 
-* [LibVLCSharp ★980](https://github.com/videolan/libvlcsharp) ⭐ 1,806 | 🐛 5 | 🌐 C# | 📅 2026-08-05: Xamarin bindings for libvlc, the multimedia framework powering the VLC applications made by VideoLAN.
+* [LibVLCSharp ★980](https://github.com/videolan/libvlcsharp) ⭐ 1,805 | 🐛 5 | 🌐 C# | 📅 2026-08-05: Xamarin bindings for libvlc, the multimedia framework powering the VLC applications made by VideoLAN.
 * [Xamarin.Essentials ★1333](https://github.com/xamarin/Essentials) ⚠️ Archived: (**Official**) Essential cross platform APIs for your mobile apps.
 * [ZXing.Net.Mobile ★1012](https://github.com/Redth/ZXing.Net.Mobile) ⭐ 1,083 | 🐛 204 | 🌐 C# | 📅 2024-05-24:  The goal of ZXing.Net.Mobile is to make scanning barcodes as effortless and painless as possible in your own applications.
 * [CSharpForMarkup ★438](https://github.com/VincentH-Net/CSharpForMarkup) ⭐ 832 | 🐛 7 | 🌐 C# | 📅 2026-05-29: Use declarative style C# instead of XAML for Xamarin Forms UI.
@@ -281,7 +281,7 @@ You can find other awesome lists related to Xamarin below:
 
 ## Tools
 
-* [scrcpy ★64517](https://github.com/Genymobile/scrcpy) ⭐ 147,906 | 🐛 2,881 | 🌐 C | 📅 2026-08-17: This application provides display and control of Android devices connected on USB (or over TCP/IP). It does not require any root access. It works on GNU/Linux, Windows and MacOS.
+* [scrcpy ★64517](https://github.com/Genymobile/scrcpy) ⭐ 147,919 | 🐛 2,881 | 🌐 C | 📅 2026-08-17: This application provides display and control of Android devices connected on USB (or over TCP/IP). It does not require any root access. It works on GNU/Linux, Windows and MacOS.
 * [NSwag ★5096](https://github.com/RSuter/NSwag) ⭐ 7,360 | 🐛 2,054 | 🌐 C# | 📅 2026-06-21: Swagger and code generation tool for C#. Easily integrate your own or 3rd party APIs into your app.
 * [HotReload ★410](https://github.com/AndreiMisiukevich/HotReload) ⭐ 407 | 🐛 0 | 🌐 C# | 📅 2023-02-21: Xamarin.Forms XAML hot reload, live reload, live xaml.
 * [XAMLator ★201](https://github.com/ylatuya/XAMLator) ⭐ 194 | 🐛 7 | 🌐 C# | 📅 2019-04-02: Is a live XAML previewer for Xamarin.Forms. Change something in your view's XAML in Visual Studio and you preview it live in your device or simulator!
