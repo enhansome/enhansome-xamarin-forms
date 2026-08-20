@@ -321,10 +321,10 @@
             "archived": false,
             "id": 16157746,
             "language": "C#",
-            "last_commit": "2026-08-18T23:50:27Z",
+            "last_commit": "2026-08-20T15:41:42Z",
             "owner": "dotnet",
             "repo": "efcore",
-            "stars": 14771
+            "stars": 14772
           }
         },
         {
@@ -339,7 +339,7 @@
             "last_commit": "2026-08-11T06:00:45Z",
             "owner": "litedb-org",
             "repo": "LiteDB",
-            "stars": 9459
+            "stars": 9458
           }
         },
         {
@@ -366,7 +366,7 @@
             "archived": false,
             "id": 2896461,
             "language": "C#",
-            "last_commit": "2026-08-17T12:50:28Z",
+            "last_commit": "2026-08-20T08:02:36Z",
             "owner": "reactiveui",
             "repo": "Akavache",
             "stars": 2553
@@ -507,7 +507,7 @@
             "last_commit": "2026-08-06T01:21:10Z",
             "owner": "PrismLibrary",
             "repo": "Prism",
-            "stars": 6834
+            "stars": 6833
           }
         },
         {
@@ -2448,7 +2448,7 @@
             "last_commit": "2026-08-13T14:42:55Z",
             "owner": "JamesNK",
             "repo": "Newtonsoft.Json",
-            "stars": 11310
+            "stars": 11311
           }
         },
         {
@@ -2520,7 +2520,7 @@
             "last_commit": "2026-08-17T10:27:07Z",
             "owner": "Genymobile",
             "repo": "scrcpy",
-            "stars": 147919
+            "stars": 147982
           }
         },
         {
@@ -7025,7 +7025,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T18:26:36.265Z",
+    "last_updated": "2026-08-20T18:31:36.890Z",
     "original_repository": "jsuarezruiz/awesome-xamarin-forms",
     "original_repository_id": 80357743,
     "original_repository_sha": "54df77dca6f9d8195ca43b3e561dfdc691ebe4fc",
