@@ -321,10 +321,10 @@
             "archived": false,
             "id": 16157746,
             "language": "C#",
-            "last_commit": "2026-08-21T18:19:59Z",
+            "last_commit": "2026-08-22T04:34:33Z",
             "owner": "dotnet",
             "repo": "efcore",
-            "stars": 14774
+            "stars": 14772
           }
         },
         {
@@ -354,7 +354,7 @@
             "last_commit": "2026-07-13T16:23:53Z",
             "owner": "praeclarum",
             "repo": "sqlite-net",
-            "stars": 4459
+            "stars": 4460
           }
         },
         {
@@ -507,7 +507,7 @@
             "last_commit": "2026-08-06T01:21:10Z",
             "owner": "PrismLibrary",
             "repo": "Prism",
-            "stars": 6833
+            "stars": 6834
           }
         },
         {
@@ -906,7 +906,7 @@
             "last_commit": "2024-07-03T14:22:02Z",
             "owner": "Baseflow",
             "repo": "XamarinMediaManager",
-            "stars": 762
+            "stars": 763
           }
         },
         {
@@ -2520,7 +2520,7 @@
             "last_commit": "2026-08-17T10:27:07Z",
             "owner": "Genymobile",
             "repo": "scrcpy",
-            "stars": 148036
+            "stars": 148077
           }
         },
         {
@@ -2535,7 +2535,7 @@
             "last_commit": "2026-06-21T10:29:45Z",
             "owner": "RicoSuter",
             "repo": "NSwag",
-            "stars": 7359
+            "stars": 7358
           }
         },
         {
@@ -7025,7 +7025,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T18:29:22.035Z",
+    "last_updated": "2026-08-22T18:21:30.717Z",
     "original_repository": "jsuarezruiz/awesome-xamarin-forms",
     "original_repository_id": 80357743,
     "original_repository_sha": "54df77dca6f9d8195ca43b3e561dfdc691ebe4fc",
