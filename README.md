@@ -77,7 +77,7 @@ You can find other awesome lists related to Xamarin below:
 
 ## Database
 
-* [Entity Framework Core ★11230](https://github.com/aspnet/EntityFrameworkCore) ⭐ 14,775 | 🐛 2,375 | 🌐 C# | 📅 2026-08-24: Is a lightweight and extensible version of the popular Entity Framework data access technology.
+* [Entity Framework Core ★11230](https://github.com/aspnet/EntityFrameworkCore) ⭐ 14,776 | 🐛 2,373 | 🌐 C# | 📅 2026-08-24: Is a lightweight and extensible version of the popular Entity Framework data access technology.
 * [LiteDB ★6418](https://github.com/mbdavid/LiteDB) ⭐ 9,458 | 🐛 759 | 🌐 C# | 📅 2026-08-21: A .NET NoSQL Document Store in a single data file.
 * [SQLite-net ★3299](https://github.com/praeclarum/sqlite-net) ⭐ 4,461 | 🐛 616 | 🌐 C# | 📅 2026-07-13: It is an open source, minimal library to allow .NET and Mono applications to store data in SQLite 3 databases.
 * [Akavache ★2234](https://github.com/akavache/Akavache) ⭐ 2,553 | 🐛 5 | 🌐 C# | 📅 2026-08-20: Akavache is an asynchronous, persistent (i.e. writes to disk) key-value store created for writing desktop and mobile applications in C#, based on SQLite3. Akavache is great for both storing important data (i.e. user settings) as well as cached local data that expires.
@@ -134,7 +134,7 @@ You can find other awesome lists related to Xamarin below:
 
 ## Elmish
 
-* [Fabulous ★908](https://github.com/fsprojects/Fabulous) ⭐ 1,268 | 🐛 1 | 🌐 F# | 📅 2026-08-24: F# Functional App Development - Elmish for Xamarin.Forms <https://fsprojects.github.io/Fabulous/>
+* [Fabulous ★908](https://github.com/fsprojects/Fabulous) ⭐ 1,268 | 🐛 2 | 🌐 F# | 📅 2026-08-24: F# Functional App Development - Elmish for Xamarin.Forms <https://fsprojects.github.io/Fabulous/>
 * [Fabulous.SimpleElements ★47](https://github.com/Zaid-Ajaj/fabulous-simple-elements) ⚠️ Archived: An alternative view rendering API for Fabulous (Elmish Xamarin.Forms) that is easy to use and simple to read, inspired by Elmish on the web.
 * [Fun.LightForm ★1](https://github.com/albertwoo/Fun.LightForm): This is a light form library for Fable and Xamarin Fabulous in elmish style.
 
@@ -281,7 +281,7 @@ You can find other awesome lists related to Xamarin below:
 
 ## Tools
 
-* [scrcpy ★64517](https://github.com/Genymobile/scrcpy) ⭐ 148,168 | 🐛 2,882 | 🌐 C | 📅 2026-08-17: This application provides display and control of Android devices connected on USB (or over TCP/IP). It does not require any root access. It works on GNU/Linux, Windows and MacOS.
+* [scrcpy ★64517](https://github.com/Genymobile/scrcpy) ⭐ 148,176 | 🐛 2,882 | 🌐 C | 📅 2026-08-17: This application provides display and control of Android devices connected on USB (or over TCP/IP). It does not require any root access. It works on GNU/Linux, Windows and MacOS.
 * [NSwag ★5096](https://github.com/RSuter/NSwag) ⭐ 7,358 | 🐛 2,055 | 🌐 C# | 📅 2026-06-21: Swagger and code generation tool for C#. Easily integrate your own or 3rd party APIs into your app.
 * [HotReload ★410](https://github.com/AndreiMisiukevich/HotReload) ⭐ 407 | 🐛 0 | 🌐 C# | 📅 2023-02-21: Xamarin.Forms XAML hot reload, live reload, live xaml.
 * [XAMLator ★201](https://github.com/ylatuya/XAMLator) ⭐ 194 | 🐛 7 | 🌐 C# | 📅 2019-04-02: Is a live XAML previewer for Xamarin.Forms. Change something in your view's XAML in Visual Studio and you preview it live in your device or simulator!

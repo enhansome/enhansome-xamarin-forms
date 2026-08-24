@@ -15,7 +15,7 @@
             "last_commit": "2026-02-16T13:28:37Z",
             "owner": "XamSome",
             "repo": "awesome-xamarin",
-            "stars": 1871
+            "stars": 1872
           }
         },
         {
@@ -471,10 +471,10 @@
             "archived": false,
             "id": 16157746,
             "language": "C#",
-            "last_commit": "2026-08-24T05:41:26Z",
+            "last_commit": "2026-08-24T18:24:50Z",
             "owner": "dotnet",
             "repo": "efcore",
-            "stars": 14775
+            "stars": 14776
           }
         },
         {
@@ -870,7 +870,7 @@
             "archived": false,
             "id": 120334619,
             "language": "F#",
-            "last_commit": "2026-08-24T14:05:11Z",
+            "last_commit": "2026-08-24T18:23:39Z",
             "owner": "fabulous-dev",
             "repo": "Fabulous",
             "stars": 1268
@@ -2670,7 +2670,7 @@
             "last_commit": "2026-08-17T10:27:07Z",
             "owner": "Genymobile",
             "repo": "scrcpy",
-            "stars": 148168
+            "stars": 148176
           }
         },
         {
@@ -7175,7 +7175,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:12:40.647Z",
+    "last_updated": "2026-08-24T18:32:05.474Z",
     "original_repository": "jsuarezruiz/awesome-xamarin-forms",
     "original_repository_id": 80357743,
     "original_repository_sha": "54df77dca6f9d8195ca43b3e561dfdc691ebe4fc",
