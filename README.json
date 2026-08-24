@@ -5,6 +5,72 @@
       "items": [
         {
           "node_type": "item",
+          "title": "awesome-xamarin ★1790",
+          "description": "A collection of interesting libraries/tools for Xamarin mobile projects.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 37347744,
+            "language": null,
+            "last_commit": "2026-02-16T13:28:37Z",
+            "owner": "XamSome",
+            "repo": "awesome-xamarin",
+            "stars": 1871
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-xamarin ★387",
+          "description": "A curated list of awesome Xamarin iOS/Android and Xamarin Forms bindings, ports, frameworks and much more!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 78011619,
+            "language": null,
+            "last_commit": "2018-08-30T12:45:19Z",
+            "owner": "MarcBruins",
+            "repo": "awesome-xamarin",
+            "stars": 375
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Xamarin.Bindings ★149",
+          "description": "A list of existing Xamarin binding libraries.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 81954036,
+            "language": null,
+            "last_commit": "2022-02-16T02:45:35Z",
+            "owner": "aloisdeniel",
+            "repo": "Xamarin.Bindings",
+            "stars": 145
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome-Elmish.XamarinForms ★125",
+          "description": "A hand-curated list of awesome resources when using Elmish.XamarinForms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 138601813,
+            "language": null,
+            "last_commit": "2021-04-30T23:42:01Z",
+            "owner": "jimbobbennett",
+            "repo": "Awesome-Fabulous",
+            "stars": 131
+          }
+        }
+      ],
+      "title": "Overview"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "LottieXamarin ★1186",
           "description": "Render After Effects animations natively on Android and iOS for Xamarin.",
           "children": [],
@@ -248,6 +314,48 @@
       "items": [
         {
           "node_type": "item",
+          "title": "App-Service-Helpers ★76",
+          "description": "Add data storage and authentication to your app in a few lines of code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 59781411,
+            "language": "C#",
+            "last_commit": "2021-04-11T10:00:12Z",
+            "owner": "MikeCodesDotNET",
+            "repo": "App-Service-Helpers",
+            "stars": 78
+          }
+        }
+      ],
+      "title": "Cloud"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "XamarinCommunityToolkit ★1148",
+          "description": "The Xamarin Community Toolkit is a collection of common elements for mobile development with Xamarin.Forms that people tend to replicate across multiple apps. It simplifies and demonstrates common developer tasks when building apps with Xamarin.Forms.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 77180761,
+            "language": "C#",
+            "last_commit": "2024-05-01T11:41:57Z",
+            "owner": "xamarin",
+            "repo": "XamarinCommunityToolkit",
+            "stars": 1563
+          }
+        }
+      ],
+      "title": "Community Toolkit"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "Xamarin.Forms.ConvertersPack ★26",
           "description": "Package with multiple converters for Xamarin.Forms.",
           "children": [],
@@ -314,6 +422,48 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Xamarin Crumbs ★8",
+          "description": "A set of source code files —including XAML ones— to reuse once and again.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 144286144,
+            "language": "C#",
+            "last_commit": "2018-11-22T14:14:47Z",
+            "owner": "MarcosCobena",
+            "repo": "XamarinCrumbs",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Crumbs"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Apizr ★85",
+          "description": "Refit based web api client management, but resilient (retry, connectivity, cache, auth, log, priority, etc...).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 269575748,
+            "language": "C#",
+            "last_commit": "2026-08-24T13:40:30Z",
+            "owner": "Respawnsive",
+            "repo": "Apizr",
+            "stars": 175
+          }
+        }
+      ],
+      "title": "Data"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "Entity Framework Core ★11230",
           "description": "Is a lightweight and extensible version of the popular Entity Framework data access technology.",
           "children": [],
@@ -321,10 +471,10 @@
             "archived": false,
             "id": 16157746,
             "language": "C#",
-            "last_commit": "2026-08-23T02:54:11Z",
+            "last_commit": "2026-08-24T05:41:26Z",
             "owner": "dotnet",
             "repo": "efcore",
-            "stars": 14774
+            "stars": 14775
           }
         },
         {
@@ -519,7 +669,7 @@
             "archived": false,
             "id": 2870911,
             "language": "C#",
-            "last_commit": "2026-08-19T06:43:10Z",
+            "last_commit": "2026-08-24T13:26:01Z",
             "owner": "MvvmCross",
             "repo": "MvvmCross",
             "stars": 3923
@@ -720,10 +870,10 @@
             "archived": false,
             "id": 120334619,
             "language": "F#",
-            "last_commit": "2026-08-23T17:17:39Z",
+            "last_commit": "2026-08-24T14:05:11Z",
             "owner": "fabulous-dev",
             "repo": "Fabulous",
-            "stars": 1267
+            "stars": 1268
           }
         },
         {
@@ -846,7 +996,7 @@
             "last_commit": "2026-08-05T15:50:21Z",
             "owner": "videolan",
             "repo": "libvlcsharp",
-            "stars": 1805
+            "stars": 1806
           }
         },
         {
@@ -2262,7 +2412,7 @@
             "last_commit": "2022-06-22T18:04:24Z",
             "owner": "conceptdev",
             "repo": "xamarin-forms-samples",
-            "stars": 464
+            "stars": 463
           }
         },
         {
@@ -2520,7 +2670,7 @@
             "last_commit": "2026-08-17T10:27:07Z",
             "owner": "Genymobile",
             "repo": "scrcpy",
-            "stars": 148122
+            "stars": 148168
           }
         },
         {
@@ -7025,7 +7175,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T18:21:24.094Z",
+    "last_updated": "2026-08-24T14:12:40.647Z",
     "original_repository": "jsuarezruiz/awesome-xamarin-forms",
     "original_repository_id": 80357743,
     "original_repository_sha": "54df77dca6f9d8195ca43b3e561dfdc691ebe4fc",
