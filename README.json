@@ -471,10 +471,10 @@
             "archived": false,
             "id": 16157746,
             "language": "C#",
-            "last_commit": "2026-08-24T18:24:50Z",
+            "last_commit": "2026-08-25T00:21:54Z",
             "owner": "dotnet",
             "repo": "efcore",
-            "stars": 14776
+            "stars": 14777
           }
         },
         {
@@ -870,7 +870,7 @@
             "archived": false,
             "id": 120334619,
             "language": "F#",
-            "last_commit": "2026-08-24T18:23:39Z",
+            "last_commit": "2026-08-25T00:34:20Z",
             "owner": "fabulous-dev",
             "repo": "Fabulous",
             "stars": 1268
@@ -1041,7 +1041,7 @@
             "last_commit": "2026-05-29T16:52:43Z",
             "owner": "VincentH-Net",
             "repo": "CSharpForMarkup",
-            "stars": 833
+            "stars": 835
           }
         },
         {
@@ -2598,7 +2598,7 @@
             "last_commit": "2026-08-13T14:42:55Z",
             "owner": "JamesNK",
             "repo": "Newtonsoft.Json",
-            "stars": 11312
+            "stars": 11313
           }
         },
         {
@@ -2670,7 +2670,7 @@
             "last_commit": "2026-08-17T10:27:07Z",
             "owner": "Genymobile",
             "repo": "scrcpy",
-            "stars": 148176
+            "stars": 148202
           }
         },
         {
@@ -3171,7 +3171,7 @@
             "last_commit": "2025-10-25T00:16:41Z",
             "owner": "roubachof",
             "repo": "Sharpnado.MaterialFrame",
-            "stars": 518
+            "stars": 519
           }
         },
         {
@@ -7175,7 +7175,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T18:32:05.474Z",
+    "last_updated": "2026-08-25T06:04:36.977Z",
     "original_repository": "jsuarezruiz/awesome-xamarin-forms",
     "original_repository_id": 80357743,
     "original_repository_sha": "54df77dca6f9d8195ca43b3e561dfdc691ebe4fc",
