@@ -471,10 +471,10 @@
             "archived": false,
             "id": 16157746,
             "language": "C#",
-            "last_commit": "2026-08-25T17:45:41Z",
+            "last_commit": "2026-08-26T16:56:57Z",
             "owner": "dotnet",
             "repo": "efcore",
-            "stars": 14778
+            "stars": 14781
           }
         },
         {
@@ -504,7 +504,7 @@
             "last_commit": "2026-07-13T16:23:53Z",
             "owner": "praeclarum",
             "repo": "sqlite-net",
-            "stars": 4461
+            "stars": 4460
           }
         },
         {
@@ -516,7 +516,7 @@
             "archived": false,
             "id": 2896461,
             "language": "C#",
-            "last_commit": "2026-08-25T12:59:21Z",
+            "last_commit": "2026-08-26T15:36:37Z",
             "owner": "reactiveui",
             "repo": "Akavache",
             "stars": 2553
@@ -657,7 +657,7 @@
             "last_commit": "2026-08-06T01:21:10Z",
             "owner": "PrismLibrary",
             "repo": "Prism",
-            "stars": 6835
+            "stars": 6836
           }
         },
         {
@@ -672,7 +672,7 @@
             "last_commit": "2026-08-24T13:26:01Z",
             "owner": "MvvmCross",
             "repo": "MvvmCross",
-            "stars": 3923
+            "stars": 3921
           }
         },
         {
@@ -870,7 +870,7 @@
             "archived": false,
             "id": 120334619,
             "language": "F#",
-            "last_commit": "2026-08-25T00:34:20Z",
+            "last_commit": "2026-08-25T23:41:30Z",
             "owner": "fabulous-dev",
             "repo": "Fabulous",
             "stars": 1268
@@ -2598,7 +2598,7 @@
             "last_commit": "2026-08-13T14:42:55Z",
             "owner": "JamesNK",
             "repo": "Newtonsoft.Json",
-            "stars": 11313
+            "stars": 11315
           }
         },
         {
@@ -2670,7 +2670,7 @@
             "last_commit": "2026-08-17T10:27:07Z",
             "owner": "Genymobile",
             "repo": "scrcpy",
-            "stars": 148247
+            "stars": 148322
           }
         },
         {
@@ -3861,7 +3861,7 @@
             "last_commit": "2020-11-29T03:50:42Z",
             "owner": "bulubuloa",
             "repo": "Ultimate-Xamarin-Forms-KIT",
-            "stars": 121
+            "stars": 120
           }
         },
         {
@@ -7175,7 +7175,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T18:32:27.865Z",
+    "last_updated": "2026-08-26T19:42:12.788Z",
     "original_repository": "jsuarezruiz/awesome-xamarin-forms",
     "original_repository_id": 80357743,
     "original_repository_sha": "54df77dca6f9d8195ca43b3e561dfdc691ebe4fc",
