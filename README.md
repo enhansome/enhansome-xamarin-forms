@@ -71,13 +71,13 @@ You can find other awesome lists related to Xamarin below:
 
 ## Data
 
-* [Apizr ★85](https://github.com/Respawnsive/Apizr) ⭐ 175 | 🐛 5 | 🌐 C# | 📅 2026-08-24 - Refit based web api client management, but resilient (retry, connectivity, cache, auth, log, priority, etc...).
+* [Apizr ★85](https://github.com/Respawnsive/Apizr) ⭐ 175 | 🐛 5 | 🌐 C# | 📅 2026-08-27 - Refit based web api client management, but resilient (retry, connectivity, cache, auth, log, priority, etc...).
 * [Postman](https://www.getpostman.com): Tool for test web services requests and responses.
 * [Polly](http://www.thepollyproject.org): Automatic retry policies.
 
 ## Database
 
-* [Entity Framework Core ★11230](https://github.com/aspnet/EntityFrameworkCore) ⭐ 14,781 | 🐛 2,381 | 🌐 C# | 📅 2026-08-26: Is a lightweight and extensible version of the popular Entity Framework data access technology.
+* [Entity Framework Core ★11230](https://github.com/aspnet/EntityFrameworkCore) ⭐ 14,780 | 🐛 2,383 | 🌐 C# | 📅 2026-08-27: Is a lightweight and extensible version of the popular Entity Framework data access technology.
 * [LiteDB ★6418](https://github.com/mbdavid/LiteDB) ⭐ 9,458 | 🐛 759 | 🌐 C# | 📅 2026-08-21: A .NET NoSQL Document Store in a single data file.
 * [SQLite-net ★3299](https://github.com/praeclarum/sqlite-net) ⭐ 4,460 | 🐛 616 | 🌐 C# | 📅 2026-07-13: It is an open source, minimal library to allow .NET and Mono applications to store data in SQLite 3 databases.
 * [Akavache ★2234](https://github.com/akavache/Akavache) ⭐ 2,553 | 🐛 7 | 🌐 C# | 📅 2026-08-26: Akavache is an asynchronous, persistent (i.e. writes to disk) key-value store created for writing desktop and mobile applications in C#, based on SQLite3. Akavache is great for both storing important data (i.e. user settings) as well as cached local data that expires.
@@ -113,8 +113,8 @@ You can find other awesome lists related to Xamarin below:
 
 ## MVVM
 
-* [Prism ★5083](https://github.com/PrismLibrary/Prism) ⭐ 6,836 | 🐛 27 | 🌐 C# | 📅 2026-08-06: Nice framework with an amazing navigation service.
-* [MVVMCross ★3637](https://github.com/MvvmCross/MvvmCross) ⭐ 3,921 | 🐛 183 | 🌐 C# | 📅 2026-08-24: Cross-platform mvvm mobile development framework.
+* [Prism ★5083](https://github.com/PrismLibrary/Prism) ⭐ 6,838 | 🐛 27 | 🌐 C# | 📅 2026-08-06: Nice framework with an amazing navigation service.
+* [MVVMCross ★3637](https://github.com/MvvmCross/MvvmCross) ⭐ 3,921 | 🐛 185 | 🌐 C# | 📅 2026-08-27: Cross-platform mvvm mobile development framework.
 * [FreshMvvm ★564](https://github.com/rid00z/FreshMvvm) ⭐ 589 | 🐛 150 | 🌐 C# | 📅 2022-02-11: It is a super light Mvvm Framework designed specifically for Xamarin.Forms
 * [Xamarin University Infrastructure Library ★144](https://github.com/xamarinhq/xamu-infrastructure) ⚠️ Archived: Extensions, MVVM classes, behaviors and other misc. useful code bits from Xamarin University.
 * [xamvvm ★120](https://github.com/xamvvm/xamvvm) ⭐ 120 | 🐛 8 | 🌐 C# | 📅 2022-10-18: Simple MVVM (Model, ViewModel, View) Framework for .Net - Xamarin.Forms compatible.
@@ -134,7 +134,7 @@ You can find other awesome lists related to Xamarin below:
 
 ## Elmish
 
-* [Fabulous ★908](https://github.com/fsprojects/Fabulous) ⭐ 1,268 | 🐛 13 | 🌐 F# | 📅 2026-08-25: F# Functional App Development - Elmish for Xamarin.Forms <https://fsprojects.github.io/Fabulous/>
+* [Fabulous ★908](https://github.com/fsprojects/Fabulous) ⭐ 1,268 | 🐛 13 | 🌐 F# | 📅 2026-08-27: F# Functional App Development - Elmish for Xamarin.Forms <https://fsprojects.github.io/Fabulous/>
 * [Fabulous.SimpleElements ★47](https://github.com/Zaid-Ajaj/fabulous-simple-elements) ⚠️ Archived: An alternative view rendering API for Fabulous (Elmish Xamarin.Forms) that is easy to use and simple to read, inspired by Elmish on the web.
 * [Fun.LightForm ★1](https://github.com/albertwoo/Fun.LightForm): This is a light form library for Fable and Xamarin Fabulous in elmish style.
 
@@ -281,7 +281,7 @@ You can find other awesome lists related to Xamarin below:
 
 ## Tools
 
-* [scrcpy ★64517](https://github.com/Genymobile/scrcpy) ⭐ 148,322 | 🐛 2,883 | 🌐 C | 📅 2026-08-17: This application provides display and control of Android devices connected on USB (or over TCP/IP). It does not require any root access. It works on GNU/Linux, Windows and MacOS.
+* [scrcpy ★64517](https://github.com/Genymobile/scrcpy) ⭐ 148,366 | 🐛 2,883 | 🌐 C | 📅 2026-08-17: This application provides display and control of Android devices connected on USB (or over TCP/IP). It does not require any root access. It works on GNU/Linux, Windows and MacOS.
 * [NSwag ★5096](https://github.com/RSuter/NSwag) ⭐ 7,358 | 🐛 2,055 | 🌐 C# | 📅 2026-06-21: Swagger and code generation tool for C#. Easily integrate your own or 3rd party APIs into your app.
 * [HotReload ★410](https://github.com/AndreiMisiukevich/HotReload) ⭐ 407 | 🐛 0 | 🌐 C# | 📅 2023-02-21: Xamarin.Forms XAML hot reload, live reload, live xaml.
 * [XAMLator ★201](https://github.com/ylatuya/XAMLator) ⭐ 194 | 🐛 7 | 🌐 C# | 📅 2019-04-02: Is a live XAML previewer for Xamarin.Forms. Change something in your view's XAML in Visual Studio and you preview it live in your device or simulator!
@@ -442,9 +442,9 @@ You can find other awesome lists related to Xamarin below:
 * [BuildIt ★34](https://github.com/builttoroam/BuildIt) ⭐ 33 | 🐛 62 | 🌐 C# | 📅 2022-12-08: Build It is the set of libraries that makes it easier and quicker to build applications.
 * [CircularProgress ★34](https://github.com/billreiss/xamlnative/tree/master/XamarinForms/CircularProgress) ⭐ 33 | 🐛 1 | 🌐 C# | 📅 2016-07-07: Circular Progress control for Xamarin Forms.
 * [GridSplitter ★32](https://github.com/andreinitescu/GridSplitterApp) ⭐ 32 | 🐛 5 | 🌐 C# | 📅 2018-03-14: A control for Xamarin Forms that redistributes space between columns or rows of a Grid control.
+* [OverFlower ★3](https://github.com/nor0x/OverFlower) ⭐ 31 | 🐛 1 | 🌐 C# | 📅 2024-03-15: Endless scroller control for Xamarin.Forms.
 * [PlacesSearchBar ★33](https://github.com/ajsmithsw/PlacesSearchBar) ⭐ 31 | 🐛 1 | 🌐 C# | 📅 2022-12-08: An extension of Xamarin.Forms SearchBar control for implementing Google Places Autocomplete API.
 * [Forms-BottomSheet ★30](https://github.com/rlingineni/Forms-BottomSheet) ⭐ 30 | 🐛 4 | 🌐 Assembly | 📅 2019-07-05: A bottom sheet control for Xamarin.Forms.
-* [OverFlower ★3](https://github.com/nor0x/OverFlower) ⭐ 30 | 🐛 1 | 🌐 C# | 📅 2024-03-15: Endless scroller control for Xamarin.Forms.
 * [XamarinCountryPicker ★25](https://github.com/bbenetskyy/XamarinCountryPicker) ⚠️ Archived: Country Picker Popup with Country Codes and SVG Flags powered by Rg.Plugins.Popup NuGet.
 * [laconic ★26](https://github.com/shirshov/laconic) ⭐ 29 | 🐛 0 | 🌐 C# | 📅 2023-08-07: Is an MVU library for writing apps with Xamarin.Forms in plain C#, using React + Redux approach.
 * [TooltipSample ★28](https://github.com/CrossGeeks/TooltipSample) ⭐ 29 | 🐛 5 | 🌐 C# | 📅 2019-03-01: Xamarin.Forms showing Tooltips sample.
@@ -623,4 +623,4 @@ You can find other awesome lists related to Xamarin below:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._

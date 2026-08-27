@@ -450,7 +450,7 @@
             "archived": false,
             "id": 269575748,
             "language": "C#",
-            "last_commit": "2026-08-24T13:40:30Z",
+            "last_commit": "2026-08-27T10:08:06Z",
             "owner": "Respawnsive",
             "repo": "Apizr",
             "stars": 175
@@ -471,10 +471,10 @@
             "archived": false,
             "id": 16157746,
             "language": "C#",
-            "last_commit": "2026-08-26T16:56:57Z",
+            "last_commit": "2026-08-27T07:50:40Z",
             "owner": "dotnet",
             "repo": "efcore",
-            "stars": 14781
+            "stars": 14780
           }
         },
         {
@@ -657,7 +657,7 @@
             "last_commit": "2026-08-06T01:21:10Z",
             "owner": "PrismLibrary",
             "repo": "Prism",
-            "stars": 6836
+            "stars": 6838
           }
         },
         {
@@ -669,7 +669,7 @@
             "archived": false,
             "id": 2870911,
             "language": "C#",
-            "last_commit": "2026-08-24T13:26:01Z",
+            "last_commit": "2026-08-27T04:49:43Z",
             "owner": "MvvmCross",
             "repo": "MvvmCross",
             "stars": 3921
@@ -870,7 +870,7 @@
             "archived": false,
             "id": 120334619,
             "language": "F#",
-            "last_commit": "2026-08-25T23:41:30Z",
+            "last_commit": "2026-08-27T00:43:00Z",
             "owner": "fabulous-dev",
             "repo": "Fabulous",
             "stars": 1268
@@ -2670,7 +2670,7 @@
             "last_commit": "2026-08-17T10:27:07Z",
             "owner": "Genymobile",
             "repo": "scrcpy",
-            "stars": 148322
+            "stars": 148366
           }
         },
         {
@@ -4781,6 +4781,21 @@
         },
         {
           "node_type": "item",
+          "title": "OverFlower ★3",
+          "description": "Endless scroller control for Xamarin.Forms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 424850613,
+            "language": "C#",
+            "last_commit": "2024-03-15T10:14:58Z",
+            "owner": "nor0x",
+            "repo": "OverFlower",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
           "title": "PlacesSearchBar ★33",
           "description": "An extension of Xamarin.Forms SearchBar control for implementing Google Places Autocomplete API.",
           "children": [],
@@ -4806,21 +4821,6 @@
             "last_commit": "2019-07-05T03:40:00Z",
             "owner": "rlingineni",
             "repo": "Forms-BottomSheet",
-            "stars": 30
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "OverFlower ★3",
-          "description": "Endless scroller control for Xamarin.Forms.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 424850613,
-            "language": "C#",
-            "last_commit": "2024-03-15T10:14:58Z",
-            "owner": "nor0x",
-            "repo": "OverFlower",
             "stars": 30
           }
         },
@@ -7175,9 +7175,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T19:42:12.788Z",
-    "original_repository": "jsuarezruiz/awesome-xamarin-forms",
-    "original_repository_id": 80357743,
+    "last_updated": "2026-08-27T12:15:33.876Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 80357743,
+      "language": "C#",
+      "last_commit": "2023-08-06T09:52:15Z",
+      "owner": "jsuarezruiz",
+      "repo": "awesome-xamarin-forms",
+      "stars": 1225
+    },
     "original_repository_sha": "54df77dca6f9d8195ca43b3e561dfdc691ebe4fc",
     "enhanced_repository": "enhansome/enhansome-xamarin-forms",
     "enhanced_repository_description": null,
