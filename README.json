@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "XamSome",
             "repo": "awesome-xamarin",
-            "stars": 1872,
+            "stars": 1871,
             "topics": [
               "awesome",
               "awesome-list",
@@ -534,7 +534,7 @@
             "open_issues": 291,
             "owner": "xamarin",
             "repo": "XamarinCommunityToolkit",
-            "stars": 1562,
+            "stars": 1561,
             "topics": [
               "android",
               "behaviors",
@@ -568,7 +568,7 @@
             "language": "C#",
             "license": null,
             "last_commit": "2020-08-29T01:13:02Z",
-            "open_issues": 5,
+            "open_issues": 4,
             "owner": "TBertuzzi",
             "repo": "Xamarin.Forms.ConvertersPack",
             "stars": 27,
@@ -722,7 +722,7 @@
             "id": 16157746,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-08-29T02:44:25Z",
+            "last_commit": "2026-08-29T17:28:05Z",
             "open_issues": 2383,
             "owner": "dotnet",
             "repo": "efcore",
@@ -801,8 +801,8 @@
             "id": 2896461,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-08-26T15:36:37Z",
-            "open_issues": 7,
+            "last_commit": "2026-08-29T17:01:10Z",
+            "open_issues": 8,
             "owner": "reactiveui",
             "repo": "Akavache",
             "stars": 2553,
@@ -1738,7 +1738,7 @@
             "open_issues": 3,
             "owner": "jamesmontemagno",
             "repo": "InAppBillingPlugin",
-            "stars": 728,
+            "stars": 727,
             "topics": []
           },
           "first_seen": "2026-08-29T01:23:51.023Z"
@@ -4261,7 +4261,7 @@
             "open_issues": 826,
             "owner": "JamesNK",
             "repo": "Newtonsoft.Json",
-            "stars": 11315,
+            "stars": 11316,
             "topics": [
               "c-sharp",
               "json"
@@ -4369,10 +4369,10 @@
             "language": "C",
             "license": "Apache-2.0",
             "last_commit": "2026-08-17T10:27:07Z",
-            "open_issues": 2884,
+            "open_issues": 2885,
             "owner": "Genymobile",
             "repo": "scrcpy",
-            "stars": 148468,
+            "stars": 148511,
             "topics": [
               "android",
               "c",
@@ -5259,7 +5259,7 @@
             "open_issues": 0,
             "owner": "roubachof",
             "repo": "Sharpnado.MaterialFrame",
-            "stars": 519,
+            "stars": 518,
             "topics": []
           },
           "first_seen": "2026-08-29T01:23:51.023Z"
@@ -11760,7 +11760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:38:24.772Z",
+    "last_updated": "2026-08-29T20:18:43.175Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Xamarin.Forms libraries and resources",
@@ -11772,7 +11772,7 @@
       "open_issues": 2,
       "owner": "jsuarezruiz",
       "repo": "awesome-xamarin-forms",
-      "stars": 1224,
+      "stars": 1223,
       "topics": [
         "animation",
         "awesome",
