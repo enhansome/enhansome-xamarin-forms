@@ -722,7 +722,7 @@
             "id": 16157746,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-08-29T17:28:05Z",
+            "last_commit": "2026-08-30T17:48:02Z",
             "open_issues": 2383,
             "owner": "dotnet",
             "repo": "efcore",
@@ -1052,7 +1052,7 @@
             "open_issues": 27,
             "owner": "PrismLibrary",
             "repo": "Prism",
-            "stars": 6839,
+            "stars": 6840,
             "topics": [
               "c-sharp",
               "hacktoberfest",
@@ -1404,7 +1404,7 @@
             "id": 120334619,
             "language": "F#",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T01:35:22Z",
+            "last_commit": "2026-08-30T20:12:09Z",
             "open_issues": 7,
             "owner": "fabulous-dev",
             "repo": "Fabulous",
@@ -1592,7 +1592,7 @@
             "open_issues": 4,
             "owner": "videolan",
             "repo": "libvlcsharp",
-            "stars": 1805,
+            "stars": 1808,
             "topics": [
               "dotnet",
               "libvlc",
@@ -4261,7 +4261,7 @@
             "open_issues": 826,
             "owner": "JamesNK",
             "repo": "Newtonsoft.Json",
-            "stars": 11316,
+            "stars": 11315,
             "topics": [
               "c-sharp",
               "json"
@@ -4369,10 +4369,10 @@
             "language": "C",
             "license": "Apache-2.0",
             "last_commit": "2026-08-17T10:27:07Z",
-            "open_issues": 2885,
+            "open_issues": 2889,
             "owner": "Genymobile",
             "repo": "scrcpy",
-            "stars": 148511,
+            "stars": 148573,
             "topics": [
               "android",
               "c",
@@ -4402,7 +4402,7 @@
             "open_issues": 2055,
             "owner": "RicoSuter",
             "repo": "NSwag",
-            "stars": 7359,
+            "stars": 7360,
             "topics": [
               "angular",
               "aspnet",
@@ -11760,7 +11760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T20:18:43.175Z",
+    "last_updated": "2026-08-30T20:25:51.646Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Xamarin.Forms libraries and resources",
