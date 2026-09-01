@@ -72,7 +72,7 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2022-02-16T02:45:35Z",
-            "open_issues": 8,
+            "open_issues": 7,
             "owner": "aloisdeniel",
             "repo": "Xamarin.Bindings",
             "stars": 145,
@@ -722,11 +722,11 @@
             "id": 16157746,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-08-31T20:52:30Z",
-            "open_issues": 2381,
+            "last_commit": "2026-09-01T19:22:36Z",
+            "open_issues": 2386,
             "owner": "dotnet",
             "repo": "efcore",
-            "stars": 14784,
+            "stars": 14786,
             "topics": [
               "aspnet-product",
               "c-sharp",
@@ -805,7 +805,7 @@
             "open_issues": 8,
             "owner": "reactiveui",
             "repo": "Akavache",
-            "stars": 2553,
+            "stars": 2552,
             "topics": [
               "akavache",
               "c-sharp",
@@ -1052,7 +1052,7 @@
             "open_issues": 27,
             "owner": "PrismLibrary",
             "repo": "Prism",
-            "stars": 6840,
+            "stars": 6839,
             "topics": [
               "c-sharp",
               "hacktoberfest",
@@ -1404,11 +1404,11 @@
             "id": 120334619,
             "language": "F#",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-31T22:12:51Z",
+            "last_commit": "2026-09-01T20:11:28Z",
             "open_issues": 9,
             "owner": "fabulous-dev",
             "repo": "Fabulous",
-            "stars": 1269,
+            "stars": 1270,
             "topics": [
               "declarative-ui",
               "fabulous",
@@ -1672,7 +1672,7 @@
             "open_issues": 7,
             "owner": "VincentH-Net",
             "repo": "CSharpForMarkup",
-            "stars": 835,
+            "stars": 836,
             "topics": [
               "csharp",
               "ide-support",
@@ -4285,7 +4285,7 @@
             "open_issues": 172,
             "owner": "neuecc",
             "repo": "Utf8Json",
-            "stars": 2382,
+            "stars": 2381,
             "topics": []
           },
           "first_seen": "2026-08-29T01:23:51.023Z"
@@ -4369,10 +4369,10 @@
             "language": "C",
             "license": "Apache-2.0",
             "last_commit": "2026-08-17T10:27:07Z",
-            "open_issues": 2891,
+            "open_issues": 2893,
             "owner": "Genymobile",
             "repo": "scrcpy",
-            "stars": 148630,
+            "stars": 148693,
             "topics": [
               "android",
               "c",
@@ -4402,7 +4402,7 @@
             "open_issues": 2055,
             "owner": "RicoSuter",
             "repo": "NSwag",
-            "stars": 7360,
+            "stars": 7361,
             "topics": [
               "angular",
               "aspnet",
@@ -6914,7 +6914,7 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-05-18T20:35:58Z",
-            "open_issues": 5,
+            "open_issues": 4,
             "owner": "anpin",
             "repo": "ContextMenuContainer",
             "stars": 73,
@@ -11760,7 +11760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T22:19:25.162Z",
+    "last_updated": "2026-09-01T20:25:49.116Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Xamarin.Forms libraries and resources",
