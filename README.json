@@ -722,8 +722,8 @@
             "id": 16157746,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-01T19:22:36Z",
-            "open_issues": 2386,
+            "last_commit": "2026-09-02T17:45:50Z",
+            "open_issues": 2377,
             "owner": "dotnet",
             "repo": "efcore",
             "stars": 14786,
@@ -757,7 +757,7 @@
             "open_issues": 759,
             "owner": "litedb-org",
             "repo": "LiteDB",
-            "stars": 9459,
+            "stars": 9461,
             "topics": [
               "database",
               "dotnet",
@@ -1078,11 +1078,11 @@
             "id": 2870911,
             "language": "C#",
             "license": "MS-PL",
-            "last_commit": "2026-08-31T10:04:16Z",
-            "open_issues": 184,
+            "last_commit": "2026-09-02T03:13:11Z",
+            "open_issues": 185,
             "owner": "MvvmCross",
             "repo": "MvvmCross",
-            "stars": 3921,
+            "stars": 3923,
             "topics": [
               "android",
               "c-sharp",
@@ -1404,7 +1404,7 @@
             "id": 120334619,
             "language": "F#",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-01T20:11:28Z",
+            "last_commit": "2026-09-02T01:32:45Z",
             "open_issues": 9,
             "owner": "fabulous-dev",
             "repo": "Fabulous",
@@ -4261,7 +4261,7 @@
             "open_issues": 826,
             "owner": "JamesNK",
             "repo": "Newtonsoft.Json",
-            "stars": 11315,
+            "stars": 11317,
             "topics": [
               "c-sharp",
               "json"
@@ -4369,10 +4369,10 @@
             "language": "C",
             "license": "Apache-2.0",
             "last_commit": "2026-08-17T10:27:07Z",
-            "open_issues": 2893,
+            "open_issues": 2894,
             "owner": "Genymobile",
             "repo": "scrcpy",
-            "stars": 148693,
+            "stars": 148747,
             "topics": [
               "android",
               "c",
@@ -6914,7 +6914,7 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-05-18T20:35:58Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "anpin",
             "repo": "ContextMenuContainer",
             "stars": 73,
@@ -11760,7 +11760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T20:25:49.116Z",
+    "last_updated": "2026-09-02T20:25:40.682Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Xamarin.Forms libraries and resources",
