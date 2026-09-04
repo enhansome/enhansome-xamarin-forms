@@ -722,11 +722,11 @@
             "id": 16157746,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-03T19:53:12Z",
-            "open_issues": 2374,
+            "last_commit": "2026-09-04T17:39:24Z",
+            "open_issues": 2370,
             "owner": "dotnet",
             "repo": "efcore",
-            "stars": 14786,
+            "stars": 14787,
             "topics": [
               "aspnet-product",
               "c-sharp",
@@ -757,7 +757,7 @@
             "open_issues": 759,
             "owner": "litedb-org",
             "repo": "LiteDB",
-            "stars": 9462,
+            "stars": 9463,
             "topics": [
               "database",
               "dotnet",
@@ -1052,7 +1052,7 @@
             "open_issues": 27,
             "owner": "PrismLibrary",
             "repo": "Prism",
-            "stars": 6839,
+            "stars": 6840,
             "topics": [
               "c-sharp",
               "hacktoberfest",
@@ -1404,8 +1404,8 @@
             "id": 120334619,
             "language": "F#",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-03T18:34:37Z",
-            "open_issues": 12,
+            "last_commit": "2026-09-03T23:38:01Z",
+            "open_issues": 10,
             "owner": "fabulous-dev",
             "repo": "Fabulous",
             "stars": 1270,
@@ -1592,7 +1592,7 @@
             "open_issues": 4,
             "owner": "videolan",
             "repo": "libvlcsharp",
-            "stars": 1808,
+            "stars": 1809,
             "topics": [
               "dotnet",
               "libvlc",
@@ -1672,7 +1672,7 @@
             "open_issues": 7,
             "owner": "VincentH-Net",
             "repo": "CSharpForMarkup",
-            "stars": 836,
+            "stars": 837,
             "topics": [
               "csharp",
               "ide-support",
@@ -1930,16 +1930,16 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "A cross-platform framework for adding WebRTC support to .NET MAUI,  Blazor, and Desktop applications by using a single unified .NET/C# API.",
+            "description": "A cross-platform framework that enables WebRTC support in .NET MAUI (mobile and desktop) and Blazor applications through a single, unified .NET/C# API.",
             "homepage": "https://github.com/melihercan/WebRTCme",
             "id": 300844166,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-03T20:08:24Z",
+            "last_commit": "2026-09-04T11:12:57Z",
             "open_issues": 19,
             "owner": "melihercan",
             "repo": "WebRTCme",
-            "stars": 267,
+            "stars": 268,
             "topics": [
               "blazor",
               "desktop",
@@ -4368,11 +4368,11 @@
             "id": 111583593,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-03T11:00:58Z",
-            "open_issues": 2896,
+            "last_commit": "2026-09-04T17:01:38Z",
+            "open_issues": 2901,
             "owner": "Genymobile",
             "repo": "scrcpy",
-            "stars": 148813,
+            "stars": 148891,
             "topics": [
               "android",
               "c",
@@ -5208,7 +5208,7 @@
             "open_issues": 11,
             "owner": "roubachof",
             "repo": "Sharpnado.Tabs",
-            "stars": 580,
+            "stars": 581,
             "topics": [
               "android",
               "badge",
@@ -5946,7 +5946,7 @@
             "open_issues": 7,
             "owner": "markolazic88",
             "repo": "SwipeCardView",
-            "stars": 171,
+            "stars": 170,
             "topics": []
           },
           "first_seen": "2026-08-29T01:23:51.023Z"
@@ -6320,7 +6320,7 @@
             "open_issues": 1,
             "owner": "arqueror",
             "repo": "Xamarin.Forms-RadialMenu",
-            "stars": 124,
+            "stars": 125,
             "topics": []
           },
           "first_seen": "2026-08-29T01:23:51.023Z"
@@ -11760,7 +11760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T20:24:39.951Z",
+    "last_updated": "2026-09-04T20:10:31.696Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Xamarin.Forms libraries and resources",
