@@ -534,7 +534,7 @@
             "open_issues": 291,
             "owner": "xamarin",
             "repo": "XamarinCommunityToolkit",
-            "stars": 1561,
+            "stars": 1560,
             "topics": [
               "android",
               "behaviors",
@@ -722,8 +722,8 @@
             "id": 16157746,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-06T12:35:27Z",
-            "open_issues": 2373,
+            "last_commit": "2026-09-07T17:41:09Z",
+            "open_issues": 2378,
             "owner": "dotnet",
             "repo": "efcore",
             "stars": 14789,
@@ -784,7 +784,7 @@
             "open_issues": 616,
             "owner": "praeclarum",
             "repo": "sqlite-net",
-            "stars": 4461,
+            "stars": 4460,
             "topics": []
           },
           "first_seen": "2026-08-29T01:23:51.023Z"
@@ -1048,11 +1048,11 @@
             "id": 31335300,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-06T01:21:10Z",
-            "open_issues": 28,
+            "last_commit": "2026-09-07T19:30:30Z",
+            "open_issues": 26,
             "owner": "PrismLibrary",
             "repo": "Prism",
-            "stars": 6842,
+            "stars": 6841,
             "topics": [
               "c-sharp",
               "hacktoberfest",
@@ -1399,12 +1399,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Declarative UI framework for cross-platform mobile & desktop apps, using MVU and F# functional programming",
+            "description": "Declarative UI framework for cross-platform mobile & desktop apps, using MVU and functional programming in F#",
             "homepage": "https://fabulous-dev.github.io/Fabulous/",
             "id": 120334619,
             "language": "F#",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-05T23:36:21Z",
+            "last_commit": "2026-09-07T00:17:41Z",
             "open_issues": 11,
             "owner": "fabulous-dev",
             "repo": "Fabulous",
@@ -1589,10 +1589,10 @@
             "language": "C#",
             "license": "LGPL-2.1",
             "last_commit": "2026-08-31T11:23:11Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "videolan",
             "repo": "libvlcsharp",
-            "stars": 1809,
+            "stars": 1810,
             "topics": [
               "dotnet",
               "libvlc",
@@ -1622,7 +1622,7 @@
             "open_issues": 199,
             "owner": "xamarin",
             "repo": "Essentials",
-            "stars": 1497,
+            "stars": 1496,
             "topics": [
               "android",
               "cross-platform",
@@ -1780,7 +1780,7 @@
             "open_issues": 41,
             "owner": "thudugala",
             "repo": "Plugin.LocalNotification",
-            "stars": 473,
+            "stars": 474,
             "topics": [
               "local",
               "maui",
@@ -1868,7 +1868,7 @@
             "open_issues": 59,
             "owner": "jamesmontemagno",
             "repo": "GeolocatorPlugin",
-            "stars": 292,
+            "stars": 291,
             "topics": [
               "android",
               "geolocation-plugin",
@@ -1935,11 +1935,11 @@
             "id": 300844166,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-06T18:35:55Z",
+            "last_commit": "2026-09-07T16:19:18Z",
             "open_issues": 19,
             "owner": "melihercan",
             "repo": "WebRTCme",
-            "stars": 268,
+            "stars": 267,
             "topics": [
               "blazor",
               "desktop",
@@ -3914,7 +3914,7 @@
             "open_issues": 0,
             "owner": "xamarin",
             "repo": "xamarin-forms-samples",
-            "stars": 4247,
+            "stars": 4246,
             "topics": [
               "xamarin",
               "xamarin-forms"
@@ -4261,7 +4261,7 @@
             "open_issues": 826,
             "owner": "JamesNK",
             "repo": "Newtonsoft.Json",
-            "stars": 11316,
+            "stars": 11313,
             "topics": [
               "c-sharp",
               "json"
@@ -4368,11 +4368,11 @@
             "id": 111583593,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-06T15:59:13Z",
-            "open_issues": 2900,
+            "last_commit": "2026-09-07T07:22:21Z",
+            "open_issues": 2899,
             "owner": "Genymobile",
             "repo": "scrcpy",
-            "stars": 149007,
+            "stars": 149086,
             "topics": [
               "android",
               "c",
@@ -4398,11 +4398,11 @@
             "id": 41822320,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-06-21T10:29:45Z",
-            "open_issues": 2055,
+            "last_commit": "2026-09-07T21:01:37Z",
+            "open_issues": 2056,
             "owner": "RicoSuter",
             "repo": "NSwag",
-            "stars": 7361,
+            "stars": 7363,
             "topics": [
               "angular",
               "aspnet",
@@ -5061,7 +5061,7 @@
             "open_issues": 40,
             "owner": "sthewissen",
             "repo": "Xamarin.Forms.PancakeView",
-            "stars": 844,
+            "stars": 843,
             "topics": [
               "xamarin",
               "xamarin-forms",
@@ -5259,7 +5259,7 @@
             "open_issues": 0,
             "owner": "roubachof",
             "repo": "Sharpnado.MaterialFrame",
-            "stars": 518,
+            "stars": 519,
             "topics": []
           },
           "first_seen": "2026-08-29T01:23:51.023Z"
@@ -11760,7 +11760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T19:54:01.605Z",
+    "last_updated": "2026-09-07T21:01:42.920Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Xamarin.Forms libraries and resources",
