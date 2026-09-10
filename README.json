@@ -135,7 +135,7 @@
             "open_issues": 55,
             "owner": "Baseflow",
             "repo": "LottieXamarin",
-            "stars": 1213,
+            "stars": 1212,
             "topics": [
               "airbnb",
               "android",
@@ -722,11 +722,11 @@
             "id": 16157746,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-09T19:03:10Z",
-            "open_issues": 2387,
+            "last_commit": "2026-09-10T19:24:33Z",
+            "open_issues": 2349,
             "owner": "dotnet",
             "repo": "efcore",
-            "stars": 14789,
+            "stars": 14790,
             "topics": [
               "aspnet-product",
               "c-sharp",
@@ -757,7 +757,7 @@
             "open_issues": 759,
             "owner": "litedb-org",
             "repo": "LiteDB",
-            "stars": 9462,
+            "stars": 9463,
             "topics": [
               "database",
               "dotnet",
@@ -805,7 +805,7 @@
             "open_issues": 10,
             "owner": "reactiveui",
             "repo": "Akavache",
-            "stars": 2552,
+            "stars": 2553,
             "topics": [
               "akavache",
               "c-sharp",
@@ -1052,7 +1052,7 @@
             "open_issues": 25,
             "owner": "PrismLibrary",
             "repo": "Prism",
-            "stars": 6841,
+            "stars": 6840,
             "topics": [
               "c-sharp",
               "hacktoberfest",
@@ -1082,7 +1082,7 @@
             "open_issues": 184,
             "owner": "MvvmCross",
             "repo": "MvvmCross",
-            "stars": 3922,
+            "stars": 3921,
             "topics": [
               "android",
               "c-sharp",
@@ -1194,7 +1194,7 @@
             "open_issues": 6,
             "owner": "TinyStuff",
             "repo": "TinyMvvm",
-            "stars": 93,
+            "stars": 92,
             "topics": [
               "xamarin"
             ]
@@ -1404,8 +1404,8 @@
             "id": 120334619,
             "language": "F#",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-08T23:43:09Z",
-            "open_issues": 12,
+            "last_commit": "2026-09-10T13:28:00Z",
+            "open_issues": 13,
             "owner": "fabulous-dev",
             "repo": "Fabulous",
             "stars": 1271,
@@ -1776,8 +1776,8 @@
             "id": 150206895,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-07-22T21:19:44Z",
-            "open_issues": 41,
+            "last_commit": "2026-09-09T22:39:28Z",
+            "open_issues": 39,
             "owner": "thudugala",
             "repo": "Plugin.LocalNotification",
             "stars": 474,
@@ -1935,7 +1935,7 @@
             "id": 300844166,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-09T20:15:00Z",
+            "last_commit": "2026-09-10T10:08:40Z",
             "open_issues": 19,
             "owner": "melihercan",
             "repo": "WebRTCme",
@@ -3934,11 +3934,11 @@
             "id": 118641651,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-09T09:27:59Z",
-            "open_issues": 3,
+            "last_commit": "2026-09-10T18:50:58Z",
+            "open_issues": 1,
             "owner": "TheCodeTraveler",
             "repo": "AsyncAwaitBestPractices",
-            "stars": 1839,
+            "stars": 1841,
             "topics": [
               "async",
               "await",
@@ -4368,11 +4368,11 @@
             "id": 111583593,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-07T07:22:21Z",
-            "open_issues": 2901,
+            "last_commit": "2026-09-10T16:17:17Z",
+            "open_issues": 2899,
             "owner": "Genymobile",
             "repo": "scrcpy",
-            "stars": 149242,
+            "stars": 149331,
             "topics": [
               "android",
               "c",
@@ -4399,10 +4399,10 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-09-07T21:10:58Z",
-            "open_issues": 2055,
+            "open_issues": 2056,
             "owner": "RicoSuter",
             "repo": "NSwag",
-            "stars": 7365,
+            "stars": 7366,
             "topics": [
               "angular",
               "aspnet",
@@ -5276,8 +5276,8 @@
             "id": 189624808,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-09T15:54:46Z",
-            "open_issues": 20,
+            "last_commit": "2026-09-10T17:05:52Z",
+            "open_issues": 22,
             "owner": "HorusSoftwareUY",
             "repo": "Xamarin.Forms.Skeleton",
             "stars": 471,
@@ -5669,27 +5669,6 @@
         },
         {
           "node_type": "item",
-          "title": "XFSlimListView ★34",
-          "description": "A slim ListView implementation for Xamarin.Forms that uses Native List controls.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A slim ListView implementation for .NET MAUI that uses Platform virtualized lists / collections",
-            "homepage": null,
-            "id": 331786456,
-            "language": "C#",
-            "license": "MIT",
-            "last_commit": "2024-06-11T21:24:39Z",
-            "open_issues": 14,
-            "owner": "Redth",
-            "repo": "Maui.VirtualListView",
-            "stars": 252,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T01:23:51.023Z"
-        },
-        {
-          "node_type": "item",
           "title": "Xamarin.Plugin.Calendar ★250",
           "description": "Simple customizable event calendar for Xamarin.Forms.",
           "children": [],
@@ -5716,6 +5695,27 @@
               "xamarin-plugin",
               "xamarinforms"
             ]
+          },
+          "first_seen": "2026-08-29T01:23:51.023Z"
+        },
+        {
+          "node_type": "item",
+          "title": "XFSlimListView ★34",
+          "description": "A slim ListView implementation for Xamarin.Forms that uses Native List controls.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A slim ListView implementation for .NET MAUI that uses Platform virtualized lists / collections",
+            "homepage": null,
+            "id": 331786456,
+            "language": "C#",
+            "license": "MIT",
+            "last_commit": "2024-06-11T21:24:39Z",
+            "open_issues": 14,
+            "owner": "Redth",
+            "repo": "Maui.VirtualListView",
+            "stars": 251,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:23:51.023Z"
         },
@@ -11760,7 +11760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T20:18:52.850Z",
+    "last_updated": "2026-09-10T20:20:53.379Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Xamarin.Forms libraries and resources",
