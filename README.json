@@ -103,7 +103,7 @@
             "open_issues": 0,
             "owner": "jimbobbennett",
             "repo": "Awesome-Fabulous",
-            "stars": 131,
+            "stars": 130,
             "topics": [
               "fabulous",
               "fsharp",
@@ -723,7 +723,7 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-09-12T04:41:21Z",
-            "open_issues": 2351,
+            "open_issues": 2353,
             "owner": "dotnet",
             "repo": "efcore",
             "stars": 14789,
@@ -753,11 +753,11 @@
             "id": 23315232,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-08-21T08:45:54Z",
-            "open_issues": 253,
+            "last_commit": "2026-09-13T20:00:25Z",
+            "open_issues": 189,
             "owner": "litedb-org",
             "repo": "LiteDB",
-            "stars": 9464,
+            "stars": 9465,
             "topics": [
               "database",
               "dotnet",
@@ -1052,7 +1052,7 @@
             "open_issues": 25,
             "owner": "PrismLibrary",
             "repo": "Prism",
-            "stars": 6840,
+            "stars": 6839,
             "topics": [
               "c-sharp",
               "hacktoberfest",
@@ -1078,8 +1078,8 @@
             "id": 2870911,
             "language": "C#",
             "license": "MS-PL",
-            "last_commit": "2026-09-12T03:12:04Z",
-            "open_issues": 186,
+            "last_commit": "2026-09-13T03:12:39Z",
+            "open_issues": 187,
             "owner": "MvvmCross",
             "repo": "MvvmCross",
             "stars": 3921,
@@ -1408,7 +1408,7 @@
             "open_issues": 15,
             "owner": "fabulous-dev",
             "repo": "Fabulous",
-            "stars": 1272,
+            "stars": 1274,
             "topics": [
               "declarative-ui",
               "fabulous",
@@ -4369,10 +4369,10 @@
             "language": "C",
             "license": "Apache-2.0",
             "last_commit": "2026-09-11T16:58:44Z",
-            "open_issues": 2901,
+            "open_issues": 2899,
             "owner": "Genymobile",
             "repo": "scrcpy",
-            "stars": 149472,
+            "stars": 149533,
             "topics": [
               "android",
               "c",
@@ -5008,7 +5008,7 @@
             "open_issues": 17,
             "owner": "syncfusion",
             "repo": "essential-ui-kit-for-xamarin.forms",
-            "stars": 1028,
+            "stars": 1027,
             "topics": [
               "admin-dashboard",
               "admin-template",
@@ -5259,7 +5259,7 @@
             "open_issues": 0,
             "owner": "roubachof",
             "repo": "Sharpnado.MaterialFrame",
-            "stars": 519,
+            "stars": 520,
             "topics": []
           },
           "first_seen": "2026-08-29T01:23:51.023Z"
@@ -8592,42 +8592,6 @@
         },
         {
           "node_type": "item",
-          "title": "SkiaSharp.Forms.Xaml ★19",
-          "description": "Xaml extensions for SkiaSharp.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Xaml extensions for SkiaSharp",
-            "homepage": null,
-            "id": 260600235,
-            "language": "C#",
-            "license": "MIT",
-            "last_commit": "2021-03-19T02:24:44Z",
-            "open_issues": 0,
-            "owner": "felipebaltazar",
-            "repo": "SkiaSharp.Forms.Xaml",
-            "stars": 21,
-            "topics": [
-              "hacktoberfest",
-              "hacktoberfest2020",
-              "skia",
-              "skiasharp",
-              "xamarin",
-              "xamarin-android",
-              "xamarin-forms",
-              "xamarin-ios",
-              "xamarin-library",
-              "xamarin-plugin",
-              "xamarinforms",
-              "xaml",
-              "xaml-extensions",
-              "xaml-layout"
-            ]
-          },
-          "first_seen": "2026-08-29T01:23:51.023Z"
-        },
-        {
-          "node_type": "item",
           "title": "XamarinHosting ★19",
           "description": "Xamarin.Forms IHostLifetime implementation for Microsoft.Extensions.Hosting.",
           "children": [],
@@ -8718,6 +8682,42 @@
             "repo": "Forms.Controls",
             "stars": 20,
             "topics": []
+          },
+          "first_seen": "2026-08-29T01:23:51.023Z"
+        },
+        {
+          "node_type": "item",
+          "title": "SkiaSharp.Forms.Xaml ★19",
+          "description": "Xaml extensions for SkiaSharp.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Xaml extensions for SkiaSharp",
+            "homepage": null,
+            "id": 260600235,
+            "language": "C#",
+            "license": "MIT",
+            "last_commit": "2021-03-19T02:24:44Z",
+            "open_issues": 0,
+            "owner": "felipebaltazar",
+            "repo": "SkiaSharp.Forms.Xaml",
+            "stars": 20,
+            "topics": [
+              "hacktoberfest",
+              "hacktoberfest2020",
+              "skia",
+              "skiasharp",
+              "xamarin",
+              "xamarin-android",
+              "xamarin-forms",
+              "xamarin-ios",
+              "xamarin-library",
+              "xamarin-plugin",
+              "xamarinforms",
+              "xaml",
+              "xaml-extensions",
+              "xaml-layout"
+            ]
           },
           "first_seen": "2026-08-29T01:23:51.023Z"
         },
@@ -11760,7 +11760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T20:04:39.252Z",
+    "last_updated": "2026-09-13T20:10:59.789Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Xamarin.Forms libraries and resources",
