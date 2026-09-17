@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "XamSome",
             "repo": "awesome-xamarin",
-            "stars": 1869,
+            "stars": 1868,
             "topics": [
               "awesome",
               "awesome-list",
@@ -684,7 +684,7 @@
             "id": 269575748,
             "language": "C#",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-27T10:08:06Z",
+            "last_commit": "2026-09-17T13:13:19Z",
             "open_issues": 5,
             "owner": "Respawnsive",
             "repo": "Apizr",
@@ -722,11 +722,11 @@
             "id": 16157746,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-16T17:30:24Z",
-            "open_issues": 2341,
+            "last_commit": "2026-09-17T19:52:18Z",
+            "open_issues": 2345,
             "owner": "dotnet",
             "repo": "efcore",
-            "stars": 14791,
+            "stars": 14789,
             "topics": [
               "aspnet-product",
               "c-sharp",
@@ -753,11 +753,11 @@
             "id": 23315232,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-16T19:53:03Z",
-            "open_issues": 194,
+            "last_commit": "2026-09-17T17:58:15Z",
+            "open_issues": 201,
             "owner": "litedb-org",
             "repo": "LiteDB",
-            "stars": 9466,
+            "stars": 9468,
             "topics": [
               "database",
               "dotnet",
@@ -801,7 +801,7 @@
             "id": 2896461,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-16T18:06:11Z",
+            "last_commit": "2026-09-17T18:54:47Z",
             "open_issues": 13,
             "owner": "reactiveui",
             "repo": "Akavache",
@@ -1404,8 +1404,8 @@
             "id": 120334619,
             "language": "F#",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-14T14:09:20Z",
-            "open_issues": 18,
+            "last_commit": "2026-09-17T19:42:56Z",
+            "open_issues": 17,
             "owner": "fabulous-dev",
             "repo": "Fabulous",
             "stars": 1278,
@@ -1935,8 +1935,8 @@
             "id": 300844166,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-16T19:54:09Z",
-            "open_issues": 19,
+            "last_commit": "2026-09-17T20:28:29Z",
+            "open_issues": 10,
             "owner": "melihercan",
             "repo": "WebRTCme",
             "stars": 268,
@@ -4261,7 +4261,7 @@
             "open_issues": 829,
             "owner": "JamesNK",
             "repo": "Newtonsoft.Json",
-            "stars": 11315,
+            "stars": 11316,
             "topics": [
               "c-sharp",
               "json"
@@ -4368,11 +4368,11 @@
             "id": 111583593,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-15T16:57:35Z",
-            "open_issues": 2900,
+            "last_commit": "2026-09-16T21:10:36Z",
+            "open_issues": 2901,
             "owner": "Genymobile",
             "repo": "scrcpy",
-            "stars": 149773,
+            "stars": 149854,
             "topics": [
               "android",
               "c",
@@ -5008,7 +5008,7 @@
             "open_issues": 17,
             "owner": "syncfusion",
             "repo": "essential-ui-kit-for-xamarin.forms",
-            "stars": 1027,
+            "stars": 1026,
             "topics": [
               "admin-dashboard",
               "admin-template",
@@ -10092,27 +10092,6 @@
         },
         {
           "node_type": "item",
-          "title": "DesktopTrayIcon ★6",
-          "description": "A Xamarin Forms plugin for adding tray icon functionality to Xamarin.Mac and Xamarin.WPF.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A Xamarin Forms plugin for adding tray icon functionality to Xamarin.Mac and Xamarin.WPF.",
-            "homepage": null,
-            "id": 143559945,
-            "language": "C#",
-            "license": "MIT",
-            "last_commit": "2018-08-26T15:01:43Z",
-            "open_issues": 0,
-            "owner": "pingzing",
-            "repo": "XamTop",
-            "stars": 7,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T01:23:51.023Z"
-        },
-        {
-          "node_type": "item",
           "title": "RedCorners.Forms.GoogleMaps ★7",
           "description": "Enhanced Google Maps for Xamarin.Forms; based on Xamarin.Forms.GoogleMaps.",
           "children": [],
@@ -10315,6 +10294,27 @@
               "xamarin-ios",
               "yudiz-solution"
             ]
+          },
+          "first_seen": "2026-08-29T01:23:51.023Z"
+        },
+        {
+          "node_type": "item",
+          "title": "DesktopTrayIcon ★6",
+          "description": "A Xamarin Forms plugin for adding tray icon functionality to Xamarin.Mac and Xamarin.WPF.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A Xamarin Forms plugin for adding tray icon functionality to Xamarin.Mac and Xamarin.WPF.",
+            "homepage": null,
+            "id": 143559945,
+            "language": "C#",
+            "license": "MIT",
+            "last_commit": "2018-08-26T15:01:43Z",
+            "open_issues": 0,
+            "owner": "pingzing",
+            "repo": "XamTop",
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:23:51.023Z"
         },
@@ -11760,7 +11760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T20:47:01.290Z",
+    "last_updated": "2026-09-17T20:52:49.820Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Xamarin.Forms libraries and resources",
