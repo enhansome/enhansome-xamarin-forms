@@ -722,8 +722,8 @@
             "id": 16157746,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-21T21:14:26Z",
-            "open_issues": 2346,
+            "last_commit": "2026-09-22T20:38:44Z",
+            "open_issues": 2348,
             "owner": "dotnet",
             "repo": "efcore",
             "stars": 14791,
@@ -753,11 +753,11 @@
             "id": 23315232,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-21T19:22:37Z",
-            "open_issues": 135,
+            "last_commit": "2026-09-22T20:35:11Z",
+            "open_issues": 130,
             "owner": "litedb-org",
             "repo": "LiteDB",
-            "stars": 9471,
+            "stars": 9475,
             "topics": [
               "database",
               "dotnet",
@@ -801,7 +801,7 @@
             "id": 2896461,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-21T02:09:59Z",
+            "last_commit": "2026-09-22T04:36:07Z",
             "open_issues": 13,
             "owner": "reactiveui",
             "repo": "Akavache",
@@ -1052,7 +1052,7 @@
             "open_issues": 25,
             "owner": "PrismLibrary",
             "repo": "Prism",
-            "stars": 6847,
+            "stars": 6851,
             "topics": [
               "c-sharp",
               "hacktoberfest",
@@ -1592,7 +1592,7 @@
             "open_issues": 6,
             "owner": "videolan",
             "repo": "libvlcsharp",
-            "stars": 1811,
+            "stars": 1812,
             "topics": [
               "dotnet",
               "libvlc",
@@ -1738,7 +1738,7 @@
             "open_issues": 3,
             "owner": "jamesmontemagno",
             "repo": "InAppBillingPlugin",
-            "stars": 727,
+            "stars": 728,
             "topics": []
           },
           "first_seen": "2026-08-29T01:23:51.023Z"
@@ -1935,8 +1935,8 @@
             "id": 300844166,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-21T13:40:55Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-22T20:13:08Z",
+            "open_issues": 3,
             "owner": "melihercan",
             "repo": "WebRTCme",
             "stars": 268,
@@ -3938,7 +3938,7 @@
             "open_issues": 1,
             "owner": "TheCodeTraveler",
             "repo": "AsyncAwaitBestPractices",
-            "stars": 1841,
+            "stars": 1842,
             "topics": [
               "async",
               "await",
@@ -4258,7 +4258,7 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-09-21T09:58:07Z",
-            "open_issues": 816,
+            "open_issues": 817,
             "owner": "JamesNK",
             "repo": "Newtonsoft.Json",
             "stars": 11315,
@@ -4368,11 +4368,11 @@
             "id": 111583593,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-19T08:54:25Z",
-            "open_issues": 2905,
+            "last_commit": "2026-09-22T19:42:04Z",
+            "open_issues": 2906,
             "owner": "Genymobile",
             "repo": "scrcpy",
-            "stars": 150146,
+            "stars": 150206,
             "topics": [
               "android",
               "c",
@@ -4402,7 +4402,7 @@
             "open_issues": 2060,
             "owner": "RicoSuter",
             "repo": "NSwag",
-            "stars": 7365,
+            "stars": 7366,
             "topics": [
               "angular",
               "aspnet",
@@ -5259,7 +5259,7 @@
             "open_issues": 0,
             "owner": "roubachof",
             "repo": "Sharpnado.MaterialFrame",
-            "stars": 520,
+            "stars": 521,
             "topics": []
           },
           "first_seen": "2026-08-29T01:23:51.023Z"
@@ -5509,7 +5509,7 @@
             "open_issues": 3,
             "owner": "roubachof",
             "repo": "Sharpnado.Shadows",
-            "stars": 321,
+            "stars": 322,
             "topics": []
           },
           "first_seen": "2026-08-29T01:23:51.023Z"
@@ -6107,7 +6107,7 @@
             "open_issues": 10,
             "owner": "IeuanWalker",
             "repo": "Xamarin.Forms.Breadcrumb",
-            "stars": 139,
+            "stars": 140,
             "topics": [
               "animation",
               "automatic",
@@ -11760,7 +11760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T21:36:16.887Z",
+    "last_updated": "2026-09-22T20:47:15.586Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Xamarin.Forms libraries and resources",
