@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "XamSome",
             "repo": "awesome-xamarin",
-            "stars": 1868,
+            "stars": 1866,
             "topics": [
               "awesome",
               "awesome-list",
@@ -135,7 +135,7 @@
             "open_issues": 55,
             "owner": "Baseflow",
             "repo": "LottieXamarin",
-            "stars": 1212,
+            "stars": 1213,
             "topics": [
               "airbnb",
               "android",
@@ -685,7 +685,7 @@
             "language": "C#",
             "license": "Apache-2.0",
             "last_commit": "2026-09-17T13:13:19Z",
-            "open_issues": 5,
+            "open_issues": 6,
             "owner": "Respawnsive",
             "repo": "Apizr",
             "stars": 175,
@@ -722,11 +722,11 @@
             "id": 16157746,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-22T20:38:44Z",
+            "last_commit": "2026-09-23T20:05:39Z",
             "open_issues": 2348,
             "owner": "dotnet",
             "repo": "efcore",
-            "stars": 14791,
+            "stars": 14789,
             "topics": [
               "aspnet-product",
               "c-sharp",
@@ -753,11 +753,11 @@
             "id": 23315232,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-22T20:35:11Z",
-            "open_issues": 130,
+            "last_commit": "2026-09-23T20:16:11Z",
+            "open_issues": 132,
             "owner": "litedb-org",
             "repo": "LiteDB",
-            "stars": 9475,
+            "stars": 9476,
             "topics": [
               "database",
               "dotnet",
@@ -801,11 +801,11 @@
             "id": 2896461,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-22T04:36:07Z",
+            "last_commit": "2026-09-23T04:34:52Z",
             "open_issues": 13,
             "owner": "reactiveui",
             "repo": "Akavache",
-            "stars": 2552,
+            "stars": 2550,
             "topics": [
               "akavache",
               "c-sharp",
@@ -1049,7 +1049,7 @@
             "language": "C#",
             "license": "NOASSERTION",
             "last_commit": "2026-09-11T15:14:02Z",
-            "open_issues": 25,
+            "open_issues": 26,
             "owner": "PrismLibrary",
             "repo": "Prism",
             "stars": 6851,
@@ -1082,7 +1082,7 @@
             "open_issues": 191,
             "owner": "MvvmCross",
             "repo": "MvvmCross",
-            "stars": 3920,
+            "stars": 3919,
             "topics": [
               "android",
               "c-sharp",
@@ -1194,7 +1194,7 @@
             "open_issues": 6,
             "owner": "TinyStuff",
             "repo": "TinyMvvm",
-            "stars": 92,
+            "stars": 91,
             "topics": [
               "xamarin"
             ]
@@ -1408,7 +1408,7 @@
             "open_issues": 16,
             "owner": "fabulous-dev",
             "repo": "Fabulous",
-            "stars": 1281,
+            "stars": 1282,
             "topics": [
               "declarative-ui",
               "fabulous",
@@ -1588,11 +1588,11 @@
             "id": 136175474,
             "language": "C#",
             "license": "LGPL-2.1",
-            "last_commit": "2026-09-21T16:37:47Z",
-            "open_issues": 6,
+            "last_commit": "2026-09-23T20:16:29Z",
+            "open_issues": 4,
             "owner": "videolan",
             "repo": "libvlcsharp",
-            "stars": 1812,
+            "stars": 1813,
             "topics": [
               "dotnet",
               "libvlc",
@@ -1672,7 +1672,7 @@
             "open_issues": 7,
             "owner": "VincentH-Net",
             "repo": "CSharpForMarkup",
-            "stars": 837,
+            "stars": 838,
             "topics": [
               "csharp",
               "ide-support",
@@ -1868,7 +1868,7 @@
             "open_issues": 59,
             "owner": "jamesmontemagno",
             "repo": "GeolocatorPlugin",
-            "stars": 291,
+            "stars": 289,
             "topics": [
               "android",
               "geolocation-plugin",
@@ -1935,7 +1935,7 @@
             "id": 300844166,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-22T20:13:08Z",
+            "last_commit": "2026-09-23T18:38:31Z",
             "open_issues": 3,
             "owner": "melihercan",
             "repo": "WebRTCme",
@@ -1966,7 +1966,7 @@
             "open_issues": 0,
             "owner": "jamesmontemagno",
             "repo": "ConnectivityPlugin",
-            "stars": 265,
+            "stars": 263,
             "topics": [
               "pcl",
               "reachability",
@@ -2084,7 +2084,7 @@
             "open_issues": 0,
             "owner": "jamesmontemagno",
             "repo": "DeviceInfoPlugin",
-            "stars": 144,
+            "stars": 143,
             "topics": []
           },
           "first_seen": "2026-08-29T01:23:51.023Z"
@@ -3934,11 +3934,11 @@
             "id": 118641651,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-21T18:31:43Z",
-            "open_issues": 1,
+            "last_commit": "2026-09-23T09:25:59Z",
+            "open_issues": 2,
             "owner": "TheCodeTraveler",
             "repo": "AsyncAwaitBestPractices",
-            "stars": 1842,
+            "stars": 1841,
             "topics": [
               "async",
               "await",
@@ -4261,7 +4261,7 @@
             "open_issues": 817,
             "owner": "JamesNK",
             "repo": "Newtonsoft.Json",
-            "stars": 11315,
+            "stars": 11316,
             "topics": [
               "c-sharp",
               "json"
@@ -4372,7 +4372,7 @@
             "open_issues": 2906,
             "owner": "Genymobile",
             "repo": "scrcpy",
-            "stars": 150206,
+            "stars": 150269,
             "topics": [
               "android",
               "c",
@@ -4436,7 +4436,7 @@
             "open_issues": 0,
             "owner": "AndreiMisiukevich",
             "repo": "HotReload",
-            "stars": 407,
+            "stars": 406,
             "topics": [
               "hacktoberfest",
               "hot-reloads",
@@ -4916,7 +4916,7 @@
             "open_issues": 2,
             "owner": "microcharts-dotnet",
             "repo": "Microcharts",
-            "stars": 2074,
+            "stars": 2073,
             "topics": [
               "android",
               "charts",
@@ -4978,7 +4978,7 @@
             "open_issues": 110,
             "owner": "rotorgames",
             "repo": "Rg.Plugins.Popup",
-            "stars": 1140,
+            "stars": 1139,
             "topics": [
               "android",
               "custom-popup",
@@ -5150,7 +5150,7 @@
             "open_issues": 105,
             "owner": "Baseflow",
             "repo": "XF-Material-Library",
-            "stars": 633,
+            "stars": 632,
             "topics": [
               "baseflow",
               "material",
@@ -5238,7 +5238,7 @@
             "open_issues": 2,
             "owner": "roubachof",
             "repo": "Sharpnado.Presentation.Forms",
-            "stars": 579,
+            "stars": 578,
             "topics": []
           },
           "first_seen": "2026-08-29T01:23:51.023Z"
@@ -5280,7 +5280,7 @@
             "open_issues": 18,
             "owner": "HorusSoftwareUY",
             "repo": "Xamarin.Forms.Skeleton",
-            "stars": 471,
+            "stars": 469,
             "topics": []
           },
           "first_seen": "2026-08-29T01:23:51.023Z"
@@ -5322,7 +5322,7 @@
             "open_issues": 10,
             "owner": "jsuarezruiz",
             "repo": "TemplateUI",
-            "stars": 418,
+            "stars": 417,
             "topics": [
               "controltemplate",
               "template",
@@ -5509,7 +5509,7 @@
             "open_issues": 3,
             "owner": "roubachof",
             "repo": "Sharpnado.Shadows",
-            "stars": 322,
+            "stars": 321,
             "topics": []
           },
           "first_seen": "2026-08-29T01:23:51.023Z"
@@ -5530,7 +5530,7 @@
             "open_issues": 26,
             "owner": "xabre",
             "repo": "xamarin-forms-tab-badge",
-            "stars": 301,
+            "stars": 300,
             "topics": [
               "badge",
               "tab",
@@ -5614,7 +5614,7 @@
             "open_issues": 16,
             "owner": "HorusSoftwareUY",
             "repo": "MaterialDesignControlsPlugin",
-            "stars": 265,
+            "stars": 264,
             "topics": []
           },
           "first_seen": "2026-08-29T01:23:51.023Z"
@@ -5704,7 +5704,7 @@
             "open_issues": 38,
             "owner": "lilcodelab",
             "repo": "Xamarin.Plugin.Calendar",
-            "stars": 252,
+            "stars": 250,
             "topics": [
               "calendar",
               "calendar-component",
@@ -6625,7 +6625,7 @@
             "open_issues": 3,
             "owner": "ionixjunior",
             "repo": "Xalendar",
-            "stars": 92,
+            "stars": 91,
             "topics": [
               "calendar-view",
               "xamarin",
@@ -11760,7 +11760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T20:47:15.586Z",
+    "last_updated": "2026-09-23T20:58:41.274Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Xamarin.Forms libraries and resources",
@@ -11772,7 +11772,7 @@
       "open_issues": 2,
       "owner": "jsuarezruiz",
       "repo": "awesome-xamarin-forms",
-      "stars": 1223,
+      "stars": 1221,
       "topics": [
         "animation",
         "awesome",
