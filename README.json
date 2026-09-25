@@ -722,11 +722,11 @@
             "id": 16157746,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-24T20:47:00Z",
-            "open_issues": 2352,
+            "last_commit": "2026-09-25T21:00:29Z",
+            "open_issues": 2357,
             "owner": "dotnet",
             "repo": "efcore",
-            "stars": 14792,
+            "stars": 14791,
             "topics": [
               "aspnet-product",
               "c-sharp",
@@ -753,11 +753,11 @@
             "id": 23315232,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-24T20:46:20Z",
+            "last_commit": "2026-09-25T20:54:49Z",
             "open_issues": 131,
             "owner": "litedb-org",
             "repo": "LiteDB",
-            "stars": 9476,
+            "stars": 9477,
             "topics": [
               "database",
               "dotnet",
@@ -801,11 +801,11 @@
             "id": 2896461,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-23T04:34:52Z",
-            "open_issues": 13,
+            "last_commit": "2026-09-25T05:42:28Z",
+            "open_issues": 4,
             "owner": "reactiveui",
             "repo": "Akavache",
-            "stars": 2550,
+            "stars": 2549,
             "topics": [
               "akavache",
               "c-sharp",
@@ -1052,7 +1052,7 @@
             "open_issues": 26,
             "owner": "PrismLibrary",
             "repo": "Prism",
-            "stars": 6851,
+            "stars": 6852,
             "topics": [
               "c-sharp",
               "hacktoberfest",
@@ -1405,7 +1405,7 @@
             "language": "F#",
             "license": "Apache-2.0",
             "last_commit": "2026-09-23T23:15:03Z",
-            "open_issues": 16,
+            "open_issues": 13,
             "owner": "fabulous-dev",
             "repo": "Fabulous",
             "stars": 1283,
@@ -1672,7 +1672,7 @@
             "open_issues": 7,
             "owner": "VincentH-Net",
             "repo": "CSharpForMarkup",
-            "stars": 838,
+            "stars": 837,
             "topics": [
               "csharp",
               "ide-support",
@@ -3914,7 +3914,7 @@
             "open_issues": 0,
             "owner": "xamarin",
             "repo": "xamarin-forms-samples",
-            "stars": 4242,
+            "stars": 4241,
             "topics": [
               "xamarin",
               "xamarin-forms"
@@ -3934,7 +3934,7 @@
             "id": 118641651,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-24T18:06:38Z",
+            "last_commit": "2026-09-24T22:14:47Z",
             "open_issues": 1,
             "owner": "TheCodeTraveler",
             "repo": "AsyncAwaitBestPractices",
@@ -4037,7 +4037,7 @@
             "open_issues": 2,
             "owner": "davidortinau",
             "repo": "Gastropods",
-            "stars": 121,
+            "stars": 120,
             "topics": []
           },
           "first_seen": "2026-08-29T01:23:51.023Z"
@@ -4261,7 +4261,7 @@
             "open_issues": 817,
             "owner": "JamesNK",
             "repo": "Newtonsoft.Json",
-            "stars": 11316,
+            "stars": 11315,
             "topics": [
               "c-sharp",
               "json"
@@ -4369,10 +4369,10 @@
             "language": "C",
             "license": "Apache-2.0",
             "last_commit": "2026-09-22T19:42:04Z",
-            "open_issues": 2906,
+            "open_issues": 2907,
             "owner": "Genymobile",
             "repo": "scrcpy",
-            "stars": 150341,
+            "stars": 150402,
             "topics": [
               "android",
               "c",
@@ -4436,7 +4436,7 @@
             "open_issues": 0,
             "owner": "AndreiMisiukevich",
             "repo": "HotReload",
-            "stars": 406,
+            "stars": 405,
             "topics": [
               "hacktoberfest",
               "hot-reloads",
@@ -5118,7 +5118,7 @@
             "open_issues": 30,
             "owner": "dotnet",
             "repo": "Microsoft.Maui.Graphics.Controls",
-            "stars": 668,
+            "stars": 667,
             "topics": [
               "controls",
               "cupertino",
@@ -5150,7 +5150,7 @@
             "open_issues": 105,
             "owner": "Baseflow",
             "repo": "XF-Material-Library",
-            "stars": 632,
+            "stars": 631,
             "topics": [
               "baseflow",
               "material",
@@ -5454,7 +5454,7 @@
             "open_issues": 14,
             "owner": "mgierlasinski",
             "repo": "MagicGradients",
-            "stars": 365,
+            "stars": 364,
             "topics": [
               "gradients",
               "hacktoberfest",
@@ -11760,7 +11760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T21:03:41.487Z",
+    "last_updated": "2026-09-25T21:00:45.471Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Xamarin.Forms libraries and resources",
