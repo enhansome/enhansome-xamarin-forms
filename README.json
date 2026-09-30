@@ -688,7 +688,7 @@
             "open_issues": 6,
             "owner": "Respawnsive",
             "repo": "Apizr",
-            "stars": 175,
+            "stars": 174,
             "topics": [
               "akavache",
               "automapper",
@@ -722,11 +722,11 @@
             "id": 16157746,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-29T20:28:26Z",
-            "open_issues": 2371,
+            "last_commit": "2026-09-30T21:32:34Z",
+            "open_issues": 2378,
             "owner": "dotnet",
             "repo": "efcore",
-            "stars": 14794,
+            "stars": 14795,
             "topics": [
               "aspnet-product",
               "c-sharp",
@@ -754,7 +754,7 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-09-29T18:10:54Z",
-            "open_issues": 149,
+            "open_issues": 150,
             "owner": "litedb-org",
             "repo": "LiteDB",
             "stars": 9481,
@@ -1052,7 +1052,7 @@
             "open_issues": 26,
             "owner": "PrismLibrary",
             "repo": "Prism",
-            "stars": 6851,
+            "stars": 6853,
             "topics": [
               "c-sharp",
               "hacktoberfest",
@@ -1404,7 +1404,7 @@
             "id": 120334619,
             "language": "F#",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-29T04:17:42Z",
+            "last_commit": "2026-09-30T04:06:41Z",
             "open_issues": 15,
             "owner": "fabulous-dev",
             "repo": "Fabulous",
@@ -1622,7 +1622,7 @@
             "open_issues": 199,
             "owner": "xamarin",
             "repo": "Essentials",
-            "stars": 1495,
+            "stars": 1494,
             "topics": [
               "android",
               "cross-platform",
@@ -1738,7 +1738,7 @@
             "open_issues": 3,
             "owner": "jamesmontemagno",
             "repo": "InAppBillingPlugin",
-            "stars": 729,
+            "stars": 730,
             "topics": []
           },
           "first_seen": "2026-08-29T01:23:51.023Z"
@@ -1939,7 +1939,7 @@
             "open_issues": 3,
             "owner": "melihercan",
             "repo": "WebRTCme",
-            "stars": 268,
+            "stars": 267,
             "topics": [
               "blazor",
               "desktop",
@@ -4368,11 +4368,11 @@
             "id": 111583593,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-29T19:24:13Z",
+            "last_commit": "2026-09-30T21:38:53Z",
             "open_issues": 2912,
             "owner": "Genymobile",
             "repo": "scrcpy",
-            "stars": 150643,
+            "stars": 150718,
             "topics": [
               "android",
               "c",
@@ -4400,7 +4400,7 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-09-07T21:10:58Z",
-            "open_issues": 2060,
+            "open_issues": 2059,
             "owner": "RicoSuter",
             "repo": "NSwag",
             "stars": 7365,
@@ -4488,7 +4488,7 @@
             "open_issues": 5,
             "owner": "mattleibow",
             "repo": "SkiaSharpFiddle",
-            "stars": 153,
+            "stars": 154,
             "topics": [
               "csharp",
               "dotnet",
@@ -5371,7 +5371,7 @@
             "open_issues": 9,
             "owner": "GiampaoloGabba",
             "repo": "Xamarin.Plugin.SharedTransitions",
-            "stars": 407,
+            "stars": 406,
             "topics": []
           },
           "first_seen": "2026-08-29T01:23:51.023Z"
@@ -5947,7 +5947,7 @@
             "open_issues": 7,
             "owner": "markolazic88",
             "repo": "SwipeCardView",
-            "stars": 170,
+            "stars": 169,
             "topics": []
           },
           "first_seen": "2026-08-29T01:23:51.023Z"
@@ -6108,7 +6108,7 @@
             "open_issues": 10,
             "owner": "IeuanWalker",
             "repo": "Xamarin.Forms.Breadcrumb",
-            "stars": 140,
+            "stars": 139,
             "topics": [
               "animation",
               "automatic",
@@ -6501,7 +6501,7 @@
             "open_issues": 9,
             "owner": "NdubuisiJr",
             "repo": "skia-chart",
-            "stars": 106,
+            "stars": 107,
             "topics": []
           },
           "first_seen": "2026-08-29T01:23:51.023Z"
@@ -11761,7 +11761,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T21:46:46.378Z",
+    "last_updated": "2026-09-30T21:47:33.838Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Xamarin.Forms libraries and resources",
