@@ -534,7 +534,7 @@
             "open_issues": 291,
             "owner": "xamarin",
             "repo": "XamarinCommunityToolkit",
-            "stars": 1561,
+            "stars": 1560,
             "topics": [
               "android",
               "behaviors",
@@ -722,11 +722,11 @@
             "id": 16157746,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-01T19:46:51Z",
-            "open_issues": 2373,
+            "last_commit": "2026-10-02T20:35:56Z",
+            "open_issues": 2355,
             "owner": "dotnet",
             "repo": "efcore",
-            "stars": 14795,
+            "stars": 14797,
             "topics": [
               "aspnet-product",
               "c-sharp",
@@ -753,11 +753,11 @@
             "id": 23315232,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-01T17:06:38Z",
-            "open_issues": 157,
+            "last_commit": "2026-10-02T20:32:20Z",
+            "open_issues": 174,
             "owner": "litedb-org",
             "repo": "LiteDB",
-            "stars": 9481,
+            "stars": 9479,
             "topics": [
               "database",
               "dotnet",
@@ -784,7 +784,7 @@
             "open_issues": 615,
             "owner": "praeclarum",
             "repo": "sqlite-net",
-            "stars": 4457,
+            "stars": 4456,
             "topics": []
           },
           "first_seen": "2026-08-29T01:23:51.023Z"
@@ -835,7 +835,7 @@
             "open_issues": 382,
             "owner": "Azure",
             "repo": "azure-cosmos-dotnet-v2",
-            "stars": 575,
+            "stars": 574,
             "topics": []
           },
           "first_seen": "2026-08-29T01:23:51.023Z"
@@ -1048,8 +1048,8 @@
             "id": 31335300,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-01T20:17:18Z",
-            "open_issues": 26,
+            "last_commit": "2026-10-02T21:12:33Z",
+            "open_issues": 25,
             "owner": "PrismLibrary",
             "repo": "Prism",
             "stars": 6853,
@@ -1405,7 +1405,7 @@
             "language": "F#",
             "license": "Apache-2.0",
             "last_commit": "2026-10-01T16:22:01Z",
-            "open_issues": 17,
+            "open_issues": 18,
             "owner": "fabulous-dev",
             "repo": "Fabulous",
             "stars": 1285,
@@ -1592,7 +1592,7 @@
             "open_issues": 3,
             "owner": "videolan",
             "repo": "libvlcsharp",
-            "stars": 1816,
+            "stars": 1815,
             "topics": [
               "dotnet",
               "libvlc",
@@ -4261,7 +4261,7 @@
             "open_issues": 817,
             "owner": "JamesNK",
             "repo": "Newtonsoft.Json",
-            "stars": 11314,
+            "stars": 11312,
             "topics": [
               "c-sharp",
               "json"
@@ -4285,7 +4285,7 @@
             "open_issues": 172,
             "owner": "neuecc",
             "repo": "Utf8Json",
-            "stars": 2381,
+            "stars": 2380,
             "topics": []
           },
           "first_seen": "2026-08-29T01:23:51.023Z"
@@ -4368,11 +4368,11 @@
             "id": 111583593,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T07:47:28Z",
-            "open_issues": 2914,
+            "last_commit": "2026-10-02T17:53:16Z",
+            "open_issues": 2913,
             "owner": "Genymobile",
             "repo": "scrcpy",
-            "stars": 150791,
+            "stars": 150881,
             "topics": [
               "android",
               "c",
@@ -4403,7 +4403,7 @@
             "open_issues": 2059,
             "owner": "RicoSuter",
             "repo": "NSwag",
-            "stars": 7365,
+            "stars": 7364,
             "topics": [
               "angular",
               "aspnet",
@@ -5119,7 +5119,7 @@
             "open_issues": 30,
             "owner": "dotnet",
             "repo": "Microsoft.Maui.Graphics.Controls",
-            "stars": 667,
+            "stars": 666,
             "topics": [
               "controls",
               "cupertino",
@@ -9629,27 +9629,6 @@
         },
         {
           "node_type": "item",
-          "title": "Xam.Forms.GraceAlert ★9",
-          "description": "Is a Xamarin Forms View to show non invasive notification for alert, warning and info.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Xamarin Forms toast alert",
-            "homepage": null,
-            "id": 248815666,
-            "language": "C#",
-            "license": "MIT",
-            "last_commit": "2020-06-11T16:24:55Z",
-            "open_issues": 0,
-            "owner": "nightlybuilds-net",
-            "repo": "Xam.Forms.GraceAlert",
-            "stars": 10,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T01:23:51.023Z"
-        },
-        {
-          "node_type": "item",
           "title": "XF.Material.Outline ★11",
           "description": "A Xamarin.Forms library using SkiaSharp for Xamarin.Android and Xamarin.iOS to implement the outline styled text view in Google's Material Design.",
           "children": [],
@@ -9845,6 +9824,27 @@
               "xamarin",
               "xamarin-forms"
             ]
+          },
+          "first_seen": "2026-08-29T01:23:51.023Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Xam.Forms.GraceAlert ★9",
+          "description": "Is a Xamarin Forms View to show non invasive notification for alert, warning and info.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Xamarin Forms toast alert",
+            "homepage": null,
+            "id": 248815666,
+            "language": "C#",
+            "license": "MIT",
+            "last_commit": "2020-06-11T16:24:55Z",
+            "open_issues": 0,
+            "owner": "nightlybuilds-net",
+            "repo": "Xam.Forms.GraceAlert",
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:23:51.023Z"
         },
@@ -11761,7 +11761,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T22:15:25.237Z",
+    "last_updated": "2026-10-02T21:44:15.343Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Xamarin.Forms libraries and resources",
