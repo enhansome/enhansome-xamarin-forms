@@ -722,8 +722,8 @@
             "id": 16157746,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-02T20:35:56Z",
-            "open_issues": 2355,
+            "last_commit": "2026-10-03T01:56:44Z",
+            "open_issues": 2350,
             "owner": "dotnet",
             "repo": "efcore",
             "stars": 14797,
@@ -753,8 +753,8 @@
             "id": 23315232,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-02T20:32:20Z",
-            "open_issues": 174,
+            "last_commit": "2026-10-03T03:18:11Z",
+            "open_issues": 189,
             "owner": "litedb-org",
             "repo": "LiteDB",
             "stars": 9479,
@@ -1404,11 +1404,11 @@
             "id": 120334619,
             "language": "F#",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T16:22:01Z",
+            "last_commit": "2026-10-03T03:58:05Z",
             "open_issues": 18,
             "owner": "fabulous-dev",
             "repo": "Fabulous",
-            "stars": 1285,
+            "stars": 1286,
             "topics": [
               "declarative-ui",
               "fabulous",
@@ -2481,7 +2481,7 @@
         {
           "node_type": "item",
           "title": "[Xam.Shell.Badge ★1](https://github.com/galadril/Xam.Shell.Badge",
-          "description": ".",
+          "description": "galadril/Xam.Shell.Badge",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4372,7 +4372,7 @@
             "open_issues": 2913,
             "owner": "Genymobile",
             "repo": "scrcpy",
-            "stars": 150881,
+            "stars": 150899,
             "topics": [
               "android",
               "c",
@@ -10385,7 +10385,7 @@
         {
           "node_type": "item",
           "title": "Xamarin.Forms.Sandbox ★7",
-          "description": null,
+          "description": "PureWeen/Xamarin.Forms.Sandbox",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -11761,7 +11761,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T21:44:15.343Z",
+    "last_updated": "2026-10-03T05:16:58.429Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Xamarin.Forms libraries and resources",
