@@ -722,11 +722,11 @@
             "id": 16157746,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-03T01:56:44Z",
-            "open_issues": 2350,
+            "last_commit": "2026-10-03T17:16:49Z",
+            "open_issues": 2351,
             "owner": "dotnet",
             "repo": "efcore",
-            "stars": 14797,
+            "stars": 14798,
             "topics": [
               "aspnet-product",
               "c-sharp",
@@ -1048,11 +1048,11 @@
             "id": 31335300,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T21:12:33Z",
-            "open_issues": 25,
+            "last_commit": "2026-10-03T19:53:19Z",
+            "open_issues": 22,
             "owner": "PrismLibrary",
             "repo": "Prism",
-            "stars": 6853,
+            "stars": 6852,
             "topics": [
               "c-sharp",
               "hacktoberfest",
@@ -1144,7 +1144,7 @@
             "open_issues": 5,
             "owner": "xamarinhq",
             "repo": "xamu-infrastructure",
-            "stars": 135,
+            "stars": 134,
             "topics": [
               "behaviors",
               "dotnet",
@@ -4261,7 +4261,7 @@
             "open_issues": 817,
             "owner": "JamesNK",
             "repo": "Newtonsoft.Json",
-            "stars": 11312,
+            "stars": 11311,
             "topics": [
               "c-sharp",
               "json"
@@ -4368,11 +4368,11 @@
             "id": 111583593,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T17:53:16Z",
+            "last_commit": "2026-10-03T09:40:48Z",
             "open_issues": 2913,
             "owner": "Genymobile",
             "repo": "scrcpy",
-            "stars": 150899,
+            "stars": 150936,
             "topics": [
               "android",
               "c",
@@ -5281,7 +5281,7 @@
             "open_issues": 18,
             "owner": "HorusSoftwareUY",
             "repo": "Xamarin.Forms.Skeleton",
-            "stars": 471,
+            "stars": 472,
             "topics": []
           },
           "first_seen": "2026-08-29T01:23:51.023Z"
@@ -11761,7 +11761,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:16:58.429Z",
+    "last_updated": "2026-10-03T20:31:22.502Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Xamarin.Forms libraries and resources",
