@@ -534,7 +534,7 @@
             "open_issues": 291,
             "owner": "xamarin",
             "repo": "XamarinCommunityToolkit",
-            "stars": 1560,
+            "stars": 1559,
             "topics": [
               "android",
               "behaviors",
@@ -723,10 +723,10 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-10-03T17:16:49Z",
-            "open_issues": 2351,
+            "open_issues": 2352,
             "owner": "dotnet",
             "repo": "efcore",
-            "stars": 14798,
+            "stars": 14797,
             "topics": [
               "aspnet-product",
               "c-sharp",
@@ -1048,8 +1048,8 @@
             "id": 31335300,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-03T19:53:19Z",
-            "open_issues": 22,
+            "last_commit": "2026-10-04T20:45:33Z",
+            "open_issues": 20,
             "owner": "PrismLibrary",
             "repo": "Prism",
             "stars": 6852,
@@ -1082,7 +1082,7 @@
             "open_issues": 191,
             "owner": "MvvmCross",
             "repo": "MvvmCross",
-            "stars": 3919,
+            "stars": 3920,
             "topics": [
               "android",
               "c-sharp",
@@ -1404,11 +1404,11 @@
             "id": 120334619,
             "language": "F#",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-03T03:58:05Z",
-            "open_issues": 18,
+            "last_commit": "2026-10-04T18:18:29Z",
+            "open_issues": 19,
             "owner": "fabulous-dev",
             "repo": "Fabulous",
-            "stars": 1286,
+            "stars": 1287,
             "topics": [
               "declarative-ui",
               "fabulous",
@@ -4261,7 +4261,7 @@
             "open_issues": 817,
             "owner": "JamesNK",
             "repo": "Newtonsoft.Json",
-            "stars": 11311,
+            "stars": 11312,
             "topics": [
               "c-sharp",
               "json"
@@ -4369,10 +4369,10 @@
             "language": "C",
             "license": "Apache-2.0",
             "last_commit": "2026-10-03T09:40:48Z",
-            "open_issues": 2913,
+            "open_issues": 2915,
             "owner": "Genymobile",
             "repo": "scrcpy",
-            "stars": 150936,
+            "stars": 151010,
             "topics": [
               "android",
               "c",
@@ -4400,7 +4400,7 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-09-07T21:10:58Z",
-            "open_issues": 2059,
+            "open_issues": 2061,
             "owner": "RicoSuter",
             "repo": "NSwag",
             "stars": 7364,
@@ -11761,7 +11761,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T20:31:22.502Z",
+    "last_updated": "2026-10-04T20:47:28.817Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Xamarin.Forms libraries and resources",
