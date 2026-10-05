@@ -534,7 +534,7 @@
             "open_issues": 291,
             "owner": "xamarin",
             "repo": "XamarinCommunityToolkit",
-            "stars": 1559,
+            "stars": 1558,
             "topics": [
               "android",
               "behaviors",
@@ -722,11 +722,11 @@
             "id": 16157746,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-03T17:16:49Z",
-            "open_issues": 2352,
+            "last_commit": "2026-10-05T22:05:17Z",
+            "open_issues": 2361,
             "owner": "dotnet",
             "repo": "efcore",
-            "stars": 14797,
+            "stars": 14801,
             "topics": [
               "aspnet-product",
               "c-sharp",
@@ -757,7 +757,7 @@
             "open_issues": 189,
             "owner": "litedb-org",
             "repo": "LiteDB",
-            "stars": 9479,
+            "stars": 9480,
             "topics": [
               "database",
               "dotnet",
@@ -1048,8 +1048,8 @@
             "id": 31335300,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-04T20:45:33Z",
-            "open_issues": 20,
+            "last_commit": "2026-10-05T16:46:53Z",
+            "open_issues": 15,
             "owner": "PrismLibrary",
             "repo": "Prism",
             "stars": 6852,
@@ -1404,8 +1404,8 @@
             "id": 120334619,
             "language": "F#",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-04T18:18:29Z",
-            "open_issues": 19,
+            "last_commit": "2026-10-05T10:04:54Z",
+            "open_issues": 20,
             "owner": "fabulous-dev",
             "repo": "Fabulous",
             "stars": 1287,
@@ -1759,7 +1759,7 @@
             "open_issues": 192,
             "owner": "jamesmontemagno",
             "repo": "MediaPlugin",
-            "stars": 709,
+            "stars": 708,
             "topics": []
           },
           "first_seen": "2026-08-29T01:23:51.023Z"
@@ -1847,7 +1847,7 @@
             "open_issues": 6,
             "owner": "jamesmontemagno",
             "repo": "SettingsPlugin",
-            "stars": 319,
+            "stars": 318,
             "topics": []
           },
           "first_seen": "2026-08-29T01:23:51.023Z"
@@ -1966,7 +1966,7 @@
             "open_issues": 0,
             "owner": "jamesmontemagno",
             "repo": "ConnectivityPlugin",
-            "stars": 263,
+            "stars": 262,
             "topics": [
               "pcl",
               "reachability",
@@ -4261,7 +4261,7 @@
             "open_issues": 817,
             "owner": "JamesNK",
             "repo": "Newtonsoft.Json",
-            "stars": 11312,
+            "stars": 11313,
             "topics": [
               "c-sharp",
               "json"
@@ -4368,11 +4368,11 @@
             "id": 111583593,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-03T09:40:48Z",
+            "last_commit": "2026-10-05T21:19:08Z",
             "open_issues": 2915,
             "owner": "Genymobile",
             "repo": "scrcpy",
-            "stars": 151010,
+            "stars": 151107,
             "topics": [
               "android",
               "c",
@@ -4400,7 +4400,7 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-09-07T21:10:58Z",
-            "open_issues": 2061,
+            "open_issues": 2062,
             "owner": "RicoSuter",
             "repo": "NSwag",
             "stars": 7364,
@@ -5087,7 +5087,7 @@
             "open_issues": 0,
             "owner": "AndreiMisiukevich",
             "repo": "CardView",
-            "stars": 691,
+            "stars": 690,
             "topics": [
               "cardsview",
               "cardviews",
@@ -9608,27 +9608,6 @@
         },
         {
           "node_type": "item",
-          "title": "Spillman.Xamarin.Forms.ColorPicker ★10",
-          "description": "Nice looking HSV color picker for Xamarin forms. Also has alpha and hex support.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Nice looking HSV color picker for Xamarin Forms with alpha and hex support.",
-            "homepage": null,
-            "id": 197959169,
-            "language": "C#",
-            "license": "MIT",
-            "last_commit": "2026-08-02T23:51:48Z",
-            "open_issues": 0,
-            "owner": "daltonks",
-            "repo": "Spillman.Xamarin.Forms.ColorPicker",
-            "stars": 10,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T01:23:51.023Z"
-        },
-        {
-          "node_type": "item",
           "title": "XF.Material.Outline ★11",
           "description": "A Xamarin.Forms library using SkiaSharp for Xamarin.Android and Xamarin.iOS to implement the outline styled text view in Google's Material Design.",
           "children": [],
@@ -9824,6 +9803,27 @@
               "xamarin",
               "xamarin-forms"
             ]
+          },
+          "first_seen": "2026-08-29T01:23:51.023Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Spillman.Xamarin.Forms.ColorPicker ★10",
+          "description": "Nice looking HSV color picker for Xamarin forms. Also has alpha and hex support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Nice looking HSV color picker for Xamarin Forms with alpha and hex support.",
+            "homepage": null,
+            "id": 197959169,
+            "language": "C#",
+            "license": "MIT",
+            "last_commit": "2026-08-02T23:51:48Z",
+            "open_issues": 0,
+            "owner": "daltonks",
+            "repo": "Spillman.Xamarin.Forms.ColorPicker",
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:23:51.023Z"
         },
@@ -11761,7 +11761,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T20:47:28.817Z",
+    "last_updated": "2026-10-05T23:37:35.046Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Xamarin.Forms libraries and resources",
