@@ -722,8 +722,8 @@
             "id": 16157746,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-06T02:37:05Z",
-            "open_issues": 2361,
+            "last_commit": "2026-10-06T19:33:17Z",
+            "open_issues": 2362,
             "owner": "dotnet",
             "repo": "efcore",
             "stars": 14800,
@@ -1048,11 +1048,11 @@
             "id": 31335300,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-06T04:32:46Z",
-            "open_issues": 17,
+            "last_commit": "2026-10-06T13:11:57Z",
+            "open_issues": 14,
             "owner": "PrismLibrary",
             "repo": "Prism",
-            "stars": 6853,
+            "stars": 6854,
             "topics": [
               "c-sharp",
               "hacktoberfest",
@@ -1404,8 +1404,8 @@
             "id": 120334619,
             "language": "F#",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T03:09:42Z",
-            "open_issues": 20,
+            "last_commit": "2026-10-06T14:03:47Z",
+            "open_issues": 22,
             "owner": "fabulous-dev",
             "repo": "Fabulous",
             "stars": 1287,
@@ -4261,7 +4261,7 @@
             "open_issues": 817,
             "owner": "JamesNK",
             "repo": "Newtonsoft.Json",
-            "stars": 11313,
+            "stars": 11311,
             "topics": [
               "c-sharp",
               "json"
@@ -4368,11 +4368,11 @@
             "id": 111583593,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T07:29:58Z",
-            "open_issues": 2917,
+            "last_commit": "2026-10-06T17:38:25Z",
+            "open_issues": 2921,
             "owner": "Genymobile",
             "repo": "scrcpy",
-            "stars": 151296,
+            "stars": 151411,
             "topics": [
               "android",
               "c",
@@ -4403,7 +4403,7 @@
             "open_issues": 2062,
             "owner": "RicoSuter",
             "repo": "NSwag",
-            "stars": 7364,
+            "stars": 7363,
             "topics": [
               "angular",
               "aspnet",
@@ -11761,7 +11761,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T11:09:02.547Z",
+    "last_updated": "2026-10-06T22:11:54.132Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Xamarin.Forms libraries and resources",
