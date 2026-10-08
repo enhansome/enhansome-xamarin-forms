@@ -320,7 +320,7 @@
             "open_issues": 110,
             "owner": "praeclarum",
             "repo": "Ooui",
-            "stars": 1619,
+            "stars": 1620,
             "topics": [
               "cross-platform",
               "csharp",
@@ -534,7 +534,7 @@
             "open_issues": 291,
             "owner": "xamarin",
             "repo": "XamarinCommunityToolkit",
-            "stars": 1558,
+            "stars": 1557,
             "topics": [
               "android",
               "behaviors",
@@ -722,11 +722,11 @@
             "id": 16157746,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-07T21:54:43Z",
-            "open_issues": 2361,
+            "last_commit": "2026-10-08T21:05:09Z",
+            "open_issues": 2337,
             "owner": "dotnet",
             "repo": "efcore",
-            "stars": 14800,
+            "stars": 14798,
             "topics": [
               "aspnet-product",
               "c-sharp",
@@ -784,7 +784,7 @@
             "open_issues": 615,
             "owner": "praeclarum",
             "repo": "sqlite-net",
-            "stars": 4456,
+            "stars": 4454,
             "topics": []
           },
           "first_seen": "2026-08-29T01:23:51.023Z"
@@ -802,7 +802,7 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-10-07T12:26:09Z",
-            "open_issues": 7,
+            "open_issues": 8,
             "owner": "reactiveui",
             "repo": "Akavache",
             "stars": 2549,
@@ -1048,11 +1048,11 @@
             "id": 31335300,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-07T22:28:25Z",
+            "last_commit": "2026-10-08T18:30:02Z",
             "open_issues": 13,
             "owner": "PrismLibrary",
             "repo": "Prism",
-            "stars": 6856,
+            "stars": 6855,
             "topics": [
               "c-sharp",
               "hacktoberfest",
@@ -1404,11 +1404,11 @@
             "id": 120334619,
             "language": "F#",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-07T12:39:57Z",
-            "open_issues": 19,
+            "last_commit": "2026-10-08T16:51:12Z",
+            "open_issues": 17,
             "owner": "fabulous-dev",
             "repo": "Fabulous",
-            "stars": 1287,
+            "stars": 1290,
             "topics": [
               "declarative-ui",
               "fabulous",
@@ -1651,7 +1651,7 @@
             "open_issues": 204,
             "owner": "Redth",
             "repo": "ZXing.Net.Mobile",
-            "stars": 1083,
+            "stars": 1084,
             "topics": []
           },
           "first_seen": "2026-08-29T01:23:51.023Z"
@@ -1704,7 +1704,7 @@
             "open_issues": 145,
             "owner": "Baseflow",
             "repo": "XamarinMediaManager",
-            "stars": 763,
+            "stars": 762,
             "topics": [
               "audio",
               "baseflow",
@@ -1738,7 +1738,7 @@
             "open_issues": 3,
             "owner": "jamesmontemagno",
             "repo": "InAppBillingPlugin",
-            "stars": 729,
+            "stars": 728,
             "topics": []
           },
           "first_seen": "2026-08-29T01:23:51.023Z"
@@ -1966,7 +1966,7 @@
             "open_issues": 0,
             "owner": "jamesmontemagno",
             "repo": "ConnectivityPlugin",
-            "stars": 262,
+            "stars": 261,
             "topics": [
               "pcl",
               "reachability",
@@ -3914,7 +3914,7 @@
             "open_issues": 0,
             "owner": "xamarin",
             "repo": "xamarin-forms-samples",
-            "stars": 4241,
+            "stars": 4240,
             "topics": [
               "xamarin",
               "xamarin-forms"
@@ -3938,7 +3938,7 @@
             "open_issues": 4,
             "owner": "TheCodeTraveler",
             "repo": "AsyncAwaitBestPractices",
-            "stars": 1842,
+            "stars": 1843,
             "topics": [
               "async",
               "await",
@@ -3987,7 +3987,7 @@
             "open_issues": 11,
             "owner": "PrismLibrary",
             "repo": "Prism-Samples-Forms",
-            "stars": 383,
+            "stars": 382,
             "topics": [
               "prism",
               "samples",
@@ -4261,7 +4261,7 @@
             "open_issues": 817,
             "owner": "JamesNK",
             "repo": "Newtonsoft.Json",
-            "stars": 11314,
+            "stars": 11313,
             "topics": [
               "c-sharp",
               "json"
@@ -4368,11 +4368,11 @@
             "id": 111583593,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-07T07:23:10Z",
-            "open_issues": 2923,
+            "last_commit": "2026-10-08T06:44:51Z",
+            "open_issues": 2920,
             "owner": "Genymobile",
             "repo": "scrcpy",
-            "stars": 151574,
+            "stars": 151556,
             "topics": [
               "android",
               "c",
@@ -4400,10 +4400,10 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-09-07T21:10:58Z",
-            "open_issues": 2062,
+            "open_issues": 2061,
             "owner": "RicoSuter",
             "repo": "NSwag",
-            "stars": 7365,
+            "stars": 7366,
             "topics": [
               "angular",
               "aspnet",
@@ -4917,7 +4917,7 @@
             "open_issues": 1,
             "owner": "microcharts-dotnet",
             "repo": "Microcharts",
-            "stars": 2075,
+            "stars": 2076,
             "topics": [
               "android",
               "charts",
@@ -5847,7 +5847,7 @@
             "open_issues": 8,
             "owner": "jamesmontemagno",
             "repo": "Xamarin.Forms-PullToRefreshLayout",
-            "stars": 216,
+            "stars": 215,
             "topics": []
           },
           "first_seen": "2026-08-29T01:23:51.023Z"
@@ -11761,7 +11761,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T22:33:43.316Z",
+    "last_updated": "2026-10-08T22:46:01.694Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Xamarin.Forms libraries and resources",
