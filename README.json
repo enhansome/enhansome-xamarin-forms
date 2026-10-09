@@ -722,11 +722,11 @@
             "id": 16157746,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-08T21:05:09Z",
+            "last_commit": "2026-10-09T20:03:52Z",
             "open_issues": 2337,
             "owner": "dotnet",
             "repo": "efcore",
-            "stars": 14798,
+            "stars": 14795,
             "topics": [
               "aspnet-product",
               "c-sharp",
@@ -1078,8 +1078,8 @@
             "id": 2870911,
             "language": "C#",
             "license": "MS-PL",
-            "last_commit": "2026-10-07T03:16:16Z",
-            "open_issues": 192,
+            "last_commit": "2026-10-09T03:16:34Z",
+            "open_issues": 193,
             "owner": "MvvmCross",
             "repo": "MvvmCross",
             "stars": 3920,
@@ -1404,7 +1404,7 @@
             "id": 120334619,
             "language": "F#",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-08T16:51:12Z",
+            "last_commit": "2026-10-09T14:25:39Z",
             "open_issues": 17,
             "owner": "fabulous-dev",
             "repo": "Fabulous",
@@ -1592,7 +1592,7 @@
             "open_issues": 1,
             "owner": "videolan",
             "repo": "libvlcsharp",
-            "stars": 1815,
+            "stars": 1817,
             "topics": [
               "dotnet",
               "libvlc",
@@ -4261,7 +4261,7 @@
             "open_issues": 817,
             "owner": "JamesNK",
             "repo": "Newtonsoft.Json",
-            "stars": 11313,
+            "stars": 11312,
             "topics": [
               "c-sharp",
               "json"
@@ -4369,10 +4369,10 @@
             "language": "C",
             "license": "Apache-2.0",
             "last_commit": "2026-10-08T06:44:51Z",
-            "open_issues": 2920,
+            "open_issues": 2922,
             "owner": "Genymobile",
             "repo": "scrcpy",
-            "stars": 151556,
+            "stars": 151701,
             "topics": [
               "android",
               "c",
@@ -4403,7 +4403,7 @@
             "open_issues": 2061,
             "owner": "RicoSuter",
             "repo": "NSwag",
-            "stars": 7366,
+            "stars": 7367,
             "topics": [
               "angular",
               "aspnet",
@@ -5119,7 +5119,7 @@
             "open_issues": 30,
             "owner": "dotnet",
             "repo": "Microsoft.Maui.Graphics.Controls",
-            "stars": 666,
+            "stars": 665,
             "topics": [
               "controls",
               "cupertino",
@@ -5281,7 +5281,7 @@
             "open_issues": 18,
             "owner": "HorusSoftwareUY",
             "repo": "Xamarin.Forms.Skeleton",
-            "stars": 472,
+            "stars": 471,
             "topics": []
           },
           "first_seen": "2026-08-29T01:23:51.023Z"
@@ -11761,7 +11761,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T22:46:01.694Z",
+    "last_updated": "2026-10-09T22:09:17.731Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Xamarin.Forms libraries and resources",
