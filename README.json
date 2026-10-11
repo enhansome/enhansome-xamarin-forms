@@ -723,7 +723,7 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-10-10T00:25:41Z",
-            "open_issues": 2334,
+            "open_issues": 2338,
             "owner": "dotnet",
             "repo": "efcore",
             "stars": 14795,
@@ -757,7 +757,7 @@
             "open_issues": 189,
             "owner": "litedb-org",
             "repo": "LiteDB",
-            "stars": 9481,
+            "stars": 9480,
             "topics": [
               "database",
               "dotnet",
@@ -1048,7 +1048,7 @@
             "id": 31335300,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-10T11:53:38Z",
+            "last_commit": "2026-10-11T20:44:10Z",
             "open_issues": 13,
             "owner": "PrismLibrary",
             "repo": "Prism",
@@ -1408,7 +1408,7 @@
             "open_issues": 8,
             "owner": "fabulous-dev",
             "repo": "Fabulous",
-            "stars": 1290,
+            "stars": 1289,
             "topics": [
               "declarative-ui",
               "fabulous",
@@ -4372,7 +4372,7 @@
             "open_issues": 2924,
             "owner": "Genymobile",
             "repo": "scrcpy",
-            "stars": 151780,
+            "stars": 151860,
             "topics": [
               "android",
               "c",
@@ -5281,7 +5281,7 @@
             "open_issues": 18,
             "owner": "HorusSoftwareUY",
             "repo": "Xamarin.Forms.Skeleton",
-            "stars": 471,
+            "stars": 472,
             "topics": []
           },
           "first_seen": "2026-08-29T01:23:51.023Z"
@@ -11761,7 +11761,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T21:02:44.816Z",
+    "last_updated": "2026-10-11T21:23:36.573Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Xamarin.Forms libraries and resources",
