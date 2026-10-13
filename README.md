@@ -77,7 +77,7 @@ You can find other awesome lists related to Xamarin below:
 
 ## Database
 
-* [Entity Framework Core ★11230](https://github.com/aspnet/EntityFrameworkCore) ⭐ 14,795 | 🐛 2,338 | 🌐 C# | 📅 2026-10-10: Is a lightweight and extensible version of the popular Entity Framework data access technology.
+* [Entity Framework Core ★11230](https://github.com/aspnet/EntityFrameworkCore) ⭐ 14,798 | 🐛 2,342 | 🌐 C# | 📅 2026-10-12: Is a lightweight and extensible version of the popular Entity Framework data access technology.
 * [LiteDB ★6418](https://github.com/mbdavid/LiteDB) ⭐ 9,480 | 🐛 189 | 🌐 C# | 📅 2026-10-03: A .NET NoSQL Document Store in a single data file.
 * [SQLite-net ★3299](https://github.com/praeclarum/sqlite-net) ⭐ 4,454 | 🐛 615 | 🌐 C# | 📅 2026-07-13: It is an open source, minimal library to allow .NET and Mono applications to store data in SQLite 3 databases.
 * [Akavache ★2234](https://github.com/akavache/Akavache) ⭐ 2,549 | 🐛 8 | 🌐 C# | 📅 2026-10-07: Akavache is an asynchronous, persistent (i.e. writes to disk) key-value store created for writing desktop and mobile applications in C#, based on SQLite3. Akavache is great for both storing important data (i.e. user settings) as well as cached local data that expires.
@@ -113,7 +113,7 @@ You can find other awesome lists related to Xamarin below:
 
 ## MVVM
 
-* [Prism ★5083](https://github.com/PrismLibrary/Prism) ⭐ 6,856 | 🐛 13 | 🌐 C# | 📅 2026-10-11: Nice framework with an amazing navigation service.
+* [Prism ★5083](https://github.com/PrismLibrary/Prism) ⭐ 6,855 | 🐛 12 | 🌐 C# | 📅 2026-10-12: Nice framework with an amazing navigation service.
 * [MVVMCross ★3637](https://github.com/MvvmCross/MvvmCross) ⭐ 3,920 | 🐛 194 | 🌐 C# | 📅 2026-10-10: Cross-platform mvvm mobile development framework.
 * [FreshMvvm ★564](https://github.com/rid00z/FreshMvvm) ⭐ 590 | 🐛 150 | 🌐 C# | 📅 2022-02-11: It is a super light Mvvm Framework designed specifically for Xamarin.Forms
 * [Xamarin University Infrastructure Library ★144](https://github.com/xamarinhq/xamu-infrastructure) ⚠️ Archived: Extensions, MVVM classes, behaviors and other misc. useful code bits from Xamarin University.
@@ -134,7 +134,7 @@ You can find other awesome lists related to Xamarin below:
 
 ## Elmish
 
-* [Fabulous ★908](https://github.com/fsprojects/Fabulous) ⭐ 1,289 | 🐛 8 | 🌐 F# | 📅 2026-10-10: F# Functional App Development - Elmish for Xamarin.Forms <https://fsprojects.github.io/Fabulous/>
+* [Fabulous ★908](https://github.com/fsprojects/Fabulous) ⭐ 1,290 | 🐛 8 | 🌐 F# | 📅 2026-10-12: F# Functional App Development - Elmish for Xamarin.Forms <https://fsprojects.github.io/Fabulous/>
 * [Fabulous.SimpleElements ★47](https://github.com/Zaid-Ajaj/fabulous-simple-elements) ⚠️ Archived: An alternative view rendering API for Fabulous (Elmish Xamarin.Forms) that is easy to use and simple to read, inspired by Elmish on the web.
 * [Fun.LightForm ★1](https://github.com/albertwoo/Fun.LightForm): This is a light form library for Fable and Xamarin Fabulous in elmish style.
 
@@ -151,7 +151,7 @@ You can find other awesome lists related to Xamarin below:
 
 ## Plugins
 
-* [LibVLCSharp ★980](https://github.com/videolan/libvlcsharp) ⭐ 1,817 | 🐛 1 | 🌐 C# | 📅 2026-10-06: Xamarin bindings for libvlc, the multimedia framework powering the VLC applications made by VideoLAN.
+* [LibVLCSharp ★980](https://github.com/videolan/libvlcsharp) ⭐ 1,819 | 🐛 2 | 🌐 C# | 📅 2026-10-06: Xamarin bindings for libvlc, the multimedia framework powering the VLC applications made by VideoLAN.
 * [Xamarin.Essentials ★1333](https://github.com/xamarin/Essentials) ⚠️ Archived: (**Official**) Essential cross platform APIs for your mobile apps.
 * [ZXing.Net.Mobile ★1012](https://github.com/Redth/ZXing.Net.Mobile) ⭐ 1,084 | 🐛 204 | 🌐 C# | 📅 2024-05-24:  The goal of ZXing.Net.Mobile is to make scanning barcodes as effortless and painless as possible in your own applications.
 * [CSharpForMarkup ★438](https://github.com/VincentH-Net/CSharpForMarkup) ⭐ 837 | 🐛 7 | 🌐 C# | 📅 2026-05-29: Use declarative style C# instead of XAML for Xamarin Forms UI.
@@ -254,7 +254,7 @@ You can find other awesome lists related to Xamarin below:
 ## Samples
 
 * [xamarin-forms-samples ★3671](https://github.com/xamarin/xamarin-forms-samples) ⚠️ Archived: Sample apps built using the Xamarin.Forms framework.
-* [AsyncAwaitBestPractices ★959](https://github.com/brminnick/AsyncAwaitBestPractices) ⭐ 1,843 | 🐛 4 | 🌐 C# | 📅 2026-09-28: A Xamarin.Forms app for displaying the top posts on Hacker News that demonstrates best practices for Async/Await.
+* [AsyncAwaitBestPractices ★959](https://github.com/brminnick/AsyncAwaitBestPractices) ⭐ 1,844 | 🐛 4 | 🌐 C# | 📅 2026-09-28: A Xamarin.Forms app for displaying the top posts on Hacker News that demonstrates best practices for Async/Await.
 * [Xamarin.Forms Demo Apps ★470](https://github.com/conceptdev/xamarin-forms-samples) ⭐ 462 | 🐛 23 | 🌐 C# | 📅 2022-06-22: Samples that use Xamarin.Forms.
 * [Prism Samples Forms ★355](https://github.com/PrismLibrary/Prism-Samples-Forms) ⭐ 382 | 🐛 11 | 🌐 C# | 📅 2024-09-23: Samples that demonstrate how to use various Prism features with Xamarin.Forms.
 * [TheLittleThingsPlayground ★197](https://github.com/davidortinau/TheLittleThingsPlayground) ⭐ 188 | 🐛 13 | 🌐 C# | 📅 2020-01-13: Playground for experimenting with new Xamarin.Forms features.
@@ -271,7 +271,7 @@ You can find other awesome lists related to Xamarin below:
 
 ## Serialization
 
-* [JSON.NET ★9250](https://github.com/JamesNK/Newtonsoft.Json) ⭐ 11,313 | 🐛 817 | 🌐 C# | 📅 2026-09-21: Is a popular high-performance JSON framework for .NET
+* [JSON.NET ★9250](https://github.com/JamesNK/Newtonsoft.Json) ⭐ 11,312 | 🐛 817 | 🌐 C# | 📅 2026-09-21: Is a popular high-performance JSON framework for .NET
 * [Utf8Json ★2239](https://github.com/neuecc/Utf8Json) ⚠️ Archived: Definitely Fastest and Zero Allocation JSON Serializer for C#(.NET, .NET Core, Unity and Xamarin), this serializer write/read directly to UTF8 binary so boostup performance.
 
 ## Testing
@@ -281,7 +281,7 @@ You can find other awesome lists related to Xamarin below:
 
 ## Tools
 
-* [scrcpy ★64517](https://github.com/Genymobile/scrcpy) ⭐ 151,860 | 🐛 2,924 | 🌐 C | 📅 2026-10-08: This application provides display and control of Android devices connected on USB (or over TCP/IP). It does not require any root access. It works on GNU/Linux, Windows and MacOS.
+* [scrcpy ★64517](https://github.com/Genymobile/scrcpy) ⭐ 151,963 | 🐛 2,928 | 🌐 C | 📅 2026-10-08: This application provides display and control of Android devices connected on USB (or over TCP/IP). It does not require any root access. It works on GNU/Linux, Windows and MacOS.
 * [NSwag ★5096](https://github.com/RSuter/NSwag) ⭐ 7,367 | 🐛 2,061 | 🌐 C# | 📅 2026-09-07: Swagger and code generation tool for C#. Easily integrate your own or 3rd party APIs into your app.
 * [HotReload ★410](https://github.com/AndreiMisiukevich/HotReload) ⭐ 405 | 🐛 0 | 🌐 C# | 📅 2023-02-21: Xamarin.Forms XAML hot reload, live reload, live xaml.
 * [XAMLator ★201](https://github.com/ylatuya/XAMLator) ⭐ 194 | 🐛 7 | 🌐 C# | 📅 2019-04-02: Is a live XAML previewer for Xamarin.Forms. Change something in your view's XAML in Visual Studio and you preview it live in your device or simulator!
@@ -421,7 +421,7 @@ You can find other awesome lists related to Xamarin below:
 * [ParallaxScroll ★52](https://github.com/xamarinium/ParallaxScroll) ⭐ 51 | 🐛 3 | 🌐 C# | 📅 2019-02-23: Xamarin forms parallax scroll effect.
 * [MarkdownTextView ★50](https://github.com/SuavePirate/MarkdownTextView) ⭐ 50 | 🐛 5 | 🌐 C# | 📅 2018-02-22: A Xamarin.Forms component to display markdown text in a TextView.
 * [ImageCropper ★53](https://github.com/XAM-Consulting/Xam.Plugins.ImageCropper) ⭐ 49 | 🐛 9 | 🌐 C# | 📅 2018-03-23: Xam.Plugins.ImageCropper is a useful image cropping and rotating library for Xamarin.iOS and Xamarin.Android.
-* [SkiaSharp.Elements ★39](https://github.com/FelipeNicoletto/SkiaSharp.Elements) ⭐ 47 | 🐛 1 | 🌐 C# | 📅 2022-04-26: Simple way to draw and interact with elements using the library SkiaSharp. Compatible with Xamarin Forms.
+* [SkiaSharp.Elements ★39](https://github.com/FelipeNicoletto/SkiaSharp.Elements) ⭐ 48 | 🐛 1 | 🌐 C# | 📅 2022-04-26: Simple way to draw and interact with elements using the library SkiaSharp. Compatible with Xamarin Forms.
 * [ColorPicker ★32](https://github.com/vpapenko/ColorPicker) ⭐ 44 | 🐛 13 | 🌐 C# | 📅 2023-09-21: Color pickers for Xamarin Forms.
 * [XFFlipViewControl ★43](https://github.com/UdaraAlwis/XFFlipViewControl) ⭐ 44 | 🐛 1 | 🌐 C# | 📅 2017-12-19: An animated Flippable View with Xamarin.Forms.
 * [ElegantTabs ★48](https://github.com/muhaym/ElegantTabs) ⭐ 43 | 🐛 5 | 🌐 C# | 📅 2020-06-25: Adds some of nifty features that are missing in Xamarin Forms Tabbed Pages like Disabled Pages, Selected Icons, ability to use original Icon Colours.
@@ -623,4 +623,4 @@ You can find other awesome lists related to Xamarin below:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
