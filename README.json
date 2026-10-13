@@ -534,7 +534,7 @@
             "open_issues": 291,
             "owner": "xamarin",
             "repo": "XamarinCommunityToolkit",
-            "stars": 1557,
+            "stars": 1558,
             "topics": [
               "android",
               "behaviors",
@@ -722,8 +722,8 @@
             "id": 16157746,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-12T22:54:01Z",
-            "open_issues": 2342,
+            "last_commit": "2026-10-13T22:03:07Z",
+            "open_issues": 2347,
             "owner": "dotnet",
             "repo": "efcore",
             "stars": 14798,
@@ -757,7 +757,7 @@
             "open_issues": 189,
             "owner": "litedb-org",
             "repo": "LiteDB",
-            "stars": 9480,
+            "stars": 9483,
             "topics": [
               "database",
               "dotnet",
@@ -784,7 +784,7 @@
             "open_issues": 615,
             "owner": "praeclarum",
             "repo": "sqlite-net",
-            "stars": 4454,
+            "stars": 4452,
             "topics": []
           },
           "first_seen": "2026-08-29T01:23:51.023Z"
@@ -801,8 +801,8 @@
             "id": 2896461,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-07T12:26:09Z",
-            "open_issues": 8,
+            "last_commit": "2026-10-13T00:21:22Z",
+            "open_issues": 9,
             "owner": "reactiveui",
             "repo": "Akavache",
             "stars": 2549,
@@ -1048,8 +1048,8 @@
             "id": 31335300,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-12T21:06:16Z",
-            "open_issues": 12,
+            "last_commit": "2026-10-13T20:43:40Z",
+            "open_issues": 11,
             "owner": "PrismLibrary",
             "repo": "Prism",
             "stars": 6855,
@@ -1588,11 +1588,11 @@
             "id": 136175474,
             "language": "C#",
             "license": "LGPL-2.1",
-            "last_commit": "2026-10-06T09:00:55Z",
-            "open_issues": 2,
+            "last_commit": "2026-10-13T16:12:17Z",
+            "open_issues": 0,
             "owner": "videolan",
             "repo": "libvlcsharp",
-            "stars": 1819,
+            "stars": 1818,
             "topics": [
               "dotnet",
               "libvlc",
@@ -1622,7 +1622,7 @@
             "open_issues": 199,
             "owner": "xamarin",
             "repo": "Essentials",
-            "stars": 1493,
+            "stars": 1494,
             "topics": [
               "android",
               "cross-platform",
@@ -1738,7 +1738,7 @@
             "open_issues": 3,
             "owner": "jamesmontemagno",
             "repo": "InAppBillingPlugin",
-            "stars": 728,
+            "stars": 727,
             "topics": []
           },
           "first_seen": "2026-08-29T01:23:51.023Z"
@@ -2392,7 +2392,7 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2020-12-13T16:46:16Z",
-            "open_issues": 19,
+            "open_issues": 18,
             "owner": "KSemenenko",
             "repo": "GoogleAnalyticsForXamarinForms",
             "stars": 66,
@@ -3914,7 +3914,7 @@
             "open_issues": 0,
             "owner": "xamarin",
             "repo": "xamarin-forms-samples",
-            "stars": 4240,
+            "stars": 4241,
             "topics": [
               "xamarin",
               "xamarin-forms"
@@ -3934,8 +3934,8 @@
             "id": 118641651,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-28T09:34:14Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-13T19:38:42Z",
+            "open_issues": 2,
             "owner": "TheCodeTraveler",
             "repo": "AsyncAwaitBestPractices",
             "stars": 1844,
@@ -4201,7 +4201,7 @@
             "open_issues": 2,
             "owner": "jsuarezruiz",
             "repo": "xamarin-forms-gtk-samples",
-            "stars": 12,
+            "stars": 11,
             "topics": [
               "gtk",
               "gtksharp",
@@ -4285,7 +4285,7 @@
             "open_issues": 172,
             "owner": "neuecc",
             "repo": "Utf8Json",
-            "stars": 2380,
+            "stars": 2381,
             "topics": []
           },
           "first_seen": "2026-08-29T01:23:51.023Z"
@@ -4369,10 +4369,10 @@
             "language": "C",
             "license": "Apache-2.0",
             "last_commit": "2026-10-08T06:44:51Z",
-            "open_issues": 2928,
+            "open_issues": 2927,
             "owner": "Genymobile",
             "repo": "scrcpy",
-            "stars": 151963,
+            "stars": 152061,
             "topics": [
               "android",
               "c",
@@ -4403,7 +4403,7 @@
             "open_issues": 2061,
             "owner": "RicoSuter",
             "repo": "NSwag",
-            "stars": 7367,
+            "stars": 7369,
             "topics": [
               "angular",
               "aspnet",
@@ -4979,7 +4979,7 @@
             "open_issues": 110,
             "owner": "rotorgames",
             "repo": "Rg.Plugins.Popup",
-            "stars": 1139,
+            "stars": 1138,
             "topics": [
               "android",
               "custom-popup",
@@ -5062,7 +5062,7 @@
             "open_issues": 40,
             "owner": "sthewissen",
             "repo": "Xamarin.Forms.PancakeView",
-            "stars": 843,
+            "stars": 842,
             "topics": [
               "xamarin",
               "xamarin-forms",
@@ -5281,7 +5281,7 @@
             "open_issues": 18,
             "owner": "HorusSoftwareUY",
             "repo": "Xamarin.Forms.Skeleton",
-            "stars": 472,
+            "stars": 473,
             "topics": []
           },
           "first_seen": "2026-08-29T01:23:51.023Z"
@@ -6875,35 +6875,6 @@
         },
         {
           "node_type": "item",
-          "title": "PhotoBrowser ★77",
-          "description": "Full screen image viewer(Xamarin.Forms) that includes \"pinch to zoom\" and \"swipe to dismiss\" gestures.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Full screen image viewer(Xamarin.Forms) that includes \"pinch to zoom\" and \"swipe to dismiss\" gestures.",
-            "homepage": null,
-            "id": 120306434,
-            "language": "C#",
-            "license": "MIT",
-            "last_commit": "2019-03-13T13:34:15Z",
-            "open_issues": 18,
-            "owner": "stormlion227",
-            "repo": "PhotoBrowser.Forms",
-            "stars": 74,
-            "topics": [
-              "fresco",
-              "images",
-              "mwphotobrowser",
-              "photos",
-              "pinch-to-zoom",
-              "swipe-to-dismiss",
-              "xamarin-forms"
-            ]
-          },
-          "first_seen": "2026-08-29T01:23:51.023Z"
-        },
-        {
-          "node_type": "item",
           "title": "ContextMenuContainer ★30",
           "description": "Add native context menu to any Xamarin.Forms View.",
           "children": [],
@@ -6926,6 +6897,35 @@
               "ui-components",
               "uwp",
               "xamarin",
+              "xamarin-forms"
+            ]
+          },
+          "first_seen": "2026-08-29T01:23:51.023Z"
+        },
+        {
+          "node_type": "item",
+          "title": "PhotoBrowser ★77",
+          "description": "Full screen image viewer(Xamarin.Forms) that includes \"pinch to zoom\" and \"swipe to dismiss\" gestures.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Full screen image viewer(Xamarin.Forms) that includes \"pinch to zoom\" and \"swipe to dismiss\" gestures.",
+            "homepage": null,
+            "id": 120306434,
+            "language": "C#",
+            "license": "MIT",
+            "last_commit": "2019-03-13T13:34:15Z",
+            "open_issues": 18,
+            "owner": "stormlion227",
+            "repo": "PhotoBrowser.Forms",
+            "stars": 73,
+            "topics": [
+              "fresco",
+              "images",
+              "mwphotobrowser",
+              "photos",
+              "pinch-to-zoom",
+              "swipe-to-dismiss",
               "xamarin-forms"
             ]
           },
@@ -11761,7 +11761,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T00:03:37.923Z",
+    "last_updated": "2026-10-13T22:13:06.935Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Xamarin.Forms libraries and resources",
@@ -11773,7 +11773,7 @@
       "open_issues": 2,
       "owner": "jsuarezruiz",
       "repo": "awesome-xamarin-forms",
-      "stars": 1221,
+      "stars": 1220,
       "topics": [
         "animation",
         "awesome",
