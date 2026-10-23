@@ -722,11 +722,11 @@
             "id": 16157746,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-22T20:20:41Z",
-            "open_issues": 2377,
+            "last_commit": "2026-10-23T20:40:17Z",
+            "open_issues": 2361,
             "owner": "dotnet",
             "repo": "efcore",
-            "stars": 14806,
+            "stars": 14808,
             "topics": [
               "aspnet-product",
               "c-sharp",
@@ -781,7 +781,7 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-07-13T16:23:53Z",
-            "open_issues": 615,
+            "open_issues": 616,
             "owner": "praeclarum",
             "repo": "sqlite-net",
             "stars": 4455,
@@ -1052,7 +1052,7 @@
             "open_issues": 11,
             "owner": "PrismLibrary",
             "repo": "Prism",
-            "stars": 6859,
+            "stars": 6860,
             "topics": [
               "c-sharp",
               "hacktoberfest",
@@ -1082,7 +1082,7 @@
             "open_issues": 189,
             "owner": "MvvmCross",
             "repo": "MvvmCross",
-            "stars": 3918,
+            "stars": 3919,
             "topics": [
               "android",
               "c-sharp",
@@ -1592,7 +1592,7 @@
             "open_issues": 3,
             "owner": "videolan",
             "repo": "libvlcsharp",
-            "stars": 1823,
+            "stars": 1825,
             "topics": [
               "dotnet",
               "libvlc",
@@ -1935,7 +1935,7 @@
             "id": 300844166,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-29T17:59:14Z",
+            "last_commit": "2026-10-23T20:52:38Z",
             "open_issues": 3,
             "owner": "melihercan",
             "repo": "WebRTCme",
@@ -3914,7 +3914,7 @@
             "open_issues": 0,
             "owner": "xamarin",
             "repo": "xamarin-forms-samples",
-            "stars": 4241,
+            "stars": 4242,
             "topics": [
               "xamarin",
               "xamarin-forms"
@@ -4369,10 +4369,10 @@
             "language": "C",
             "license": "Apache-2.0",
             "last_commit": "2026-10-22T17:50:35Z",
-            "open_issues": 2933,
+            "open_issues": 2934,
             "owner": "Genymobile",
             "repo": "scrcpy",
-            "stars": 152879,
+            "stars": 152973,
             "topics": [
               "android",
               "c",
@@ -11761,7 +11761,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T21:07:24.631Z",
+    "last_updated": "2026-10-23T20:54:06.656Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Xamarin.Forms libraries and resources",
