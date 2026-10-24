@@ -534,7 +534,7 @@
             "open_issues": 291,
             "owner": "xamarin",
             "repo": "XamarinCommunityToolkit",
-            "stars": 1557,
+            "stars": 1558,
             "topics": [
               "android",
               "behaviors",
@@ -722,11 +722,11 @@
             "id": 16157746,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-23T20:40:17Z",
-            "open_issues": 2361,
+            "last_commit": "2026-10-24T17:37:58Z",
+            "open_issues": 2365,
             "owner": "dotnet",
             "repo": "efcore",
-            "stars": 14808,
+            "stars": 14809,
             "topics": [
               "aspnet-product",
               "c-sharp",
@@ -1052,7 +1052,7 @@
             "open_issues": 11,
             "owner": "PrismLibrary",
             "repo": "Prism",
-            "stars": 6860,
+            "stars": 6861,
             "topics": [
               "c-sharp",
               "hacktoberfest",
@@ -1082,7 +1082,7 @@
             "open_issues": 189,
             "owner": "MvvmCross",
             "repo": "MvvmCross",
-            "stars": 3919,
+            "stars": 3920,
             "topics": [
               "android",
               "c-sharp",
@@ -1408,7 +1408,7 @@
             "open_issues": 8,
             "owner": "fabulous-dev",
             "repo": "Fabulous",
-            "stars": 1295,
+            "stars": 1296,
             "topics": [
               "declarative-ui",
               "fabulous",
@@ -1592,7 +1592,7 @@
             "open_issues": 3,
             "owner": "videolan",
             "repo": "libvlcsharp",
-            "stars": 1825,
+            "stars": 1826,
             "topics": [
               "dotnet",
               "libvlc",
@@ -1935,7 +1935,7 @@
             "id": 300844166,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-23T20:52:38Z",
+            "last_commit": "2026-10-24T09:49:06Z",
             "open_issues": 3,
             "owner": "melihercan",
             "repo": "WebRTCme",
@@ -4261,7 +4261,7 @@
             "open_issues": 820,
             "owner": "JamesNK",
             "repo": "Newtonsoft.Json",
-            "stars": 11315,
+            "stars": 11314,
             "topics": [
               "c-sharp",
               "json"
@@ -4368,11 +4368,11 @@
             "id": 111583593,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-22T17:50:35Z",
-            "open_issues": 2934,
+            "last_commit": "2026-10-24T16:21:52Z",
+            "open_issues": 2935,
             "owner": "Genymobile",
             "repo": "scrcpy",
-            "stars": 152973,
+            "stars": 153051,
             "topics": [
               "android",
               "c",
@@ -5350,7 +5350,7 @@
             "open_issues": 7,
             "owner": "sthewissen",
             "repo": "Xamarin.Forms.DebugRainbows",
-            "stars": 407,
+            "stars": 406,
             "topics": []
           },
           "first_seen": "2026-08-29T01:23:51.023Z"
@@ -5722,6 +5722,27 @@
         },
         {
           "node_type": "item",
+          "title": "Signature Pad ★221",
+          "description": "makes capturing, saving, exporting, and displaying signatures extremely simple on iOS, Android and Windows.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "description": null,
+            "homepage": null,
+            "id": 18772660,
+            "language": "C#",
+            "license": "MIT",
+            "last_commit": "2021-05-12T19:32:41Z",
+            "open_issues": 58,
+            "owner": "xamarin",
+            "repo": "SignaturePad",
+            "stars": 242,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T01:23:51.023Z"
+        },
+        {
+          "node_type": "item",
           "title": "Xamarin.Forms.StateSquid ★256",
           "description": "Spiritual successor to EasyLoading, turn any layout element into an individual state-aware element.",
           "children": [],
@@ -5737,27 +5758,6 @@
             "owner": "sthewissen",
             "repo": "Xamarin.Forms.StateSquid",
             "stars": 242,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T01:23:51.023Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Signature Pad ★221",
-          "description": "makes capturing, saving, exporting, and displaying signatures extremely simple on iOS, Android and Windows.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": null,
-            "homepage": null,
-            "id": 18772660,
-            "language": "C#",
-            "license": "MIT",
-            "last_commit": "2021-05-12T19:32:41Z",
-            "open_issues": 58,
-            "owner": "xamarin",
-            "repo": "SignaturePad",
-            "stars": 241,
             "topics": []
           },
           "first_seen": "2026-08-29T01:23:51.023Z"
@@ -11761,7 +11761,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T20:54:06.656Z",
+    "last_updated": "2026-10-24T20:05:29.624Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Xamarin.Forms libraries and resources",
