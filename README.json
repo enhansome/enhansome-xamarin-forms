@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "XamSome",
             "repo": "awesome-xamarin",
-            "stars": 1865,
+            "stars": 1866,
             "topics": [
               "awesome",
               "awesome-list",
@@ -722,11 +722,11 @@
             "id": 16157746,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-25T17:33:35Z",
-            "open_issues": 2369,
+            "last_commit": "2026-10-26T05:47:51Z",
+            "open_issues": 2377,
             "owner": "dotnet",
             "repo": "efcore",
-            "stars": 14810,
+            "stars": 14811,
             "topics": [
               "aspnet-product",
               "c-sharp",
@@ -753,8 +753,8 @@
             "id": 23315232,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-25T20:17:34Z",
-            "open_issues": 187,
+            "last_commit": "2026-10-26T20:40:26Z",
+            "open_issues": 173,
             "owner": "litedb-org",
             "repo": "LiteDB",
             "stars": 9489,
@@ -781,10 +781,10 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-07-13T16:23:53Z",
-            "open_issues": 616,
+            "open_issues": 618,
             "owner": "praeclarum",
             "repo": "sqlite-net",
-            "stars": 4455,
+            "stars": 4454,
             "topics": []
           },
           "first_seen": "2026-08-29T01:23:51.023Z"
@@ -835,7 +835,7 @@
             "open_issues": 382,
             "owner": "Azure",
             "repo": "azure-cosmos-dotnet-v2",
-            "stars": 574,
+            "stars": 573,
             "topics": []
           },
           "first_seen": "2026-08-29T01:23:51.023Z"
@@ -1052,7 +1052,7 @@
             "open_issues": 11,
             "owner": "PrismLibrary",
             "repo": "Prism",
-            "stars": 6862,
+            "stars": 6863,
             "topics": [
               "c-sharp",
               "hacktoberfest",
@@ -1404,11 +1404,11 @@
             "id": 120334619,
             "language": "F#",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-18T20:04:51Z",
+            "last_commit": "2026-10-26T12:18:28Z",
             "open_issues": 8,
             "owner": "fabulous-dev",
             "repo": "Fabulous",
-            "stars": 1296,
+            "stars": 1297,
             "topics": [
               "declarative-ui",
               "fabulous",
@@ -1589,7 +1589,7 @@
             "language": "C#",
             "license": "LGPL-2.1",
             "last_commit": "2026-10-20T09:58:10Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "videolan",
             "repo": "libvlcsharp",
             "stars": 1826,
@@ -1622,7 +1622,7 @@
             "open_issues": 199,
             "owner": "xamarin",
             "repo": "Essentials",
-            "stars": 1493,
+            "stars": 1494,
             "topics": [
               "android",
               "cross-platform",
@@ -1868,7 +1868,7 @@
             "open_issues": 58,
             "owner": "jamesmontemagno",
             "repo": "GeolocatorPlugin",
-            "stars": 289,
+            "stars": 288,
             "topics": [
               "android",
               "geolocation-plugin",
@@ -1935,7 +1935,7 @@
             "id": 300844166,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-25T08:34:53Z",
+            "last_commit": "2026-10-26T08:54:37Z",
             "open_issues": 3,
             "owner": "melihercan",
             "repo": "WebRTCme",
@@ -3914,7 +3914,7 @@
             "open_issues": 0,
             "owner": "xamarin",
             "repo": "xamarin-forms-samples",
-            "stars": 4242,
+            "stars": 4241,
             "topics": [
               "xamarin",
               "xamarin-forms"
@@ -4107,7 +4107,7 @@
             "open_issues": 1,
             "owner": "Samsung",
             "repo": "xamarin-forms-samples",
-            "stars": 28,
+            "stars": 27,
             "topics": []
           },
           "first_seen": "2026-08-29T01:23:51.023Z"
@@ -4258,7 +4258,7 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-09-21T09:58:07Z",
-            "open_issues": 820,
+            "open_issues": 822,
             "owner": "JamesNK",
             "repo": "Newtonsoft.Json",
             "stars": 11314,
@@ -4368,11 +4368,11 @@
             "id": 111583593,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-24T16:21:52Z",
-            "open_issues": 2938,
+            "last_commit": "2026-10-26T22:10:06Z",
+            "open_issues": 2941,
             "owner": "Genymobile",
             "repo": "scrcpy",
-            "stars": 153117,
+            "stars": 153212,
             "topics": [
               "android",
               "c",
@@ -4913,7 +4913,7 @@
             "id": 99156674,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-20T06:01:07Z",
+            "last_commit": "2026-10-26T18:57:01Z",
             "open_issues": 0,
             "owner": "microcharts-dotnet",
             "repo": "Microcharts",
@@ -5009,7 +5009,7 @@
             "open_issues": 17,
             "owner": "syncfusion",
             "repo": "essential-ui-kit-for-xamarin.forms",
-            "stars": 1027,
+            "stars": 1028,
             "topics": [
               "admin-dashboard",
               "admin-template",
@@ -11761,7 +11761,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T20:18:11.885Z",
+    "last_updated": "2026-10-26T22:12:23.990Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Xamarin.Forms libraries and resources",
@@ -11773,7 +11773,7 @@
       "open_issues": 2,
       "owner": "jsuarezruiz",
       "repo": "awesome-xamarin-forms",
-      "stars": 1220,
+      "stars": 1221,
       "topics": [
         "animation",
         "awesome",
