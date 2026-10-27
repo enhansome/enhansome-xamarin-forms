@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "XamSome",
             "repo": "awesome-xamarin",
-            "stars": 1866,
+            "stars": 1865,
             "topics": [
               "awesome",
               "awesome-list",
@@ -135,7 +135,7 @@
             "open_issues": 55,
             "owner": "Baseflow",
             "repo": "LottieXamarin",
-            "stars": 1212,
+            "stars": 1211,
             "topics": [
               "airbnb",
               "android",
@@ -722,8 +722,8 @@
             "id": 16157746,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-26T05:47:51Z",
-            "open_issues": 2377,
+            "last_commit": "2026-10-27T20:55:36Z",
+            "open_issues": 2370,
             "owner": "dotnet",
             "repo": "efcore",
             "stars": 14811,
@@ -753,11 +753,11 @@
             "id": 23315232,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-26T20:40:26Z",
-            "open_issues": 173,
+            "last_commit": "2026-10-27T21:22:29Z",
+            "open_issues": 179,
             "owner": "litedb-org",
             "repo": "LiteDB",
-            "stars": 9489,
+            "stars": 9490,
             "topics": [
               "database",
               "dotnet",
@@ -1048,11 +1048,11 @@
             "id": 31335300,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-22T16:24:06Z",
+            "last_commit": "2026-10-27T16:23:46Z",
             "open_issues": 11,
             "owner": "PrismLibrary",
             "repo": "Prism",
-            "stars": 6863,
+            "stars": 6864,
             "topics": [
               "c-sharp",
               "hacktoberfest",
@@ -1404,7 +1404,7 @@
             "id": 120334619,
             "language": "F#",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-26T12:18:28Z",
+            "last_commit": "2026-10-27T14:04:43Z",
             "open_issues": 8,
             "owner": "fabulous-dev",
             "repo": "Fabulous",
@@ -1738,7 +1738,7 @@
             "open_issues": 3,
             "owner": "jamesmontemagno",
             "repo": "InAppBillingPlugin",
-            "stars": 726,
+            "stars": 725,
             "topics": []
           },
           "first_seen": "2026-08-29T01:23:51.023Z"
@@ -1935,7 +1935,7 @@
             "id": 300844166,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-26T08:54:37Z",
+            "last_commit": "2026-10-27T09:13:10Z",
             "open_issues": 3,
             "owner": "melihercan",
             "repo": "WebRTCme",
@@ -3914,7 +3914,7 @@
             "open_issues": 0,
             "owner": "xamarin",
             "repo": "xamarin-forms-samples",
-            "stars": 4241,
+            "stars": 4240,
             "topics": [
               "xamarin",
               "xamarin-forms"
@@ -4258,7 +4258,7 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-09-21T09:58:07Z",
-            "open_issues": 822,
+            "open_issues": 823,
             "owner": "JamesNK",
             "repo": "Newtonsoft.Json",
             "stars": 11314,
@@ -4285,7 +4285,7 @@
             "open_issues": 172,
             "owner": "neuecc",
             "repo": "Utf8Json",
-            "stars": 2380,
+            "stars": 2379,
             "topics": []
           },
           "first_seen": "2026-08-29T01:23:51.023Z"
@@ -4369,10 +4369,10 @@
             "language": "C",
             "license": "Apache-2.0",
             "last_commit": "2026-10-26T22:10:06Z",
-            "open_issues": 2941,
+            "open_issues": 2940,
             "owner": "Genymobile",
             "repo": "scrcpy",
-            "stars": 153212,
+            "stars": 153310,
             "topics": [
               "android",
               "c",
@@ -5005,8 +5005,8 @@
             "id": 187775921,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2025-11-07T04:57:28Z",
-            "open_issues": 17,
+            "last_commit": "2026-10-27T08:52:07Z",
+            "open_issues": 18,
             "owner": "syncfusion",
             "repo": "essential-ui-kit-for-xamarin.forms",
             "stars": 1028,
@@ -5062,7 +5062,7 @@
             "open_issues": 40,
             "owner": "sthewissen",
             "repo": "Xamarin.Forms.PancakeView",
-            "stars": 842,
+            "stars": 841,
             "topics": [
               "xamarin",
               "xamarin-forms",
@@ -5239,7 +5239,7 @@
             "open_issues": 2,
             "owner": "roubachof",
             "repo": "Sharpnado.Presentation.Forms",
-            "stars": 578,
+            "stars": 577,
             "topics": []
           },
           "first_seen": "2026-08-29T01:23:51.023Z"
@@ -5371,7 +5371,7 @@
             "open_issues": 9,
             "owner": "GiampaoloGabba",
             "repo": "Xamarin.Plugin.SharedTransitions",
-            "stars": 406,
+            "stars": 405,
             "topics": []
           },
           "first_seen": "2026-08-29T01:23:51.023Z"
@@ -5615,7 +5615,7 @@
             "open_issues": 16,
             "owner": "HorusSoftwareUY",
             "repo": "MaterialDesignControlsPlugin",
-            "stars": 264,
+            "stars": 263,
             "topics": []
           },
           "first_seen": "2026-08-29T01:23:51.023Z"
@@ -11761,7 +11761,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T22:12:23.990Z",
+    "last_updated": "2026-10-27T21:43:51.805Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Xamarin.Forms libraries and resources",
