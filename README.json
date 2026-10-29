@@ -722,11 +722,11 @@
             "id": 16157746,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-28T20:54:50Z",
-            "open_issues": 2366,
+            "last_commit": "2026-10-29T22:19:47Z",
+            "open_issues": 2379,
             "owner": "dotnet",
             "repo": "efcore",
-            "stars": 14812,
+            "stars": 14811,
             "topics": [
               "aspnet-product",
               "c-sharp",
@@ -1082,7 +1082,7 @@
             "open_issues": 189,
             "owner": "MvvmCross",
             "repo": "MvvmCross",
-            "stars": 3920,
+            "stars": 3921,
             "topics": [
               "android",
               "c-sharp",
@@ -1868,7 +1868,7 @@
             "open_issues": 58,
             "owner": "jamesmontemagno",
             "repo": "GeolocatorPlugin",
-            "stars": 288,
+            "stars": 287,
             "topics": [
               "android",
               "geolocation-plugin",
@@ -4261,7 +4261,7 @@
             "open_issues": 823,
             "owner": "JamesNK",
             "repo": "Newtonsoft.Json",
-            "stars": 11317,
+            "stars": 11319,
             "topics": [
               "c-sharp",
               "json"
@@ -4369,10 +4369,10 @@
             "language": "C",
             "license": "Apache-2.0",
             "last_commit": "2026-10-26T22:10:06Z",
-            "open_issues": 2940,
+            "open_issues": 2943,
             "owner": "Genymobile",
             "repo": "scrcpy",
-            "stars": 153397,
+            "stars": 153505,
             "topics": [
               "android",
               "c",
@@ -4914,7 +4914,7 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-10-26T18:57:01Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "microcharts-dotnet",
             "repo": "Microcharts",
             "stars": 2076,
@@ -5680,8 +5680,8 @@
             "id": 331786456,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2024-06-11T21:24:39Z",
-            "open_issues": 14,
+            "last_commit": "2026-10-29T21:53:04Z",
+            "open_issues": 3,
             "owner": "Redth",
             "repo": "Maui.VirtualListView",
             "stars": 251,
@@ -11761,7 +11761,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T22:06:34.084Z",
+    "last_updated": "2026-10-29T22:21:31.346Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Xamarin.Forms libraries and resources",
