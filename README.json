@@ -135,7 +135,7 @@
             "open_issues": 55,
             "owner": "Baseflow",
             "repo": "LottieXamarin",
-            "stars": 1211,
+            "stars": 1212,
             "topics": [
               "airbnb",
               "android",
@@ -534,7 +534,7 @@
             "open_issues": 291,
             "owner": "xamarin",
             "repo": "XamarinCommunityToolkit",
-            "stars": 1559,
+            "stars": 1558,
             "topics": [
               "android",
               "behaviors",
@@ -722,11 +722,11 @@
             "id": 16157746,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-29T22:19:47Z",
+            "last_commit": "2026-10-30T21:48:19Z",
             "open_issues": 2379,
             "owner": "dotnet",
             "repo": "efcore",
-            "stars": 14811,
+            "stars": 14812,
             "topics": [
               "aspnet-product",
               "c-sharp",
@@ -757,7 +757,7 @@
             "open_issues": 184,
             "owner": "litedb-org",
             "repo": "LiteDB",
-            "stars": 9490,
+            "stars": 9491,
             "topics": [
               "database",
               "dotnet",
@@ -784,7 +784,7 @@
             "open_issues": 618,
             "owner": "praeclarum",
             "repo": "sqlite-net",
-            "stars": 4454,
+            "stars": 4455,
             "topics": []
           },
           "first_seen": "2026-08-29T01:23:51.023Z"
@@ -801,11 +801,11 @@
             "id": 2896461,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-28T21:45:22Z",
+            "last_commit": "2026-10-30T19:49:17Z",
             "open_issues": 12,
             "owner": "reactiveui",
             "repo": "Akavache",
-            "stars": 2550,
+            "stars": 2551,
             "topics": [
               "akavache",
               "c-sharp",
@@ -1052,7 +1052,7 @@
             "open_issues": 11,
             "owner": "PrismLibrary",
             "repo": "Prism",
-            "stars": 6866,
+            "stars": 6867,
             "topics": [
               "c-sharp",
               "hacktoberfest",
@@ -1078,11 +1078,11 @@
             "id": 2870911,
             "language": "C#",
             "license": "MS-PL",
-            "last_commit": "2026-10-22T06:45:43Z",
-            "open_issues": 189,
+            "last_commit": "2026-10-30T20:28:34Z",
+            "open_issues": 191,
             "owner": "MvvmCross",
             "repo": "MvvmCross",
-            "stars": 3921,
+            "stars": 3922,
             "topics": [
               "android",
               "c-sharp",
@@ -1592,7 +1592,7 @@
             "open_issues": 4,
             "owner": "videolan",
             "repo": "libvlcsharp",
-            "stars": 1827,
+            "stars": 1828,
             "topics": [
               "dotnet",
               "libvlc",
@@ -3934,8 +3934,8 @@
             "id": 118641651,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-28T09:23:02Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-30T18:50:04Z",
+            "open_issues": 2,
             "owner": "TheCodeTraveler",
             "repo": "AsyncAwaitBestPractices",
             "stars": 1844,
@@ -4261,7 +4261,7 @@
             "open_issues": 823,
             "owner": "JamesNK",
             "repo": "Newtonsoft.Json",
-            "stars": 11319,
+            "stars": 11320,
             "topics": [
               "c-sharp",
               "json"
@@ -4285,7 +4285,7 @@
             "open_issues": 172,
             "owner": "neuecc",
             "repo": "Utf8Json",
-            "stars": 2379,
+            "stars": 2380,
             "topics": []
           },
           "first_seen": "2026-08-29T01:23:51.023Z"
@@ -4369,10 +4369,10 @@
             "language": "C",
             "license": "Apache-2.0",
             "last_commit": "2026-10-26T22:10:06Z",
-            "open_issues": 2943,
+            "open_issues": 2942,
             "owner": "Genymobile",
             "repo": "scrcpy",
-            "stars": 153505,
+            "stars": 153595,
             "topics": [
               "android",
               "c",
@@ -4403,7 +4403,7 @@
             "open_issues": 2068,
             "owner": "RicoSuter",
             "repo": "NSwag",
-            "stars": 7368,
+            "stars": 7369,
             "topics": [
               "angular",
               "aspnet",
@@ -4627,7 +4627,7 @@
             "open_issues": 3,
             "owner": "yuv4ik",
             "repo": "Mutatio",
-            "stars": 27,
+            "stars": 26,
             "topics": [
               "dot-net",
               "dotnet-standard",
@@ -5680,8 +5680,8 @@
             "id": 331786456,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-29T21:53:04Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-30T15:20:36Z",
+            "open_issues": 2,
             "owner": "Redth",
             "repo": "Maui.VirtualListView",
             "stars": 251,
@@ -11761,7 +11761,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T22:21:31.346Z",
+    "last_updated": "2026-10-30T21:52:58.600Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Xamarin.Forms libraries and resources",
