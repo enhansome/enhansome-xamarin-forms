@@ -459,7 +459,7 @@
             "open_issues": 11,
             "owner": "corradocavalli",
             "repo": "Corcav.Behaviors",
-            "stars": 53,
+            "stars": 52,
             "topics": []
           },
           "first_seen": "2026-08-29T01:23:51.023Z"
@@ -534,7 +534,7 @@
             "open_issues": 291,
             "owner": "xamarin",
             "repo": "XamarinCommunityToolkit",
-            "stars": 1558,
+            "stars": 1557,
             "topics": [
               "android",
               "behaviors",
@@ -722,8 +722,8 @@
             "id": 16157746,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-30T21:48:19Z",
-            "open_issues": 2379,
+            "last_commit": "2026-10-31T04:39:53Z",
+            "open_issues": 2375,
             "owner": "dotnet",
             "repo": "efcore",
             "stars": 14812,
@@ -757,7 +757,7 @@
             "open_issues": 184,
             "owner": "litedb-org",
             "repo": "LiteDB",
-            "stars": 9491,
+            "stars": 9492,
             "topics": [
               "database",
               "dotnet",
@@ -784,7 +784,7 @@
             "open_issues": 618,
             "owner": "praeclarum",
             "repo": "sqlite-net",
-            "stars": 4455,
+            "stars": 4453,
             "topics": []
           },
           "first_seen": "2026-08-29T01:23:51.023Z"
@@ -1052,7 +1052,7 @@
             "open_issues": 11,
             "owner": "PrismLibrary",
             "repo": "Prism",
-            "stars": 6867,
+            "stars": 6866,
             "topics": [
               "c-sharp",
               "hacktoberfest",
@@ -1622,7 +1622,7 @@
             "open_issues": 199,
             "owner": "xamarin",
             "repo": "Essentials",
-            "stars": 1494,
+            "stars": 1493,
             "topics": [
               "android",
               "cross-platform",
@@ -1672,7 +1672,7 @@
             "open_issues": 7,
             "owner": "VincentH-Net",
             "repo": "CSharpForMarkup",
-            "stars": 840,
+            "stars": 841,
             "topics": [
               "csharp",
               "ide-support",
@@ -3914,7 +3914,7 @@
             "open_issues": 0,
             "owner": "xamarin",
             "repo": "xamarin-forms-samples",
-            "stars": 4240,
+            "stars": 4239,
             "topics": [
               "xamarin",
               "xamarin-forms"
@@ -3934,7 +3934,7 @@
             "id": 118641651,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-30T18:50:04Z",
+            "last_commit": "2026-10-31T00:55:38Z",
             "open_issues": 2,
             "owner": "TheCodeTraveler",
             "repo": "AsyncAwaitBestPractices",
@@ -3987,7 +3987,7 @@
             "open_issues": 11,
             "owner": "PrismLibrary",
             "repo": "Prism-Samples-Forms",
-            "stars": 380,
+            "stars": 379,
             "topics": [
               "prism",
               "samples",
@@ -4261,7 +4261,7 @@
             "open_issues": 823,
             "owner": "JamesNK",
             "repo": "Newtonsoft.Json",
-            "stars": 11320,
+            "stars": 11322,
             "topics": [
               "c-sharp",
               "json"
@@ -4369,10 +4369,10 @@
             "language": "C",
             "license": "Apache-2.0",
             "last_commit": "2026-10-26T22:10:06Z",
-            "open_issues": 2942,
+            "open_issues": 2944,
             "owner": "Genymobile",
             "repo": "scrcpy",
-            "stars": 153595,
+            "stars": 153670,
             "topics": [
               "android",
               "c",
@@ -11761,7 +11761,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T21:52:58.600Z",
+    "last_updated": "2026-10-31T20:53:59.502Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Xamarin.Forms libraries and resources",
