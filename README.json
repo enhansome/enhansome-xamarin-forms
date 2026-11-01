@@ -722,11 +722,11 @@
             "id": 16157746,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-31T04:39:53Z",
-            "open_issues": 2375,
+            "last_commit": "2026-11-01T05:02:33Z",
+            "open_issues": 2378,
             "owner": "dotnet",
             "repo": "efcore",
-            "stars": 14812,
+            "stars": 14814,
             "topics": [
               "aspnet-product",
               "c-sharp",
@@ -1408,7 +1408,7 @@
             "open_issues": 8,
             "owner": "fabulous-dev",
             "repo": "Fabulous",
-            "stars": 1298,
+            "stars": 1299,
             "topics": [
               "declarative-ui",
               "fabulous",
@@ -3934,7 +3934,7 @@
             "id": 118641651,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-31T00:55:38Z",
+            "last_commit": "2026-11-01T00:12:32Z",
             "open_issues": 2,
             "owner": "TheCodeTraveler",
             "repo": "AsyncAwaitBestPractices",
@@ -4369,10 +4369,10 @@
             "language": "C",
             "license": "Apache-2.0",
             "last_commit": "2026-10-26T22:10:06Z",
-            "open_issues": 2944,
+            "open_issues": 2945,
             "owner": "Genymobile",
             "repo": "scrcpy",
-            "stars": 153670,
+            "stars": 153761,
             "topics": [
               "android",
               "c",
@@ -11761,7 +11761,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T20:53:59.502Z",
+    "last_updated": "2026-11-01T21:36:51.474Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Xamarin.Forms libraries and resources",
