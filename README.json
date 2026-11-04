@@ -722,11 +722,11 @@
             "id": 16157746,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-03T22:30:34Z",
-            "open_issues": 2367,
+            "last_commit": "2026-11-04T14:12:01Z",
+            "open_issues": 2356,
             "owner": "dotnet",
             "repo": "efcore",
-            "stars": 14816,
+            "stars": 14815,
             "topics": [
               "aspnet-product",
               "c-sharp",
@@ -757,7 +757,7 @@
             "open_issues": 184,
             "owner": "litedb-org",
             "repo": "LiteDB",
-            "stars": 9491,
+            "stars": 9492,
             "topics": [
               "database",
               "dotnet",
@@ -1052,7 +1052,7 @@
             "open_issues": 11,
             "owner": "PrismLibrary",
             "repo": "Prism",
-            "stars": 6869,
+            "stars": 6870,
             "topics": [
               "c-sharp",
               "hacktoberfest",
@@ -1408,7 +1408,7 @@
             "open_issues": 8,
             "owner": "fabulous-dev",
             "repo": "Fabulous",
-            "stars": 1300,
+            "stars": 1301,
             "topics": [
               "declarative-ui",
               "fabulous",
@@ -4261,7 +4261,7 @@
             "open_issues": 825,
             "owner": "JamesNK",
             "repo": "Newtonsoft.Json",
-            "stars": 11319,
+            "stars": 11318,
             "topics": [
               "c-sharp",
               "json"
@@ -4369,10 +4369,10 @@
             "language": "C",
             "license": "Apache-2.0",
             "last_commit": "2026-11-02T23:44:04Z",
-            "open_issues": 2948,
+            "open_issues": 2949,
             "owner": "Genymobile",
             "repo": "scrcpy",
-            "stars": 153938,
+            "stars": 154035,
             "topics": [
               "android",
               "c",
@@ -11761,7 +11761,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T22:48:12.163Z",
+    "last_updated": "2026-11-04T23:06:34.405Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Xamarin.Forms libraries and resources",
@@ -11773,7 +11773,7 @@
       "open_issues": 2,
       "owner": "jsuarezruiz",
       "repo": "awesome-xamarin-forms",
-      "stars": 1220,
+      "stars": 1221,
       "topics": [
         "animation",
         "awesome",
