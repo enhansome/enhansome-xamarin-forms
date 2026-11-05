@@ -722,11 +722,11 @@
             "id": 16157746,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-04T14:12:01Z",
-            "open_issues": 2356,
+            "last_commit": "2026-11-05T21:16:45Z",
+            "open_issues": 2346,
             "owner": "dotnet",
             "repo": "efcore",
-            "stars": 14815,
+            "stars": 14813,
             "topics": [
               "aspnet-product",
               "c-sharp",
@@ -1052,7 +1052,7 @@
             "open_issues": 11,
             "owner": "PrismLibrary",
             "repo": "Prism",
-            "stars": 6870,
+            "stars": 6869,
             "topics": [
               "c-sharp",
               "hacktoberfest",
@@ -1078,8 +1078,8 @@
             "id": 2870911,
             "language": "C#",
             "license": "MS-PL",
-            "last_commit": "2026-11-03T07:21:05Z",
-            "open_issues": 189,
+            "last_commit": "2026-11-05T03:08:23Z",
+            "open_issues": 191,
             "owner": "MvvmCross",
             "repo": "MvvmCross",
             "stars": 3921,
@@ -3938,7 +3938,7 @@
             "open_issues": 2,
             "owner": "TheCodeTraveler",
             "repo": "AsyncAwaitBestPractices",
-            "stars": 1844,
+            "stars": 1843,
             "topics": [
               "async",
               "await",
@@ -3987,7 +3987,7 @@
             "open_issues": 11,
             "owner": "PrismLibrary",
             "repo": "Prism-Samples-Forms",
-            "stars": 379,
+            "stars": 380,
             "topics": [
               "prism",
               "samples",
@@ -4261,7 +4261,7 @@
             "open_issues": 825,
             "owner": "JamesNK",
             "repo": "Newtonsoft.Json",
-            "stars": 11318,
+            "stars": 11320,
             "topics": [
               "c-sharp",
               "json"
@@ -4369,10 +4369,10 @@
             "language": "C",
             "license": "Apache-2.0",
             "last_commit": "2026-11-02T23:44:04Z",
-            "open_issues": 2949,
+            "open_issues": 2944,
             "owner": "Genymobile",
             "repo": "scrcpy",
-            "stars": 154035,
+            "stars": 154115,
             "topics": [
               "android",
               "c",
@@ -4917,7 +4917,7 @@
             "open_issues": 1,
             "owner": "microcharts-dotnet",
             "repo": "Microcharts",
-            "stars": 2075,
+            "stars": 2076,
             "topics": [
               "android",
               "charts",
@@ -11761,7 +11761,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T23:06:34.405Z",
+    "last_updated": "2026-11-05T23:10:47.679Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Xamarin.Forms libraries and resources",
