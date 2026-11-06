@@ -722,11 +722,11 @@
             "id": 16157746,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-05T21:16:45Z",
-            "open_issues": 2346,
+            "last_commit": "2026-11-06T22:27:18Z",
+            "open_issues": 2342,
             "owner": "dotnet",
             "repo": "efcore",
-            "stars": 14813,
+            "stars": 14814,
             "topics": [
               "aspnet-product",
               "c-sharp",
@@ -753,11 +753,11 @@
             "id": 23315232,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-28T08:26:10Z",
-            "open_issues": 184,
+            "last_commit": "2026-11-06T18:55:04Z",
+            "open_issues": 186,
             "owner": "litedb-org",
             "repo": "LiteDB",
-            "stars": 9492,
+            "stars": 9491,
             "topics": [
               "database",
               "dotnet",
@@ -1052,7 +1052,7 @@
             "open_issues": 11,
             "owner": "PrismLibrary",
             "repo": "Prism",
-            "stars": 6869,
+            "stars": 6871,
             "topics": [
               "c-sharp",
               "hacktoberfest",
@@ -1082,7 +1082,7 @@
             "open_issues": 191,
             "owner": "MvvmCross",
             "repo": "MvvmCross",
-            "stars": 3921,
+            "stars": 3920,
             "topics": [
               "android",
               "c-sharp",
@@ -1408,7 +1408,7 @@
             "open_issues": 8,
             "owner": "fabulous-dev",
             "repo": "Fabulous",
-            "stars": 1301,
+            "stars": 1302,
             "topics": [
               "declarative-ui",
               "fabulous",
@@ -3189,6 +3189,27 @@
         },
         {
           "node_type": "item",
+          "title": "SpatialiteForms ★9",
+          "description": "Enable spatialite for Xamarin Forms. As an example this allows to do offline reverse geocoding on mobile devices (this barely scratches the surface of Spatialite, but it's a very common use case for mobile dev).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Package that enables Spatialite functionality for Xamarin Forms (includes offline reverse geocoding for Xamarin Forms)",
+            "homepage": null,
+            "id": 159984278,
+            "language": "C#",
+            "license": "GPL-3.0",
+            "last_commit": "2020-04-03T11:25:40Z",
+            "open_issues": 3,
+            "owner": "breekmd",
+            "repo": "SpatialiteForms",
+            "stars": 12,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T01:23:51.023Z"
+        },
+        {
+          "node_type": "item",
           "title": "Xam.Reactive.Location ★10",
           "description": "Location on each Xamarin platform is already event/push driven which is where Reactive models do great. This creates a useful wrapper around the iOS/Android location APIs.",
           "children": [],
@@ -3204,27 +3225,6 @@
             "owner": "PureWeen",
             "repo": "Xam.Reactive.Location",
             "stars": 12,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T01:23:51.023Z"
-        },
-        {
-          "node_type": "item",
-          "title": "SpatialiteForms ★9",
-          "description": "Enable spatialite for Xamarin Forms. As an example this allows to do offline reverse geocoding on mobile devices (this barely scratches the surface of Spatialite, but it's a very common use case for mobile dev).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Package that enables Spatialite functionality for Xamarin Forms (includes offline reverse geocoding for Xamarin Forms)",
-            "homepage": null,
-            "id": 159984278,
-            "language": "C#",
-            "license": "GPL-3.0",
-            "last_commit": "2020-04-03T11:25:40Z",
-            "open_issues": 3,
-            "owner": "breekmd",
-            "repo": "SpatialiteForms",
-            "stars": 11,
             "topics": []
           },
           "first_seen": "2026-08-29T01:23:51.023Z"
@@ -4261,7 +4261,7 @@
             "open_issues": 825,
             "owner": "JamesNK",
             "repo": "Newtonsoft.Json",
-            "stars": 11320,
+            "stars": 11318,
             "topics": [
               "c-sharp",
               "json"
@@ -4368,11 +4368,11 @@
             "id": 111583593,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-02T23:44:04Z",
+            "last_commit": "2026-11-06T21:30:53Z",
             "open_issues": 2944,
             "owner": "Genymobile",
             "repo": "scrcpy",
-            "stars": 154115,
+            "stars": 154176,
             "topics": [
               "android",
               "c",
@@ -4979,7 +4979,7 @@
             "open_issues": 110,
             "owner": "rotorgames",
             "repo": "Rg.Plugins.Popup",
-            "stars": 1138,
+            "stars": 1139,
             "topics": [
               "android",
               "custom-popup",
@@ -5302,7 +5302,7 @@
             "open_issues": 38,
             "owner": "alexrainman",
             "repo": "CarouselView",
-            "stars": 427,
+            "stars": 426,
             "topics": []
           },
           "first_seen": "2026-08-29T01:23:51.023Z"
@@ -5684,7 +5684,7 @@
             "open_issues": 2,
             "owner": "Redth",
             "repo": "Maui.VirtualListView",
-            "stars": 251,
+            "stars": 252,
             "topics": []
           },
           "first_seen": "2026-08-29T01:23:51.023Z"
@@ -6904,6 +6904,32 @@
         },
         {
           "node_type": "item",
+          "title": "mapbox-xamarin-forms ★68",
+          "description": "This library provides the controls/renderers for using Mapbox SDKs inside your Xamarin.Forms app.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "description": "Mapbox on Xamarin.Forms",
+            "homepage": null,
+            "id": 86444712,
+            "language": "C#",
+            "license": "Apache-2.0",
+            "last_commit": "2022-12-08T08:16:27Z",
+            "open_issues": 46,
+            "owner": "NAXAM",
+            "repo": "mapbox-xamarin-forms",
+            "stars": 73,
+            "topics": [
+              "map",
+              "mapbox",
+              "xamarin",
+              "xamarin-forms"
+            ]
+          },
+          "first_seen": "2026-08-29T01:23:51.023Z"
+        },
+        {
+          "node_type": "item",
           "title": "PhotoBrowser ★77",
           "description": "Full screen image viewer(Xamarin.Forms) that includes \"pinch to zoom\" and \"swipe to dismiss\" gestures.",
           "children": [],
@@ -6926,32 +6952,6 @@
               "photos",
               "pinch-to-zoom",
               "swipe-to-dismiss",
-              "xamarin-forms"
-            ]
-          },
-          "first_seen": "2026-08-29T01:23:51.023Z"
-        },
-        {
-          "node_type": "item",
-          "title": "mapbox-xamarin-forms ★68",
-          "description": "This library provides the controls/renderers for using Mapbox SDKs inside your Xamarin.Forms app.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "Mapbox on Xamarin.Forms",
-            "homepage": null,
-            "id": 86444712,
-            "language": "C#",
-            "license": "Apache-2.0",
-            "last_commit": "2022-12-08T08:16:27Z",
-            "open_issues": 46,
-            "owner": "NAXAM",
-            "repo": "mapbox-xamarin-forms",
-            "stars": 72,
-            "topics": [
-              "map",
-              "mapbox",
-              "xamarin",
               "xamarin-forms"
             ]
           },
@@ -11761,7 +11761,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T23:10:47.679Z",
+    "last_updated": "2026-11-06T22:38:26.567Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Xamarin.Forms libraries and resources",
