@@ -722,11 +722,11 @@
             "id": 16157746,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-10T01:04:58Z",
-            "open_issues": 2356,
+            "last_commit": "2026-11-10T17:30:13Z",
+            "open_issues": 2366,
             "owner": "dotnet",
             "repo": "efcore",
-            "stars": 14816,
+            "stars": 14817,
             "topics": [
               "aspnet-product",
               "c-sharp",
@@ -784,7 +784,7 @@
             "open_issues": 618,
             "owner": "praeclarum",
             "repo": "sqlite-net",
-            "stars": 4454,
+            "stars": 4455,
             "topics": []
           },
           "first_seen": "2026-08-29T01:23:51.023Z"
@@ -805,7 +805,7 @@
             "open_issues": 12,
             "owner": "reactiveui",
             "repo": "Akavache",
-            "stars": 2551,
+            "stars": 2550,
             "topics": [
               "akavache",
               "c-sharp",
@@ -1082,7 +1082,7 @@
             "open_issues": 193,
             "owner": "MvvmCross",
             "repo": "MvvmCross",
-            "stars": 3920,
+            "stars": 3919,
             "topics": [
               "android",
               "c-sharp",
@@ -1405,7 +1405,7 @@
             "language": "F#",
             "license": "Apache-2.0",
             "last_commit": "2026-11-08T22:17:26Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "fabulous-dev",
             "repo": "Fabulous",
             "stars": 1305,
@@ -1672,7 +1672,7 @@
             "open_issues": 7,
             "owner": "VincentH-Net",
             "repo": "CSharpForMarkup",
-            "stars": 840,
+            "stars": 841,
             "topics": [
               "csharp",
               "ide-support",
@@ -1734,8 +1734,8 @@
             "id": 78153040,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-09T20:50:32Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-10T16:25:24Z",
+            "open_issues": 1,
             "owner": "jamesmontemagno",
             "repo": "InAppBillingPlugin",
             "stars": 724,
@@ -3934,11 +3934,11 @@
             "id": 118641651,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-09T00:10:59Z",
+            "last_commit": "2026-11-10T16:14:01Z",
             "open_issues": 3,
             "owner": "TheCodeTraveler",
             "repo": "AsyncAwaitBestPractices",
-            "stars": 1844,
+            "stars": 1845,
             "topics": [
               "async",
               "await",
@@ -4257,11 +4257,11 @@
             "id": 3476845,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-21T09:58:07Z",
-            "open_issues": 825,
+            "last_commit": "2026-11-10T10:01:56Z",
+            "open_issues": 827,
             "owner": "JamesNK",
             "repo": "Newtonsoft.Json",
-            "stars": 11319,
+            "stars": 11320,
             "topics": [
               "c-sharp",
               "json"
@@ -4368,11 +4368,11 @@
             "id": 111583593,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-09T22:11:48Z",
+            "last_commit": "2026-11-10T20:17:35Z",
             "open_issues": 2946,
             "owner": "Genymobile",
             "repo": "scrcpy",
-            "stars": 154434,
+            "stars": 154513,
             "topics": [
               "android",
               "c",
@@ -5009,7 +5009,7 @@
             "open_issues": 18,
             "owner": "syncfusion",
             "repo": "essential-ui-kit-for-xamarin.forms",
-            "stars": 1028,
+            "stars": 1027,
             "topics": [
               "admin-dashboard",
               "admin-template",
@@ -11761,7 +11761,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T01:05:28.058Z",
+    "last_updated": "2026-11-10T22:44:47.378Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Xamarin.Forms libraries and resources",
