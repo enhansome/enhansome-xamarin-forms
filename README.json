@@ -75,7 +75,7 @@
             "open_issues": 7,
             "owner": "aloisdeniel",
             "repo": "Xamarin.Bindings",
-            "stars": 145,
+            "stars": 144,
             "topics": [
               "android",
               "bindings",
@@ -722,11 +722,11 @@
             "id": 16157746,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-06T23:41:51Z",
-            "open_issues": 2348,
+            "last_commit": "2026-11-10T01:04:58Z",
+            "open_issues": 2356,
             "owner": "dotnet",
             "repo": "efcore",
-            "stars": 14813,
+            "stars": 14816,
             "topics": [
               "aspnet-product",
               "c-sharp",
@@ -753,8 +753,8 @@
             "id": 23315232,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-08T21:20:26Z",
-            "open_issues": 188,
+            "last_commit": "2026-11-10T00:17:40Z",
+            "open_issues": 189,
             "owner": "litedb-org",
             "repo": "LiteDB",
             "stars": 9492,
@@ -784,7 +784,7 @@
             "open_issues": 618,
             "owner": "praeclarum",
             "repo": "sqlite-net",
-            "stars": 4453,
+            "stars": 4454,
             "topics": []
           },
           "first_seen": "2026-08-29T01:23:51.023Z"
@@ -1052,7 +1052,7 @@
             "open_issues": 11,
             "owner": "PrismLibrary",
             "repo": "Prism",
-            "stars": 6872,
+            "stars": 6874,
             "topics": [
               "c-sharp",
               "hacktoberfest",
@@ -1078,8 +1078,8 @@
             "id": 2870911,
             "language": "C#",
             "license": "MS-PL",
-            "last_commit": "2026-11-07T03:07:42Z",
-            "open_issues": 192,
+            "last_commit": "2026-11-09T03:09:01Z",
+            "open_issues": 193,
             "owner": "MvvmCross",
             "repo": "MvvmCross",
             "stars": 3920,
@@ -1404,11 +1404,11 @@
             "id": 120334619,
             "language": "F#",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-08T13:59:10Z",
+            "last_commit": "2026-11-08T22:17:26Z",
             "open_issues": 8,
             "owner": "fabulous-dev",
             "repo": "Fabulous",
-            "stars": 1303,
+            "stars": 1305,
             "topics": [
               "declarative-ui",
               "fabulous",
@@ -1734,8 +1734,8 @@
             "id": 78153040,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-05-03T18:42:38Z",
-            "open_issues": 3,
+            "last_commit": "2026-11-09T20:50:32Z",
+            "open_issues": 2,
             "owner": "jamesmontemagno",
             "repo": "InAppBillingPlugin",
             "stars": 724,
@@ -1807,7 +1807,7 @@
             "open_issues": 75,
             "owner": "JimmyPun610",
             "repo": "BarcodeScanner.Mobile",
-            "stars": 375,
+            "stars": 376,
             "topics": [
               "android",
               "barcode",
@@ -2395,7 +2395,7 @@
             "open_issues": 18,
             "owner": "KSemenenko",
             "repo": "GoogleAnalyticsForXamarinForms",
-            "stars": 66,
+            "stars": 65,
             "topics": [
               "google-analytics",
               "xamarin",
@@ -3934,8 +3934,8 @@
             "id": 118641651,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-08T21:24:17Z",
-            "open_issues": 4,
+            "last_commit": "2026-11-09T00:10:59Z",
+            "open_issues": 3,
             "owner": "TheCodeTraveler",
             "repo": "AsyncAwaitBestPractices",
             "stars": 1844,
@@ -4285,7 +4285,7 @@
             "open_issues": 172,
             "owner": "neuecc",
             "repo": "Utf8Json",
-            "stars": 2379,
+            "stars": 2378,
             "topics": []
           },
           "first_seen": "2026-08-29T01:23:51.023Z"
@@ -4368,11 +4368,11 @@
             "id": 111583593,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-06T21:30:53Z",
-            "open_issues": 2947,
+            "last_commit": "2026-11-09T22:11:48Z",
+            "open_issues": 2946,
             "owner": "Genymobile",
             "repo": "scrcpy",
-            "stars": 154340,
+            "stars": 154434,
             "topics": [
               "android",
               "c",
@@ -4946,7 +4946,7 @@
             "open_issues": 278,
             "owner": "luberda-molinet",
             "repo": "FFImageLoading",
-            "stars": 1404,
+            "stars": 1403,
             "topics": [
               "cache",
               "image",
@@ -5041,7 +5041,7 @@
             "open_issues": 0,
             "owner": "aritchie",
             "repo": "userdialogs",
-            "stars": 991,
+            "stars": 990,
             "topics": []
           },
           "first_seen": "2026-08-29T01:23:51.023Z"
@@ -5119,7 +5119,7 @@
             "open_issues": 30,
             "owner": "dotnet",
             "repo": "Microsoft.Maui.Graphics.Controls",
-            "stars": 664,
+            "stars": 663,
             "topics": [
               "controls",
               "cupertino",
@@ -5302,7 +5302,7 @@
             "open_issues": 38,
             "owner": "alexrainman",
             "repo": "CarouselView",
-            "stars": 426,
+            "stars": 425,
             "topics": []
           },
           "first_seen": "2026-08-29T01:23:51.023Z"
@@ -5323,7 +5323,7 @@
             "open_issues": 10,
             "owner": "jsuarezruiz",
             "repo": "TemplateUI",
-            "stars": 416,
+            "stars": 415,
             "topics": [
               "controltemplate",
               "template",
@@ -5413,7 +5413,7 @@
             "open_issues": 113,
             "owner": "daniel-luberda",
             "repo": "DLToolkit.Forms.Controls",
-            "stars": 384,
+            "stars": 383,
             "topics": []
           },
           "first_seen": "2026-08-29T01:23:51.023Z"
@@ -5434,7 +5434,7 @@
             "open_issues": 113,
             "owner": "daniel-luberda",
             "repo": "DLToolkit.Forms.Controls",
-            "stars": 384,
+            "stars": 383,
             "topics": []
           },
           "first_seen": "2026-08-29T01:23:51.023Z"
@@ -5636,7 +5636,28 @@
             "open_issues": 12,
             "owner": "chrfalch",
             "repo": "NControl",
-            "stars": 261,
+            "stars": 260,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T01:23:51.023Z"
+        },
+        {
+          "node_type": "item",
+          "title": "XFSlimListView ★34",
+          "description": "A slim ListView implementation for Xamarin.Forms that uses Native List controls.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A slim ListView implementation for .NET MAUI that uses Platform virtualized lists / collections",
+            "homepage": null,
+            "id": 331786456,
+            "language": "C#",
+            "license": "MIT",
+            "last_commit": "2026-11-09T15:04:48Z",
+            "open_issues": 2,
+            "owner": "Redth",
+            "repo": "Maui.VirtualListView",
+            "stars": 253,
             "topics": []
           },
           "first_seen": "2026-08-29T01:23:51.023Z"
@@ -5665,27 +5686,6 @@
               "xamarin-forms",
               "xamarin-library"
             ]
-          },
-          "first_seen": "2026-08-29T01:23:51.023Z"
-        },
-        {
-          "node_type": "item",
-          "title": "XFSlimListView ★34",
-          "description": "A slim ListView implementation for Xamarin.Forms that uses Native List controls.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A slim ListView implementation for .NET MAUI that uses Platform virtualized lists / collections",
-            "homepage": null,
-            "id": 331786456,
-            "language": "C#",
-            "license": "MIT",
-            "last_commit": "2026-11-08T17:06:18Z",
-            "open_issues": 2,
-            "owner": "Redth",
-            "repo": "Maui.VirtualListView",
-            "stars": 252,
-            "topics": []
           },
           "first_seen": "2026-08-29T01:23:51.023Z"
         },
@@ -7064,27 +7064,6 @@
         },
         {
           "node_type": "item",
-          "title": "OxyPlot Xamarin ★57",
-          "description": "Charts for Xamarin Classic and Xamarin.Forms.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "OxyPlot for Xamarin.Mac and Xamarin.Forms",
-            "homepage": null,
-            "id": 52558318,
-            "language": "C#",
-            "license": "MIT",
-            "last_commit": "2023-01-15T19:44:42Z",
-            "open_issues": 41,
-            "owner": "oxyplot",
-            "repo": "oxyplot-xamarin",
-            "stars": 64,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T01:23:51.023Z"
-        },
-        {
-          "node_type": "item",
           "title": "XGraphics ★60",
           "description": "Cross platform UWP-inspired graphics primitives, for XAML and code.",
           "children": [],
@@ -7128,6 +7107,27 @@
               "xamarin",
               "xamarin-forms"
             ]
+          },
+          "first_seen": "2026-08-29T01:23:51.023Z"
+        },
+        {
+          "node_type": "item",
+          "title": "OxyPlot Xamarin ★57",
+          "description": "Charts for Xamarin Classic and Xamarin.Forms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "OxyPlot for Xamarin.Mac and Xamarin.Forms",
+            "homepage": null,
+            "id": 52558318,
+            "language": "C#",
+            "license": "MIT",
+            "last_commit": "2023-01-15T19:44:42Z",
+            "open_issues": 41,
+            "owner": "oxyplot",
+            "repo": "oxyplot-xamarin",
+            "stars": 63,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:23:51.023Z"
         },
@@ -10766,7 +10766,7 @@
           "description": "Simplifying Xamarin.Forms UI construction by using the builder pattern.",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "description": "Simplifying Xamarin.Forms ui construction by using the builder pattern",
             "homepage": null,
             "id": 158999443,
@@ -11761,7 +11761,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T21:36:17.289Z",
+    "last_updated": "2026-11-10T01:05:28.058Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Xamarin.Forms libraries and resources",
