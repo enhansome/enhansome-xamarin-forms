@@ -722,11 +722,11 @@
             "id": 16157746,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-10T17:30:13Z",
-            "open_issues": 2366,
+            "last_commit": "2026-11-11T23:43:13Z",
+            "open_issues": 2375,
             "owner": "dotnet",
             "repo": "efcore",
-            "stars": 14817,
+            "stars": 14818,
             "topics": [
               "aspnet-product",
               "c-sharp",
@@ -757,7 +757,7 @@
             "open_issues": 189,
             "owner": "litedb-org",
             "repo": "LiteDB",
-            "stars": 9492,
+            "stars": 9493,
             "topics": [
               "database",
               "dotnet",
@@ -781,10 +781,10 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-07-13T16:23:53Z",
-            "open_issues": 618,
+            "open_issues": 619,
             "owner": "praeclarum",
             "repo": "sqlite-net",
-            "stars": 4455,
+            "stars": 4454,
             "topics": []
           },
           "first_seen": "2026-08-29T01:23:51.023Z"
@@ -801,8 +801,8 @@
             "id": 2896461,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-03T07:04:56Z",
-            "open_issues": 12,
+            "last_commit": "2026-11-11T00:32:36Z",
+            "open_issues": 9,
             "owner": "reactiveui",
             "repo": "Akavache",
             "stars": 2550,
@@ -1048,8 +1048,8 @@
             "id": 31335300,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-27T16:23:46Z",
-            "open_issues": 11,
+            "last_commit": "2026-11-11T02:17:42Z",
+            "open_issues": 12,
             "owner": "PrismLibrary",
             "repo": "Prism",
             "stars": 6874,
@@ -1078,7 +1078,7 @@
             "id": 2870911,
             "language": "C#",
             "license": "MS-PL",
-            "last_commit": "2026-11-09T03:09:01Z",
+            "last_commit": "2026-11-11T13:50:41Z",
             "open_issues": 193,
             "owner": "MvvmCross",
             "repo": "MvvmCross",
@@ -1704,7 +1704,7 @@
             "open_issues": 145,
             "owner": "Baseflow",
             "repo": "XamarinMediaManager",
-            "stars": 762,
+            "stars": 761,
             "topics": [
               "audio",
               "baseflow",
@@ -1738,7 +1738,7 @@
             "open_issues": 1,
             "owner": "jamesmontemagno",
             "repo": "InAppBillingPlugin",
-            "stars": 724,
+            "stars": 725,
             "topics": []
           },
           "first_seen": "2026-08-29T01:23:51.023Z"
@@ -1868,7 +1868,7 @@
             "open_issues": 58,
             "owner": "jamesmontemagno",
             "repo": "GeolocatorPlugin",
-            "stars": 287,
+            "stars": 286,
             "topics": [
               "android",
               "geolocation-plugin",
@@ -1966,7 +1966,7 @@
             "open_issues": 0,
             "owner": "jamesmontemagno",
             "repo": "ConnectivityPlugin",
-            "stars": 261,
+            "stars": 260,
             "topics": [
               "pcl",
               "reachability",
@@ -2045,7 +2045,7 @@
             "open_issues": 8,
             "owner": "dimonovdd",
             "repo": "Xamarin.MediaGallery",
-            "stars": 162,
+            "stars": 161,
             "topics": [
               "android",
               "capture-photo",
@@ -2887,27 +2887,6 @@
         },
         {
           "node_type": "item",
-          "title": "Battery Status ★28",
-          "description": "Get battery level, how it is getting charge, and events.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "Battery Plugin for Xamarin and Windows",
-            "homepage": null,
-            "id": 60303432,
-            "language": "C#",
-            "license": "MIT",
-            "last_commit": "2023-04-03T20:37:54Z",
-            "open_issues": 0,
-            "owner": "jamesmontemagno",
-            "repo": "BatteryPlugin",
-            "stars": 27,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T01:23:51.023Z"
-        },
-        {
-          "node_type": "item",
           "title": "XamarinForms-UnobtrusiveValidationPlugin ★28",
           "description": "A plugin library that extends the functionality of FluentValidation for Xamarin.",
           "children": [],
@@ -2929,6 +2908,27 @@
               "validation",
               "xamarin"
             ]
+          },
+          "first_seen": "2026-08-29T01:23:51.023Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Battery Status ★28",
+          "description": "Get battery level, how it is getting charge, and events.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "description": "Battery Plugin for Xamarin and Windows",
+            "homepage": null,
+            "id": 60303432,
+            "language": "C#",
+            "license": "MIT",
+            "last_commit": "2023-04-03T20:37:54Z",
+            "open_issues": 0,
+            "owner": "jamesmontemagno",
+            "repo": "BatteryPlugin",
+            "stars": 26,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:23:51.023Z"
         },
@@ -3934,11 +3934,11 @@
             "id": 118641651,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-10T16:14:01Z",
-            "open_issues": 3,
+            "last_commit": "2026-11-11T09:25:06Z",
+            "open_issues": 5,
             "owner": "TheCodeTraveler",
             "repo": "AsyncAwaitBestPractices",
-            "stars": 1845,
+            "stars": 1850,
             "topics": [
               "async",
               "await",
@@ -4258,10 +4258,10 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-11-10T10:01:56Z",
-            "open_issues": 827,
+            "open_issues": 828,
             "owner": "JamesNK",
             "repo": "Newtonsoft.Json",
-            "stars": 11320,
+            "stars": 11321,
             "topics": [
               "c-sharp",
               "json"
@@ -4369,10 +4369,10 @@
             "language": "C",
             "license": "Apache-2.0",
             "last_commit": "2026-11-10T20:17:35Z",
-            "open_issues": 2946,
+            "open_issues": 2949,
             "owner": "Genymobile",
             "repo": "scrcpy",
-            "stars": 154513,
+            "stars": 154590,
             "topics": [
               "android",
               "c",
@@ -4399,11 +4399,11 @@
             "id": 41822320,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-07T21:10:58Z",
+            "last_commit": "2026-11-11T23:33:33Z",
             "open_issues": 2069,
             "owner": "RicoSuter",
             "repo": "NSwag",
-            "stars": 7368,
+            "stars": 7369,
             "topics": [
               "angular",
               "aspnet",
@@ -4543,7 +4543,7 @@
             "open_issues": 6,
             "owner": "interisti",
             "repo": "vs-material-icons-generator",
-            "stars": 47,
+            "stars": 46,
             "topics": [
               "add-icons",
               "android",
@@ -4917,7 +4917,7 @@
             "open_issues": 1,
             "owner": "microcharts-dotnet",
             "repo": "Microcharts",
-            "stars": 2075,
+            "stars": 2076,
             "topics": [
               "android",
               "charts",
@@ -5041,7 +5041,7 @@
             "open_issues": 0,
             "owner": "aritchie",
             "repo": "userdialogs",
-            "stars": 990,
+            "stars": 989,
             "topics": []
           },
           "first_seen": "2026-08-29T01:23:51.023Z"
@@ -5281,7 +5281,7 @@
             "open_issues": 18,
             "owner": "HorusSoftwareUY",
             "repo": "Xamarin.Forms.Skeleton",
-            "stars": 473,
+            "stars": 474,
             "topics": []
           },
           "first_seen": "2026-08-29T01:23:51.023Z"
@@ -5643,27 +5643,6 @@
         },
         {
           "node_type": "item",
-          "title": "XFSlimListView ★34",
-          "description": "A slim ListView implementation for Xamarin.Forms that uses Native List controls.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A slim ListView implementation for .NET MAUI that uses Platform virtualized lists / collections",
-            "homepage": null,
-            "id": 331786456,
-            "language": "C#",
-            "license": "MIT",
-            "last_commit": "2026-11-09T15:04:48Z",
-            "open_issues": 2,
-            "owner": "Redth",
-            "repo": "Maui.VirtualListView",
-            "stars": 253,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T01:23:51.023Z"
-        },
-        {
-          "node_type": "item",
           "title": "Xamarin.Forms.DataGrid ★249",
           "description": "DataGrid library for Xamarin.Forms Application.",
           "children": [],
@@ -5686,6 +5665,27 @@
               "xamarin-forms",
               "xamarin-library"
             ]
+          },
+          "first_seen": "2026-08-29T01:23:51.023Z"
+        },
+        {
+          "node_type": "item",
+          "title": "XFSlimListView ★34",
+          "description": "A slim ListView implementation for Xamarin.Forms that uses Native List controls.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A slim ListView implementation for .NET MAUI that uses Platform virtualized lists / collections",
+            "homepage": null,
+            "id": 331786456,
+            "language": "C#",
+            "license": "MIT",
+            "last_commit": "2026-11-09T15:04:48Z",
+            "open_issues": 2,
+            "owner": "Redth",
+            "repo": "Maui.VirtualListView",
+            "stars": 252,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:23:51.023Z"
         },
@@ -11761,7 +11761,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T22:44:47.378Z",
+    "last_updated": "2026-11-11T23:57:37.510Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Xamarin.Forms libraries and resources",
