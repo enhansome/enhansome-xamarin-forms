@@ -722,11 +722,11 @@
             "id": 16157746,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-11T23:43:13Z",
-            "open_issues": 2375,
+            "last_commit": "2026-11-12T22:19:17Z",
+            "open_issues": 2383,
             "owner": "dotnet",
             "repo": "efcore",
-            "stars": 14818,
+            "stars": 14817,
             "topics": [
               "aspnet-product",
               "c-sharp",
@@ -781,7 +781,7 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-07-13T16:23:53Z",
-            "open_issues": 619,
+            "open_issues": 620,
             "owner": "praeclarum",
             "repo": "sqlite-net",
             "stars": 4454,
@@ -1048,11 +1048,11 @@
             "id": 31335300,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-11T02:17:42Z",
-            "open_issues": 12,
+            "last_commit": "2026-11-12T17:05:34Z",
+            "open_issues": 11,
             "owner": "PrismLibrary",
             "repo": "Prism",
-            "stars": 6874,
+            "stars": 6873,
             "topics": [
               "c-sharp",
               "hacktoberfest",
@@ -1078,8 +1078,8 @@
             "id": 2870911,
             "language": "C#",
             "license": "MS-PL",
-            "last_commit": "2026-11-11T13:50:41Z",
-            "open_issues": 193,
+            "last_commit": "2026-11-12T10:02:07Z",
+            "open_issues": 187,
             "owner": "MvvmCross",
             "repo": "MvvmCross",
             "stars": 3919,
@@ -1404,11 +1404,11 @@
             "id": 120334619,
             "language": "F#",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-08T22:17:26Z",
+            "last_commit": "2026-11-12T13:59:46Z",
             "open_issues": 9,
             "owner": "fabulous-dev",
             "repo": "Fabulous",
-            "stars": 1305,
+            "stars": 1306,
             "topics": [
               "declarative-ui",
               "fabulous",
@@ -1592,7 +1592,7 @@
             "open_issues": 1,
             "owner": "videolan",
             "repo": "libvlcsharp",
-            "stars": 1828,
+            "stars": 1830,
             "topics": [
               "dotnet",
               "libvlc",
@@ -1672,7 +1672,7 @@
             "open_issues": 7,
             "owner": "VincentH-Net",
             "repo": "CSharpForMarkup",
-            "stars": 841,
+            "stars": 842,
             "topics": [
               "csharp",
               "ide-support",
@@ -1735,7 +1735,7 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-11-10T16:25:24Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "jamesmontemagno",
             "repo": "InAppBillingPlugin",
             "stars": 725,
@@ -2764,35 +2764,6 @@
         },
         {
           "node_type": "item",
-          "title": "Screenshot ★31",
-          "description": "Get and save screenshots in your apps for Xamarin and Windows.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A simple Screenshot plugin for Xamarin and Windows to get and save screenshot in yours apps.",
-            "homepage": null,
-            "id": 105713992,
-            "language": "C#",
-            "license": "MIT",
-            "last_commit": "2020-07-10T17:45:47Z",
-            "open_issues": 8,
-            "owner": "wilsonvargas",
-            "repo": "ScreenshotPlugin",
-            "stars": 34,
-            "topics": [
-              "csharp",
-              "nuget",
-              "pcl",
-              "plugin",
-              "screenshot",
-              "xamarin",
-              "xamarin-forms"
-            ]
-          },
-          "first_seen": "2026-08-29T01:23:51.023Z"
-        },
-        {
-          "node_type": "item",
           "title": "TinyInsights ★35",
           "description": "A library that abstracting crash reporting- and analytics services and makes it possible to use multiple providers.",
           "children": [],
@@ -2830,6 +2801,35 @@
             "repo": "AppShortcutsPlugin",
             "stars": 33,
             "topics": []
+          },
+          "first_seen": "2026-08-29T01:23:51.023Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Screenshot ★31",
+          "description": "Get and save screenshots in your apps for Xamarin and Windows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A simple Screenshot plugin for Xamarin and Windows to get and save screenshot in yours apps.",
+            "homepage": null,
+            "id": 105713992,
+            "language": "C#",
+            "license": "MIT",
+            "last_commit": "2020-07-10T17:45:47Z",
+            "open_issues": 8,
+            "owner": "wilsonvargas",
+            "repo": "ScreenshotPlugin",
+            "stars": 33,
+            "topics": [
+              "csharp",
+              "nuget",
+              "pcl",
+              "plugin",
+              "screenshot",
+              "xamarin",
+              "xamarin-forms"
+            ]
           },
           "first_seen": "2026-08-29T01:23:51.023Z"
         },
@@ -3934,11 +3934,11 @@
             "id": 118641651,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-11T09:25:06Z",
+            "last_commit": "2026-11-12T09:25:23Z",
             "open_issues": 5,
             "owner": "TheCodeTraveler",
             "repo": "AsyncAwaitBestPractices",
-            "stars": 1850,
+            "stars": 1852,
             "topics": [
               "async",
               "await",
@@ -4285,7 +4285,7 @@
             "open_issues": 172,
             "owner": "neuecc",
             "repo": "Utf8Json",
-            "stars": 2378,
+            "stars": 2377,
             "topics": []
           },
           "first_seen": "2026-08-29T01:23:51.023Z"
@@ -4368,11 +4368,11 @@
             "id": 111583593,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-10T20:17:35Z",
-            "open_issues": 2949,
+            "last_commit": "2026-11-12T18:59:44Z",
+            "open_issues": 2950,
             "owner": "Genymobile",
             "repo": "scrcpy",
-            "stars": 154590,
+            "stars": 154684,
             "topics": [
               "android",
               "c",
@@ -4913,8 +4913,8 @@
             "id": 99156674,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-26T18:57:01Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-12T09:51:31Z",
+            "open_issues": 0,
             "owner": "microcharts-dotnet",
             "repo": "Microcharts",
             "stars": 2076,
@@ -5087,7 +5087,7 @@
             "open_issues": 0,
             "owner": "AndreiMisiukevich",
             "repo": "CardView",
-            "stars": 690,
+            "stars": 691,
             "topics": [
               "cardsview",
               "cardviews",
@@ -5722,27 +5722,6 @@
         },
         {
           "node_type": "item",
-          "title": "Signature Pad ★221",
-          "description": "makes capturing, saving, exporting, and displaying signatures extremely simple on iOS, Android and Windows.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": null,
-            "homepage": null,
-            "id": 18772660,
-            "language": "C#",
-            "license": "MIT",
-            "last_commit": "2021-05-12T19:32:41Z",
-            "open_issues": 58,
-            "owner": "xamarin",
-            "repo": "SignaturePad",
-            "stars": 242,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T01:23:51.023Z"
-        },
-        {
-          "node_type": "item",
           "title": "Xamarin.Forms.StateSquid ★256",
           "description": "Spiritual successor to EasyLoading, turn any layout element into an individual state-aware element.",
           "children": [],
@@ -5758,6 +5737,27 @@
             "owner": "sthewissen",
             "repo": "Xamarin.Forms.StateSquid",
             "stars": 242,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T01:23:51.023Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Signature Pad ★221",
+          "description": "makes capturing, saving, exporting, and displaying signatures extremely simple on iOS, Android and Windows.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "description": null,
+            "homepage": null,
+            "id": 18772660,
+            "language": "C#",
+            "license": "MIT",
+            "last_commit": "2021-05-12T19:32:41Z",
+            "open_issues": 58,
+            "owner": "xamarin",
+            "repo": "SignaturePad",
+            "stars": 241,
             "topics": []
           },
           "first_seen": "2026-08-29T01:23:51.023Z"
@@ -11761,7 +11761,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T23:57:37.510Z",
+    "last_updated": "2026-11-12T23:07:10.471Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Xamarin.Forms libraries and resources",
