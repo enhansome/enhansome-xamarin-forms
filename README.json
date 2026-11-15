@@ -722,11 +722,11 @@
             "id": 16157746,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-14T19:56:17Z",
-            "open_issues": 2376,
+            "last_commit": "2026-11-15T21:28:53Z",
+            "open_issues": 2380,
             "owner": "dotnet",
             "repo": "efcore",
-            "stars": 14817,
+            "stars": 14819,
             "topics": [
               "aspnet-product",
               "c-sharp",
@@ -801,11 +801,11 @@
             "id": 2896461,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-14T12:02:08Z",
-            "open_issues": 5,
+            "last_commit": "2026-11-15T09:32:02Z",
+            "open_issues": 4,
             "owner": "reactiveui",
             "repo": "Akavache",
-            "stars": 2550,
+            "stars": 2549,
             "topics": [
               "akavache",
               "c-sharp",
@@ -1404,8 +1404,8 @@
             "id": 120334619,
             "language": "F#",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-13T02:20:35Z",
-            "open_issues": 8,
+            "last_commit": "2026-11-15T13:59:05Z",
+            "open_issues": 9,
             "owner": "fabulous-dev",
             "repo": "Fabulous",
             "stars": 1307,
@@ -1592,7 +1592,7 @@
             "open_issues": 1,
             "owner": "videolan",
             "repo": "libvlcsharp",
-            "stars": 1830,
+            "stars": 1832,
             "topics": [
               "dotnet",
               "libvlc",
@@ -1759,7 +1759,7 @@
             "open_issues": 192,
             "owner": "jamesmontemagno",
             "repo": "MediaPlugin",
-            "stars": 708,
+            "stars": 709,
             "topics": []
           },
           "first_seen": "2026-08-29T01:23:51.023Z"
@@ -1780,7 +1780,7 @@
             "open_issues": 39,
             "owner": "thudugala",
             "repo": "Plugin.LocalNotification",
-            "stars": 474,
+            "stars": 475,
             "topics": [
               "local",
               "maui",
@@ -4285,7 +4285,7 @@
             "open_issues": 172,
             "owner": "neuecc",
             "repo": "Utf8Json",
-            "stars": 2377,
+            "stars": 2376,
             "topics": []
           },
           "first_seen": "2026-08-29T01:23:51.023Z"
@@ -4369,10 +4369,10 @@
             "language": "C",
             "license": "Apache-2.0",
             "last_commit": "2026-11-14T20:39:43Z",
-            "open_issues": 2953,
+            "open_issues": 2955,
             "owner": "Genymobile",
             "repo": "scrcpy",
-            "stars": 154827,
+            "stars": 154907,
             "topics": [
               "android",
               "c",
@@ -4400,7 +4400,7 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-11-11T23:33:33Z",
-            "open_issues": 2070,
+            "open_issues": 2071,
             "owner": "RicoSuter",
             "repo": "NSwag",
             "stars": 7369,
@@ -4917,7 +4917,7 @@
             "open_issues": 0,
             "owner": "microcharts-dotnet",
             "repo": "Microcharts",
-            "stars": 2076,
+            "stars": 2075,
             "topics": [
               "android",
               "charts",
@@ -11761,7 +11761,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T21:54:28.783Z",
+    "last_updated": "2026-11-15T22:24:38.720Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Xamarin.Forms libraries and resources",
