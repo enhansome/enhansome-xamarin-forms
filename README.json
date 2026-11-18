@@ -722,8 +722,8 @@
             "id": 16157746,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-17T23:35:15Z",
-            "open_issues": 2362,
+            "last_commit": "2026-11-18T22:19:44Z",
+            "open_issues": 2343,
             "owner": "dotnet",
             "repo": "efcore",
             "stars": 14822,
@@ -784,7 +784,7 @@
             "open_issues": 620,
             "owner": "praeclarum",
             "repo": "sqlite-net",
-            "stars": 4454,
+            "stars": 4455,
             "topics": []
           },
           "first_seen": "2026-08-29T01:23:51.023Z"
@@ -801,8 +801,8 @@
             "id": 2896461,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-16T00:49:19Z",
-            "open_issues": 4,
+            "last_commit": "2026-11-18T15:17:11Z",
+            "open_issues": 5,
             "owner": "reactiveui",
             "repo": "Akavache",
             "stars": 2549,
@@ -1052,7 +1052,7 @@
             "open_issues": 9,
             "owner": "PrismLibrary",
             "repo": "Prism",
-            "stars": 6873,
+            "stars": 6874,
             "topics": [
               "c-sharp",
               "hacktoberfest",
@@ -1078,7 +1078,7 @@
             "id": 2870911,
             "language": "C#",
             "license": "MS-PL",
-            "last_commit": "2026-11-17T09:26:24Z",
+            "last_commit": "2026-11-18T14:20:20Z",
             "open_issues": 187,
             "owner": "MvvmCross",
             "repo": "MvvmCross",
@@ -2186,7 +2186,7 @@
             "open_issues": 1,
             "owner": "jguertl",
             "repo": "SharePlugin",
-            "stars": 125,
+            "stars": 124,
             "topics": []
           },
           "first_seen": "2026-08-29T01:23:51.023Z"
@@ -3934,8 +3934,8 @@
             "id": 118641651,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-16T09:44:18Z",
-            "open_issues": 7,
+            "last_commit": "2026-11-18T09:23:06Z",
+            "open_issues": 10,
             "owner": "TheCodeTraveler",
             "repo": "AsyncAwaitBestPractices",
             "stars": 1854,
@@ -4372,7 +4372,7 @@
             "open_issues": 2960,
             "owner": "Genymobile",
             "repo": "scrcpy",
-            "stars": 155087,
+            "stars": 155152,
             "topics": [
               "android",
               "c",
@@ -4917,7 +4917,7 @@
             "open_issues": 0,
             "owner": "microcharts-dotnet",
             "repo": "Microcharts",
-            "stars": 2076,
+            "stars": 2075,
             "topics": [
               "android",
               "charts",
@@ -5680,8 +5680,8 @@
             "id": 331786456,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-16T16:43:14Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-18T20:13:14Z",
+            "open_issues": 3,
             "owner": "Redth",
             "repo": "Maui.VirtualListView",
             "stars": 252,
@@ -5722,27 +5722,6 @@
         },
         {
           "node_type": "item",
-          "title": "Xamarin.Forms.StateSquid ★256",
-          "description": "Spiritual successor to EasyLoading, turn any layout element into an individual state-aware element.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "Spiritual successor to EasyLoading, turn any layout element into an individual state-aware element.",
-            "homepage": null,
-            "id": 200597975,
-            "language": "C#",
-            "license": "MIT",
-            "last_commit": "2020-10-31T09:22:43Z",
-            "open_issues": 3,
-            "owner": "sthewissen",
-            "repo": "Xamarin.Forms.StateSquid",
-            "stars": 242,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T01:23:51.023Z"
-        },
-        {
-          "node_type": "item",
           "title": "Signature Pad ★221",
           "description": "makes capturing, saving, exporting, and displaying signatures extremely simple on iOS, Android and Windows.",
           "children": [],
@@ -5757,6 +5736,27 @@
             "open_issues": 58,
             "owner": "xamarin",
             "repo": "SignaturePad",
+            "stars": 241,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T01:23:51.023Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Xamarin.Forms.StateSquid ★256",
+          "description": "Spiritual successor to EasyLoading, turn any layout element into an individual state-aware element.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "description": "Spiritual successor to EasyLoading, turn any layout element into an individual state-aware element.",
+            "homepage": null,
+            "id": 200597975,
+            "language": "C#",
+            "license": "MIT",
+            "last_commit": "2020-10-31T09:22:43Z",
+            "open_issues": 3,
+            "owner": "sthewissen",
+            "repo": "Xamarin.Forms.StateSquid",
             "stars": 241,
             "topics": []
           },
@@ -11761,7 +11761,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T00:24:28.350Z",
+    "last_updated": "2026-11-18T23:48:53.282Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Xamarin.Forms libraries and resources",
@@ -11773,7 +11773,7 @@
       "open_issues": 2,
       "owner": "jsuarezruiz",
       "repo": "awesome-xamarin-forms",
-      "stars": 1220,
+      "stars": 1219,
       "topics": [
         "animation",
         "awesome",
