@@ -534,7 +534,7 @@
             "open_issues": 291,
             "owner": "xamarin",
             "repo": "XamarinCommunityToolkit",
-            "stars": 1557,
+            "stars": 1556,
             "topics": [
               "android",
               "behaviors",
@@ -722,11 +722,11 @@
             "id": 16157746,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-17T01:21:27Z",
-            "open_issues": 2372,
+            "last_commit": "2026-11-17T23:35:15Z",
+            "open_issues": 2362,
             "owner": "dotnet",
             "repo": "efcore",
-            "stars": 14823,
+            "stars": 14822,
             "topics": [
               "aspnet-product",
               "c-sharp",
@@ -1078,8 +1078,8 @@
             "id": 2870911,
             "language": "C#",
             "license": "MS-PL",
-            "last_commit": "2026-11-12T10:02:07Z",
-            "open_issues": 186,
+            "last_commit": "2026-11-17T09:26:24Z",
+            "open_issues": 187,
             "owner": "MvvmCross",
             "repo": "MvvmCross",
             "stars": 3919,
@@ -1408,7 +1408,7 @@
             "open_issues": 9,
             "owner": "fabulous-dev",
             "repo": "Fabulous",
-            "stars": 1307,
+            "stars": 1308,
             "topics": [
               "declarative-ui",
               "fabulous",
@@ -1592,7 +1592,7 @@
             "open_issues": 1,
             "owner": "videolan",
             "repo": "libvlcsharp",
-            "stars": 1832,
+            "stars": 1831,
             "topics": [
               "dotnet",
               "libvlc",
@@ -1915,7 +1915,7 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2021-01-08T13:50:52Z",
-            "open_issues": 32,
+            "open_issues": 31,
             "owner": "EgorBo",
             "repo": "Toasts.Forms.Plugin",
             "stars": 275,
@@ -4261,7 +4261,7 @@
             "open_issues": 828,
             "owner": "JamesNK",
             "repo": "Newtonsoft.Json",
-            "stars": 11322,
+            "stars": 11323,
             "topics": [
               "c-sharp",
               "json"
@@ -4368,11 +4368,11 @@
             "id": 111583593,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-14T20:39:43Z",
-            "open_issues": 2958,
+            "last_commit": "2026-11-17T19:31:30Z",
+            "open_issues": 2960,
             "owner": "Genymobile",
             "repo": "scrcpy",
-            "stars": 154990,
+            "stars": 155087,
             "topics": [
               "android",
               "c",
@@ -4917,7 +4917,7 @@
             "open_issues": 0,
             "owner": "microcharts-dotnet",
             "repo": "Microcharts",
-            "stars": 2075,
+            "stars": 2076,
             "topics": [
               "android",
               "charts",
@@ -4943,7 +4943,7 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2023-03-16T16:01:13Z",
-            "open_issues": 278,
+            "open_issues": 276,
             "owner": "luberda-molinet",
             "repo": "FFImageLoading",
             "stars": 1403,
@@ -5209,7 +5209,7 @@
             "open_issues": 11,
             "owner": "roubachof",
             "repo": "Sharpnado.Tabs",
-            "stars": 580,
+            "stars": 579,
             "topics": [
               "android",
               "badge",
@@ -5260,7 +5260,7 @@
             "open_issues": 0,
             "owner": "roubachof",
             "repo": "Sharpnado.MaterialFrame",
-            "stars": 521,
+            "stars": 520,
             "topics": []
           },
           "first_seen": "2026-08-29T01:23:51.023Z"
@@ -5823,7 +5823,7 @@
             "open_issues": 27,
             "owner": "dotMorten",
             "repo": "MauiEx",
-            "stars": 227,
+            "stars": 226,
             "topics": [
               "dotnet",
               "maui"
@@ -6941,7 +6941,7 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2019-03-13T13:34:15Z",
-            "open_issues": 18,
+            "open_issues": 17,
             "owner": "stormlion227",
             "repo": "PhotoBrowser.Forms",
             "stars": 73,
@@ -7938,35 +7938,6 @@
         },
         {
           "node_type": "item",
-          "title": "OverFlower ★3",
-          "description": "Endless scroller control for Xamarin.Forms.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "♾ endless scroller control for .NET MAUI + Xamarin.Forms",
-            "homepage": null,
-            "id": 424850613,
-            "language": "C#",
-            "license": null,
-            "last_commit": "2024-03-15T10:14:58Z",
-            "open_issues": 1,
-            "owner": "nor0x",
-            "repo": "OverFlower",
-            "stars": 31,
-            "topics": [
-              "dotnet-maui",
-              "endless-scroll",
-              "maui",
-              "net-maui",
-              "scrollview",
-              "xamarin",
-              "xamarin-forms"
-            ]
-          },
-          "first_seen": "2026-08-29T01:23:51.023Z"
-        },
-        {
-          "node_type": "item",
           "title": "PlacesSearchBar ★33",
           "description": "An extension of Xamarin.Forms SearchBar control for implementing Google Places Autocomplete API.",
           "children": [],
@@ -8004,6 +7975,35 @@
             "repo": "Forms-BottomSheet",
             "stars": 30,
             "topics": []
+          },
+          "first_seen": "2026-08-29T01:23:51.023Z"
+        },
+        {
+          "node_type": "item",
+          "title": "OverFlower ★3",
+          "description": "Endless scroller control for Xamarin.Forms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "♾ endless scroller control for .NET MAUI + Xamarin.Forms",
+            "homepage": null,
+            "id": 424850613,
+            "language": "C#",
+            "license": null,
+            "last_commit": "2024-03-15T10:14:58Z",
+            "open_issues": 1,
+            "owner": "nor0x",
+            "repo": "OverFlower",
+            "stars": 30,
+            "topics": [
+              "dotnet-maui",
+              "endless-scroll",
+              "maui",
+              "net-maui",
+              "scrollview",
+              "xamarin",
+              "xamarin-forms"
+            ]
           },
           "first_seen": "2026-08-29T01:23:51.023Z"
         },
@@ -11761,7 +11761,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T01:28:10.344Z",
+    "last_updated": "2026-11-18T00:24:28.350Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Xamarin.Forms libraries and resources",
