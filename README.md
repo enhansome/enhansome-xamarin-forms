@@ -77,9 +77,9 @@ You can find other awesome lists related to Xamarin below:
 
 ## Database
 
-* [Entity Framework Core ★11230](https://github.com/aspnet/EntityFrameworkCore) ⭐ 14,821 | 🐛 2,346 | 🌐 C# | 📅 2026-11-19: Is a lightweight and extensible version of the popular Entity Framework data access technology.
+* [Entity Framework Core ★11230](https://github.com/aspnet/EntityFrameworkCore) ⭐ 14,821 | 🐛 2,352 | 🌐 C# | 📅 2026-11-20: Is a lightweight and extensible version of the popular Entity Framework data access technology.
 * [LiteDB ★6418](https://github.com/mbdavid/LiteDB) ⭐ 9,491 | 🐛 189 | 🌐 C# | 📅 2026-11-10: A .NET NoSQL Document Store in a single data file.
-* [SQLite-net ★3299](https://github.com/praeclarum/sqlite-net) ⭐ 4,454 | 🐛 620 | 🌐 C# | 📅 2026-07-13: It is an open source, minimal library to allow .NET and Mono applications to store data in SQLite 3 databases.
+* [SQLite-net ★3299](https://github.com/praeclarum/sqlite-net) ⭐ 4,453 | 🐛 620 | 🌐 C# | 📅 2026-07-13: It is an open source, minimal library to allow .NET and Mono applications to store data in SQLite 3 databases.
 * [Akavache ★2234](https://github.com/akavache/Akavache) ⭐ 2,548 | 🐛 5 | 🌐 C# | 📅 2026-11-18: Akavache is an asynchronous, persistent (i.e. writes to disk) key-value store created for writing desktop and mobile applications in C#, based on SQLite3. Akavache is great for both storing important data (i.e. user settings) as well as cached local data that expires.
 * [CosmosDB ★537](https://github.com/Azure/azure-documentdb-dotnet) ⭐ 573 | 🐛 382 | 📅 2024-03-05: Azure Cosmos DB is a globally distributed, multi-model database service.
 * [NETCoreSync ★53](https://github.com/aldycool/NETCoreSync) ⭐ 79 | 🐛 1 | 🌐 Dart | 📅 2022-12-08: Database-agnostic synchronization framework based on .NET Standard 2.0 to synchronize data between multiple clients and a single server.
@@ -113,8 +113,8 @@ You can find other awesome lists related to Xamarin below:
 
 ## MVVM
 
-* [Prism ★5083](https://github.com/PrismLibrary/Prism) ⭐ 6,874 | 🐛 9 | 🌐 C# | 📅 2026-11-14: Nice framework with an amazing navigation service.
-* [MVVMCross ★3637](https://github.com/MvvmCross/MvvmCross) ⭐ 3,918 | 🐛 187 | 🌐 C# | 📅 2026-11-18: Cross-platform mvvm mobile development framework.
+* [Prism ★5083](https://github.com/PrismLibrary/Prism) ⭐ 6,873 | 🐛 9 | 🌐 C# | 📅 2026-11-14: Nice framework with an amazing navigation service.
+* [MVVMCross ★3637](https://github.com/MvvmCross/MvvmCross) ⭐ 3,919 | 🐛 189 | 🌐 C# | 📅 2026-11-20: Cross-platform mvvm mobile development framework.
 * [FreshMvvm ★564](https://github.com/rid00z/FreshMvvm) ⭐ 590 | 🐛 150 | 🌐 C# | 📅 2022-02-11: It is a super light Mvvm Framework designed specifically for Xamarin.Forms
 * [Xamarin University Infrastructure Library ★144](https://github.com/xamarinhq/xamu-infrastructure) ⚠️ Archived: Extensions, MVVM classes, behaviors and other misc. useful code bits from Xamarin University.
 * [xamvvm ★120](https://github.com/xamvvm/xamvvm) ⭐ 120 | 🐛 7 | 🌐 C# | 📅 2022-10-18: Simple MVVM (Model, ViewModel, View) Framework for .Net - Xamarin.Forms compatible.
@@ -181,7 +181,7 @@ You can find other awesome lists related to Xamarin below:
 * [EntryCustomReturnPlugin ★81](https://github.com/brminnick/EntryCustomReturnPlugin) ⚠️ Archived: Xamarin.Forms Plugin to customize the Xamarin.Forms.Entry Keyboard Return Button.
 * [PayPal ★78](https://github.com/AlejandroRuiz/PayPal.Forms) ⚠️ Archived: PayPal Plugin for Xamarin.Forms.
 * [OpenTok-Xamarin.Forms ★81](https://github.com/AndreiMisiukevich/OpenTok-Xamarin.Forms) ⭐ 75 | 🐛 0 | 🌐 C# | 📅 2022-12-08: OpenTok for Xamarin.Forms.
-* [DynamicStackLayout ★72](https://github.com/SuavePirate/DynamicStackLayout) ⭐ 69 | 🐛 3 | 🌐 C# | 📅 2018-09-06:  Xamarin.Forms layout for creating dynamically wrapped views.
+* [DynamicStackLayout ★72](https://github.com/SuavePirate/DynamicStackLayout) ⭐ 70 | 🐛 3 | 🌐 C# | 📅 2018-09-06:  Xamarin.Forms layout for creating dynamically wrapped views.
 * [GoogleAnalyticsForXamarinForms ★68](https://github.com/KSemenenko/GoogleAnalyticsForXamarinForms) ⭐ 65 | 🐛 18 | 🌐 C# | 📅 2020-12-13: This project is a cross platform library for Xamarin Forms, which enables a handy use of Google Analytics in your applications.
 * [Geofence ★59](https://github.com/aritchie/geofences) ⚠️ Archived: A cross platform library for Xamarin & Windows that allows for easy geofence detection.
 * [Text To Speech ★58](https://github.com/jamesmontemagno/TextToSpeechPlugin) ⚠️ Archived: Turn your text into a vocal symphony on mobile devices.
@@ -281,8 +281,8 @@ You can find other awesome lists related to Xamarin below:
 
 ## Tools
 
-* [scrcpy ★64517](https://github.com/Genymobile/scrcpy) ⭐ 155,226 | 🐛 2,960 | 🌐 C | 📅 2026-11-19: This application provides display and control of Android devices connected on USB (or over TCP/IP). It does not require any root access. It works on GNU/Linux, Windows and MacOS.
-* [NSwag ★5096](https://github.com/RSuter/NSwag) ⭐ 7,369 | 🐛 2,072 | 🌐 C# | 📅 2026-11-11: Swagger and code generation tool for C#. Easily integrate your own or 3rd party APIs into your app.
+* [scrcpy ★64517](https://github.com/Genymobile/scrcpy) ⭐ 155,284 | 🐛 2,961 | 🌐 C | 📅 2026-11-19: This application provides display and control of Android devices connected on USB (or over TCP/IP). It does not require any root access. It works on GNU/Linux, Windows and MacOS.
+* [NSwag ★5096](https://github.com/RSuter/NSwag) ⭐ 7,368 | 🐛 2,073 | 🌐 C# | 📅 2026-11-11: Swagger and code generation tool for C#. Easily integrate your own or 3rd party APIs into your app.
 * [HotReload ★410](https://github.com/AndreiMisiukevich/HotReload) ⭐ 405 | 🐛 0 | 🌐 C# | 📅 2023-02-21: Xamarin.Forms XAML hot reload, live reload, live xaml.
 * [XAMLator ★201](https://github.com/ylatuya/XAMLator) ⭐ 193 | 🐛 7 | 🌐 C# | 📅 2019-04-02: Is a live XAML previewer for Xamarin.Forms. Change something in your view's XAML in Visual Studio and you preview it live in your device or simulator!
 * [SkiaSharpFiddle ★118](https://github.com/mattleibow/SkiaSharpFiddle) ⭐ 154 | 🐛 5 | 🌐 C# | 📅 2023-12-30: A SkiaSharp playground - just like <https://fiddle.skia.org>, but for your own machine!
@@ -429,7 +429,7 @@ You can find other awesome lists related to Xamarin below:
 * [Switch ★31](https://github.com/IeuanWalker/Xamarin.Forms.CustomSwitch) ⭐ 43 | 🐛 0 | 🌐 C# | 📅 2023-04-05: A switch control that allows you to design/ create any switch you want.
 * [XamarinForms.CalendarControl ★45](https://github.com/DamianAntonowicz/XamarinForms.CalendarControl) ⭐ 43 | 🐛 0 | 🌐 C# | 📅 2021-04-24: Calendar control for Xamarin.Forms.
 * [Xamarin.Forms.CustomSwitch ★31](https://github.com/IeuanWalker/Xamarin.Forms.CustomSwitch) ⭐ 43 | 🐛 0 | 🌐 C# | 📅 2023-04-05: This is a switch/ toggle control that would allow you to create any style switch you'd like.
-* [FormsRevealer ★43](https://github.com/mariusmuntean/FormsRevealer) ⭐ 41 | 🐛 0 | 🌐 C# | 📅 2019-11-16: Xamarin.Forms control that can show child views with a reveal animation.
+* [FormsRevealer ★43](https://github.com/mariusmuntean/FormsRevealer) ⭐ 42 | 🐛 0 | 🌐 C# | 📅 2019-11-16: Xamarin.Forms control that can show child views with a reveal animation.
 * [RedCorners.Forms ★40](https://github.com/saeedafshari/RedCorners.Forms) ⭐ 40 | 🐛 0 | 🌐 C# | 📅 2025-06-21: Brings some neat utilities to your Xamarin.Forms applications (AliveContentPage, AliveContentView, Sidebar, etc.).
 * [Global.InputForms ★32](https://github.com/Phenek/Global.InputForms) ⭐ 39 | 🐛 2 | 🌐 C# | 📅 2022-07-02: Global.InputForms provides Xamarin.Forms Essentials controls for iOS and Android apps (CheckGroup, RadioGroup, etc.).
 * [ListViewWithSubListView ★39](https://github.com/ishrakland/ListViewWithSubListView) ⭐ 38 | 🐛 7 | 🌐 Java | 📅 2018-12-12: Xamarin.Forms Expandable ListView With Sub-ListView MVVM Pattern.

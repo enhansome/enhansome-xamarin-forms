@@ -722,8 +722,8 @@
             "id": 16157746,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-19T23:08:44Z",
-            "open_issues": 2346,
+            "last_commit": "2026-11-20T21:52:06Z",
+            "open_issues": 2352,
             "owner": "dotnet",
             "repo": "efcore",
             "stars": 14821,
@@ -784,7 +784,7 @@
             "open_issues": 620,
             "owner": "praeclarum",
             "repo": "sqlite-net",
-            "stars": 4454,
+            "stars": 4453,
             "topics": []
           },
           "first_seen": "2026-08-29T01:23:51.023Z"
@@ -1052,7 +1052,7 @@
             "open_issues": 9,
             "owner": "PrismLibrary",
             "repo": "Prism",
-            "stars": 6874,
+            "stars": 6873,
             "topics": [
               "c-sharp",
               "hacktoberfest",
@@ -1078,11 +1078,11 @@
             "id": 2870911,
             "language": "C#",
             "license": "MS-PL",
-            "last_commit": "2026-11-18T14:20:20Z",
-            "open_issues": 187,
+            "last_commit": "2026-11-20T03:08:24Z",
+            "open_issues": 189,
             "owner": "MvvmCross",
             "repo": "MvvmCross",
-            "stars": 3918,
+            "stars": 3919,
             "topics": [
               "android",
               "c-sharp",
@@ -2374,7 +2374,7 @@
             "open_issues": 3,
             "owner": "SuavePirate",
             "repo": "DynamicStackLayout",
-            "stars": 69,
+            "stars": 70,
             "topics": []
           },
           "first_seen": "2026-08-29T01:23:51.023Z"
@@ -4369,10 +4369,10 @@
             "language": "C",
             "license": "Apache-2.0",
             "last_commit": "2026-11-19T20:04:00Z",
-            "open_issues": 2960,
+            "open_issues": 2961,
             "owner": "Genymobile",
             "repo": "scrcpy",
-            "stars": 155226,
+            "stars": 155284,
             "topics": [
               "android",
               "c",
@@ -4400,10 +4400,10 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-11-11T23:33:33Z",
-            "open_issues": 2072,
+            "open_issues": 2073,
             "owner": "RicoSuter",
             "repo": "NSwag",
-            "stars": 7369,
+            "stars": 7368,
             "topics": [
               "angular",
               "aspnet",
@@ -7648,7 +7648,7 @@
             "open_issues": 0,
             "owner": "mariusmuntean",
             "repo": "FormsRevealer",
-            "stars": 41,
+            "stars": 42,
             "topics": [
               "csharp",
               "reveal-animation",
@@ -11761,7 +11761,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T00:12:30.713Z",
+    "last_updated": "2026-11-20T23:35:47.683Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Xamarin.Forms libraries and resources",
