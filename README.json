@@ -722,11 +722,11 @@
             "id": 16157746,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-20T21:52:06Z",
-            "open_issues": 2352,
+            "last_commit": "2026-11-21T12:59:42Z",
+            "open_issues": 2353,
             "owner": "dotnet",
             "repo": "efcore",
-            "stars": 14821,
+            "stars": 14820,
             "topics": [
               "aspnet-product",
               "c-sharp",
@@ -801,8 +801,8 @@
             "id": 2896461,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-18T15:17:11Z",
-            "open_issues": 5,
+            "last_commit": "2026-11-21T03:30:53Z",
+            "open_issues": 6,
             "owner": "reactiveui",
             "repo": "Akavache",
             "stars": 2548,
@@ -835,7 +835,7 @@
             "open_issues": 382,
             "owner": "Azure",
             "repo": "azure-cosmos-dotnet-v2",
-            "stars": 573,
+            "stars": 574,
             "topics": []
           },
           "first_seen": "2026-08-29T01:23:51.023Z"
@@ -1078,8 +1078,8 @@
             "id": 2870911,
             "language": "C#",
             "license": "MS-PL",
-            "last_commit": "2026-11-20T03:08:24Z",
-            "open_issues": 189,
+            "last_commit": "2026-11-21T03:08:15Z",
+            "open_issues": 191,
             "owner": "MvvmCross",
             "repo": "MvvmCross",
             "stars": 3919,
@@ -3938,7 +3938,7 @@
             "open_issues": 10,
             "owner": "TheCodeTraveler",
             "repo": "AsyncAwaitBestPractices",
-            "stars": 1854,
+            "stars": 1855,
             "topics": [
               "async",
               "await",
@@ -4369,10 +4369,10 @@
             "language": "C",
             "license": "Apache-2.0",
             "last_commit": "2026-11-19T20:04:00Z",
-            "open_issues": 2961,
+            "open_issues": 2960,
             "owner": "Genymobile",
             "repo": "scrcpy",
-            "stars": 155284,
+            "stars": 155350,
             "topics": [
               "android",
               "c",
@@ -4403,7 +4403,7 @@
             "open_issues": 2073,
             "owner": "RicoSuter",
             "repo": "NSwag",
-            "stars": 7368,
+            "stars": 7367,
             "topics": [
               "angular",
               "aspnet",
@@ -11761,7 +11761,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T23:35:47.683Z",
+    "last_updated": "2026-11-21T22:42:07.521Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Xamarin.Forms libraries and resources",
