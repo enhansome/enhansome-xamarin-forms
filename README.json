@@ -722,11 +722,11 @@
             "id": 16157746,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-25T00:23:19Z",
-            "open_issues": 2355,
+            "last_commit": "2026-11-26T00:58:28Z",
+            "open_issues": 2362,
             "owner": "dotnet",
             "repo": "efcore",
-            "stars": 14825,
+            "stars": 14827,
             "topics": [
               "aspnet-product",
               "c-sharp",
@@ -757,7 +757,7 @@
             "open_issues": 190,
             "owner": "litedb-org",
             "repo": "LiteDB",
-            "stars": 9491,
+            "stars": 9492,
             "topics": [
               "database",
               "dotnet",
@@ -805,7 +805,7 @@
             "open_issues": 7,
             "owner": "reactiveui",
             "repo": "Akavache",
-            "stars": 2548,
+            "stars": 2547,
             "topics": [
               "akavache",
               "c-sharp",
@@ -1079,7 +1079,7 @@
             "language": "C#",
             "license": "MS-PL",
             "last_commit": "2026-11-24T03:08:06Z",
-            "open_issues": 194,
+            "open_issues": 193,
             "owner": "MvvmCross",
             "repo": "MvvmCross",
             "stars": 3919,
@@ -1776,8 +1776,8 @@
             "id": 150206895,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-22T22:35:02Z",
-            "open_issues": 40,
+            "last_commit": "2026-11-25T05:47:44Z",
+            "open_issues": 39,
             "owner": "thudugala",
             "repo": "Plugin.LocalNotification",
             "stars": 475,
@@ -3914,7 +3914,7 @@
             "open_issues": 0,
             "owner": "xamarin",
             "repo": "xamarin-forms-samples",
-            "stars": 4239,
+            "stars": 4238,
             "topics": [
               "xamarin",
               "xamarin-forms"
@@ -3934,8 +3934,8 @@
             "id": 118641651,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-24T00:11:17Z",
-            "open_issues": 6,
+            "last_commit": "2026-11-26T00:10:33Z",
+            "open_issues": 3,
             "owner": "TheCodeTraveler",
             "repo": "AsyncAwaitBestPractices",
             "stars": 1855,
@@ -4372,7 +4372,7 @@
             "open_issues": 2965,
             "owner": "Genymobile",
             "repo": "scrcpy",
-            "stars": 155607,
+            "stars": 155734,
             "topics": [
               "android",
               "c",
@@ -4917,7 +4917,7 @@
             "open_issues": 0,
             "owner": "microcharts-dotnet",
             "repo": "Microcharts",
-            "stars": 2075,
+            "stars": 2076,
             "topics": [
               "android",
               "charts",
@@ -5563,7 +5563,7 @@
             "open_issues": 1,
             "owner": "AndreiMisiukevich",
             "repo": "ContextMenu",
-            "stars": 268,
+            "stars": 269,
             "topics": [
               "context-actions",
               "context-menu",
@@ -5589,7 +5589,7 @@
             "open_issues": 1,
             "owner": "AndreiMisiukevich",
             "repo": "ContextMenu",
-            "stars": 268,
+            "stars": 269,
             "topics": [
               "context-actions",
               "context-menu",
@@ -11769,7 +11769,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T01:51:16.931Z",
+    "last_updated": "2026-11-26T01:27:51.366Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Xamarin.Forms libraries and resources",
@@ -11781,7 +11781,7 @@
       "open_issues": 2,
       "owner": "jsuarezruiz",
       "repo": "awesome-xamarin-forms",
-      "stars": 1219,
+      "stars": 1220,
       "topics": [
         "animation",
         "awesome",
